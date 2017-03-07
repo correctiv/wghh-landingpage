@@ -1,0 +1,9 @@
+a.link, span.link{
+  color: $brand--secondary;
+  text-decoration: underline;
+  position: relative;
+  transition: color ease 250ms;
+  &:hover{
+  color: darken($brand--secondary, 10);
+  }
+}

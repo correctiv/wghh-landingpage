@@ -1,50 +1,23 @@
-# Jekyll Static Starter
-
-## Status: In Development
-
-```
-TODO:
-- [x] webpack: js modules
-- [x] webpack: js dependecies in seperate file
-- [x] webpack: sass compilation
-- [x] webpack: css autoprefixer
-- [x] webpack: env dependent settings
-- [x] webpack: image compression
-- [ ] page canonical in head tag
-- [ ] robots.txt
-- [ ] site map creation
-- [ ] contentful integration
-- [ ] deploy script
-- [ ] improve css sitemap
-- [ ] browser auto refresh (with webpack-dev-server ? )
-- [ ] 404 page
-```
+# Jekyll - Webpack Static Website Starter
 
 ## About
 
 > Starter files you can use to bootstrap new projects.
 
-Build fast. Build more. 
-
-Here you find files to help you build better website in shorts amount of time.
-
-Latest tech:
-- Static Site Generator (Jekyll)
-- Webpack asset pipeline
-- Node ES2015+ React (preact maybe soon!)
-- Contentful integration (so your clients can make changes!) **coming soon
-
 Ideal for:
 - Marketing teams that need to iterate website quickly
 - Setting up small client projects fast
 - Legitamizing business ideas
-- Experimenting with 
+- Experimenting with react (included) or other technologies
+- deploying to AWS, Netlify, or other static site hosting
+
+This example currently contains React, but this could be easily replaced with Vue, Preact, etc.
 
 ## Set up
 
 ### Requirements
-- Node    >= 6.9.5
-- NPM     >= 3.10.10
+- Node    >= 6.10.2
+- NPM     >= 5.1.0
 - Ruby    >= 2.3.0
 - Jekyll  >= 3.3.1
 - Bundler >= 1.14.4
@@ -66,25 +39,7 @@ Starting the project
 npm run dev
 ```
 
-Deploy to stage **coming soon
+Building for production
 ```bash
-npm run stage
+npm run build
 ```
-
-Deploy to prod (Netlify) **coming soon
-```bash
-npm run deploy
-```
-
-## Notes
-- Folder structure is close to jekyll-default, good for if you want to upload to Forestry or Cloudcannon. Need to remove _sass from exclude config setting to use these services. 
-
-## Big Thanks
-- generate-jekyll-vars
-- react-static-boilerplate
-- jekyll-webpack
-- webpack team
-- vscode, hypercode, iterm2 teams
-
----
-[MIT License](http://opensource.org/licenses/MIT).

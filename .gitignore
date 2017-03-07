@@ -5,3 +5,6 @@ _site
 jekyll-metadata
 *DS_Store
 node_modules
+dist
+src/sass/vendor
+_sass
