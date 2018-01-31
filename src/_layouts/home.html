@@ -1,0 +1,32 @@
+---
+layout: compress
+---
+{% assign theme = site.site-theme %}
+
+{% for class in page.main-classes %}
+  {% assign main-classes = '' | append: ' ' | append: class %}
+{% endfor %}
+{% if page.theme != nil %}
+  {% capture page_theme %}page.theme{% endcapture %}
+{% else %}
+  {% capture page_theme %}{{ theme }}{% endcapture %}
+{% endif %}
+<!DOCTYPE>
+<html>
+  {% include global/head.html %}
+  <body class="{{ page.page-name }}-page {{ page_theme }}">
+    {% include components/header.html %}
+    <main class="{{ main-classes }}">
+      <ul class="slides">
+        {% for slide in page.slides %}
+        <li>
+          <h1>{{ slide.title }}</h1>
+        </li>
+        {% endfor %}
+      </ul>
+      {{ content }}
+    </main>
+    {% include components/footer.html %}
+    {% include global/javascript.html %}
+  </body>
+</html>
