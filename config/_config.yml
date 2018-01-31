@@ -3,23 +3,19 @@
 # Contains site data, core jekyll config, plugin config, etc.
 
 ## Org settings
-title: Site title
-logo: /assets/images/global/logo.svg
-email: email
-phone: phone
-city: city
-state: state
-zip: zip
+title: Wem gehört Hamburg
 
 ## Site Description
 # used in meta tags
 description: >
-  I see pride. I see power. I see a badass starter that don't take no crap off of nobody!
+  Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur Existenzfrage.
+  Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich Mieter in Hamburg.
+  Vielleicht auch Sie?
+
 
 ## Core Site Settings
-# jekyll configuration 
+# jekyll configuration
 baseurl: ''
-url: 'http://carsonjon.es'
 permalink: none
 assets-base-url: '/assets/'
 source: src
@@ -41,11 +37,7 @@ gems:
 
 # SEO Specific Settings
 twitter:
-  username: carsonjonze
-  domain: carsonjon.es
+  username: correctiv_org
+  domain: correctiv.org
 facebook:
-  app_id: 
-social:
-  name: Carson Jones
-  links: 
-    - http://carsonjon.es
+  app_id:
