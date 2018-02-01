@@ -2,7 +2,7 @@
 title: Wghh Landingpage
 timezone: UTC
 collections:
-  content:
+  src-_pages:
     title: Content
     output: true
   posts:
