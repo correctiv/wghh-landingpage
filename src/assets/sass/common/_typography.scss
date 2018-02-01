@@ -64,6 +64,7 @@ body {
 @mixin heading-font-styles {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
+  transform: skewX(-5deg);
 }
 
 @mixin margin-helpers {
