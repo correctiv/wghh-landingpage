@@ -18,13 +18,69 @@ layout: compress
     {% include components/header.html %}
     <main class="{{ main-classes }}">
       <ul class="slides">
+        <li style="background-image: url(https://picsum.photos/1200/1204/)" class="hero">
+          <img src="assets/images/wghh-logo.png" alt="Wem gehört Hamburg Logo">
+        </li>
         {% for slide in page.slides %}
-        <li>
-          <h1>{{ slide.title }}</h1>
+        <li style="background-image: url({{ slide.image }})">
+          <div class="content">
+            <h1>{{ slide.title }}</h1>
+            <div class="teaser"> {{ slide.teaser }}</div>
+            <div class="main"> {{ slide.main }}</div>
+          </div>
         </li>
         {% endfor %}
       </ul>
-      {{ content }}
+      <div class="signup">
+        <div class="content">
+          <h1>Seien Sie dabei!</h1>
+          <div class="subheading">Ab April 2018 beginnen wir die gemeinsame Recherche.</div>
+          <div class="text">
+            Wir halten Sie schon vorher über das Projekt auf dem Laufenden. <br />
+            Tragen Sie sich in unseren Newsletter ein:
+            <form action="">
+              <input type="text">
+              <button>Anmelden</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="blog">
+        <div class="blogwrapper">
+          <h1>Blog</h1>
+          {% for article in page.blog %}
+            <div class="article">
+              <div class="imgwrapper">
+                <img src="{{ article.image }}" alt="">
+              </div>
+              <div class="copy">
+                <div class="meta">
+                  <span>{{article.date}}</span> | <span>{{ article.publisher }}</span>
+                </div>
+                <h2>{{ article.title }}</h2>
+                <div class="text">
+                  {{ article.text }}
+                  <a href="{{ article.link }}" class="articlelink">weiterlesen</a>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="partners">
+        <div class="title">Ein Projekt von:</div>
+        <div class="logos">
+          <div class="imgwrapper">
+            <img src="assets/images/logos/correctiv.jpg" alt="Correctiv Logo">
+          </div>
+          <div class="imgwrapper">
+            <img src="assets/images/logos/mietverein.png" alt="Mietverein Hamburg Logo">
+          </div>
+          <div class="imgwrapper">
+            <img src="assets/images/logos/abendblatt.png" alt="Hamburger Abendblatt Logo">
+          </div>
+        </div>
+      </div>
     </main>
     {% include components/footer.html %}
     {% include global/javascript.html %}

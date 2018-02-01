@@ -1,0 +1,79 @@
+$content-width: 600px;
+
+.slides li
+  height: 100%
+  display: flex
+  justify-content: center
+  align-items: center
+  background-repeat: no-repeat
+  background-size: cover
+  margin-bottom: 40px
+
+  .content
+    background: white
+    width: $content-width
+    padding: 3em
+    text-align: center
+
+    .teaser
+      font-size: 20px
+      line-height: 30px
+      margin-bottom: 1em
+
+    .main
+      font-size: 16px
+      line-height: 26px
+
+  &.hero
+    img
+      width: 400px
+
+
+.logos
+  display: flex
+  justify-content: space-around
+
+  .imgwrapper
+    max-width: 30%
+    display: flex
+    align-items: center
+
+    img
+      width: 100%
+      height: auto
+
+  .title
+    text-align: center
+    width: 100%
+
+
+.blog
+  justify-content: space-around
+  display: flex
+
+  .article
+    display: flex
+    width: 600px
+
+    .imgwrapper
+      max-width: 200px
+
+
+    .copy
+      padding: 1em
+
+    .articlelink
+      color: $brand
+
+.signup
+  background: $brand
+  color: white
+  display: flex
+  justify-content: center
+
+
+  .content
+    width: $content-width
+
+  h1
+    color: white
