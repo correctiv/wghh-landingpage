@@ -1,15 +1,12 @@
 ---
+title: Talkin Markdown
+permalink: "/markdown/"
 layout: default
-
 page-hidden: false
 page-name: markdown
-permalink: /markdown/
-
 main-classes:
-  - content
-
-title: Talkin Markdown
-description:  You talking about markdown?
+- content
+description: You talking about markdown?
 ---
 
 # You kick flip
