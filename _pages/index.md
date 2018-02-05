@@ -1,7 +1,6 @@
 ---
 title: WGHH - Wem gehört Hamburg?
 permalink: "/"
-layout: home
 page-hidden: false
 page-name: main
 description: Homepage Description
@@ -39,5 +38,14 @@ blog:
     lesen oder hören. Im Januar startet eine Kampagne mit dem Ziel, mehr Transparenz
     auf dem Hamburger Wohnungsmarkt zu schaffen.
   link: https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wem-gehoert-unser-hamburg-start-einer-mieter-recherche/index.html
+- title: Wem gehört Hamburg?
+  date: 2017-12-13 00:00:00 Z
+  publisher: CORRECTIV
+  image: http://bschubert.net/wghh/wp-content/uploads/2018/01/thumb2.jpg
+  text: 'Sie sind Mieter in Hamburg – dann schließen wir uns zusammen. Gemeinsam mit
+    Ihnen, den Mietern, wollen wir wissen, wer die wahren Eigentümer der Mietwohnungen
+    in Hamburg sind. '
+  link: https://correctiv.org/hamburg
+layout: home
 ---
 
