@@ -71,10 +71,6 @@ const getPlugins = (isProduction) => {
           from: path.resolve(__dirname, ROOT, 'assets/video'),
           to: path.resolve(__dirname, ROOT, 'dist/assets/video')
         },
-        {
-          from: path.resolve(__dirname, ROOT, 'assets/fonts'),
-          to: path.resolve(__dirname, ROOT, 'dist/assets/fonts')
-        }
       ],
       {
         ignore: ['*.keep', '*.psd', '*.sketch']
@@ -141,7 +137,7 @@ const getRules = (isProduction) => {
       options: {
         limit: 50000,
         mimetype: 'application/font-woff',
-        name: './assets/fonts/[name].[ext]',
+        name: './assets/fonts/[name]/[name].[ext]',
         publicPath: '../',
       }
     }
