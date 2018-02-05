@@ -19,11 +19,15 @@ layout: compress
     {% include components/header.html %}
     <main class="{{ main-classes }}">
       <ul class="slides">
-        <li style="background-image: url(https://picsum.photos/1200/1204/)" class="hero">
-          <img src="assets/images/wghh-logo.png" alt="Wem gehört Hamburg Logo">
 
+        <li class="hero">
+          <video autoplay muted loop>
+            <source src="assets/video/flyover.mp4" type="video/mp4">
+          </video>
+          <img style="z-index: 1" src="assets/images/wghh-logo.png" alt="Wem gehört Hamburg Logo">
           <a href="#slide-{{forloop.index | plus: 1}}" class="scroller"><img src="assets/images/pfeil.svg"></a>
         </li>
+
         {% for slide in page.slides %}
         <li style="background-image: url({{ slide.image.src }})" id="slide-{{forloop.index}}">
           <div class="content">
