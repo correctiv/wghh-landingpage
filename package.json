@@ -12,7 +12,7 @@
     "build:stage": "yarn run clean && yarn run webpack && yarn run jekyll:stage",
     "jekyll": "cross-env JEKYLL_ENV=production bundle exec jekyll build --config config/_config.yml",
     "jekyll:stage": "cross-env JEKYLL_ENV=staging bundle exec jekyll build --config config/_config.yml,config/_config.staging.yml",
-    "jekyll:dev": "cross-env JEKYLL_ENV=development bundle exec jekyll serve --config config/_config.yml,config/_config.dev.yml --watch -H 0.0.0.0 -P 4000",
+    "jekyll:dev": "cross-env JEKYLL_ENV=development bundle exec jekyll serve --config config/_config.yml,config/_config.yml --watch -H 0.0.0.0 -P 4000",
     "webpack": "cross-env NODE_ENV=production webpack --env.production --progress --config config/webpack.config.js --define process.env.NODE_ENV=\"production\"",
     "webpack:dev": "cross-env NODE_ENV=development webpack-dev-server --config config/webpack.config.js --colors"
   },
