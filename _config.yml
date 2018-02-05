@@ -11,3 +11,6 @@ collections:
   uploads:
     title: Uploads
     output: true
+  pages:
+    title: pages
+    output: true
