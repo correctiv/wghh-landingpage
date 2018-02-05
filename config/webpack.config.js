@@ -14,13 +14,13 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 const ROOT = '../';
 const paths = {
-  src: path.join(__dirname, ROOT, './src'),
+  src: path.join(__dirname, ROOT, '.'),
   dist: path.join(__dirname, ROOT, './dist'),
-  js: path.join(__dirname, ROOT, './src/assets/js'),
-  sass: path.join(__dirname, ROOT, './src/assets/sass'),
-  images: path.join(__dirname, ROOT, './src/assets/images'),
-  fonts: path.join(__dirname, ROOT, './src/assets/fonts'),
-  resources: path.join(__dirname, ROOT, './src/assets/resources'),
+  js: path.join(__dirname, ROOT, './assets/js'),
+  sass: path.join(__dirname, ROOT, './assets/sass'),
+  images: path.join(__dirname, ROOT, './assets/images'),
+  fonts: path.join(__dirname, ROOT, './assets/fonts'),
+  resources: path.join(__dirname, ROOT, './assets/resources'),
 }
 
 const getPlugins = (isProduction) => {
@@ -60,19 +60,19 @@ const getPlugins = (isProduction) => {
     new CopyWebpackPlugin(
       [
         {
-          from: path.resolve(__dirname, ROOT, 'src/assets/images/'),
+          from: path.resolve(__dirname, ROOT, 'assets/images/'),
           to: path.resolve(__dirname, ROOT, 'dist/assets/images')
         },
         {
-          from: path.resolve(__dirname, ROOT, 'src/assets/resources'),
+          from: path.resolve(__dirname, ROOT, 'assets/resources'),
           to: path.resolve(__dirname, ROOT, 'dist/assets/resources')
         },
         {
-          from: path.resolve(__dirname, ROOT, 'src/assets/video'),
+          from: path.resolve(__dirname, ROOT, 'assets/video'),
           to: path.resolve(__dirname, ROOT, 'dist/assets/video')
         },
         {
-          from: path.resolve(__dirname, ROOT, 'src/assets/fonts'),
+          from: path.resolve(__dirname, ROOT, 'assets/fonts'),
           to: path.resolve(__dirname, ROOT, 'dist/assets/fonts')
         }
       ],
@@ -175,13 +175,13 @@ const getRules = (isProduction) => {
   }
 
   return rules;
-} 
+}
 
 module.exports = (env = {}) => {
   const isProduction = env.production === true;
   const envInfo = (isProduction) ? 'production' : 'development';
   console.log(`Running Webpack: ${envInfo}`);
-  return { 
+  return {
     devtool: (()=>{
       if (isProduction) return 'hidden-source-map';
       else return 'eval-source-map';
@@ -219,7 +219,7 @@ module.exports = (env = {}) => {
       children: false,
     },
     devServer: {
-      contentBase: isProduction ? './dist' : './src',
+      contentBase: isProduction ? './dist' : '.',
       historyApiFallback: true,
       port: 3000,
       compress: isProduction,

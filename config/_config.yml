@@ -17,8 +17,7 @@ description: >
 # jekyll configuration
 baseurl: ''
 permalink: none
-assets-base-url: '/assets/'
-source: src
+source: .
 destination: dist
 site-theme: default
 compress_html:
