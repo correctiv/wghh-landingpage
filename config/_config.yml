@@ -27,7 +27,7 @@ compress_html:
     envs: ['dev']
 # modules
 include: ['_pages', '_posts', '_data']
-exclude: ['js', 'sass', 'node_modules', Gemfile, Gemfile.lock, notes.txt, package.json, README.md, 'bower.json']
+exclude: ['assets/js', 'assets/sass', 'assets/fonts', 'node_modules', Gemfile, Gemfile.lock, notes.txt, package.json, README.md, 'bower.json']
 keep_files:
   - assets
 markdown: kramdown
