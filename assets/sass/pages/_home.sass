@@ -1,5 +1,9 @@
 $content-width: 600px;
 
+main
+  @include mq($until: $sm)
+    padding: 0 0 !important
+
 .slides li
   height: 100%
   display: flex
@@ -12,6 +16,7 @@ $content-width: 600px;
   .content
     background: white
     width: $content-width
+    max-width: 90%
     padding: 3em
     text-align: center
 
