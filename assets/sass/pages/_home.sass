@@ -114,17 +114,36 @@ main
   h1
     text-align: center
 
-  .meta
-    color: gray
-
   .article
-    display: flex
-    width: 600px
+    display: grid
+    grid-template-columns: 1fr 3fr
+    grid-template-rows: 1.5em
+    max-width: 600px
     margin-top: 2em
+
+
+    .imgwrapper
+      grid-column: 1
+      grid-row: 1
+
+    .meta, h2, .text
+      grid-column: 2
+      padding-left: 10px
+
+    .meta
+      grid-row: 1
+
+    h2
+      grid-row: 2
+
+    .text
+      grid-row: 3
+
+    .meta
+      color: gray
 
     h2
       line-height: 1em
-
 
     .imgwrapper
       max-width: 200px
@@ -136,6 +155,10 @@ main
     .articlelink
       color: $brand
 
+    @include mq($until: $sm)
+      .text
+        grid-row: 3
+        grid-column: 1 / span 2
 
 .partners
   max-width: $breakout-width
