@@ -59,25 +59,6 @@ main
     text-align: center
     width: 100%
 
-
-.blog
-  justify-content: space-around
-  display: flex
-
-  .article
-    display: flex
-    width: 600px
-
-    .imgwrapper
-      max-width: 200px
-
-
-    .copy
-      padding: 1em
-
-    .articlelink
-      color: $brand
-
 .signup
   max-width: $breakout-width
   margin: 0 auto
@@ -85,6 +66,11 @@ main
   color: white
   display: flex
   justify-content: center
+  text-align: center
+  padding: 40px 0
+
+  p
+    line-height: 1.6em !important
 
   #mc-embedded-subscribe
     background-color: white
@@ -119,6 +105,38 @@ main
   h1, h2, p
     color: white
 
+.blog
+  justify-content: space-around
+  display: flex
+  margin-top: 3em
+
+  h1
+    text-align: center
+
+  .meta
+    color: gray
+
+  .article
+    display: flex
+    width: 600px
+    margin-top: 2em
+
+    h2
+      line-height: 1em
+
+
+    .imgwrapper
+      max-width: 200px
+
+    .copy
+      padding: 0 1em 1em 1em
+      line-height: 1.4em
+
+    .articlelink
+      color: $brand
+
+
 .partners
   max-width: $breakout-width
-  margin: 0 auto
+  margin: 8em auto
+  text-align: center
