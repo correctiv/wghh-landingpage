@@ -5,6 +5,46 @@ main
   @include mq($until: $sm)
     padding: 0 0 !important
 
+.header
+  position: fixed
+  z-index: 3
+  left: 0
+  right: 0
+  background-color: rgba(0, 0, 0, 0.8)
+  display: flex
+  justify-content: space-between
+  flex-wrap: wrap
+
+  ul
+    width: 40%
+
+  @include mq($until: $sm)
+    ul
+      width: 100%
+
+  ul.logos
+    align-items: center
+
+    img
+      height: 40px
+
+  ul li
+    list-style-type: none
+    display: inline
+
+  ul.navigation
+    color: white
+    height: 50px
+    display: flex
+    align-items: center
+    max-width: 380px
+    justify-content: space-around
+
+    .join
+      padding: .3em
+      background-color: $brand
+
+
 @keyframes bounce
   0%
     bottom: 10%
@@ -99,6 +139,9 @@ main
   text-align: center
   padding: 40px 0
 
+  @include mq($until: $sm)
+    padding: 5px
+
   p
     line-height: 1.6em !important
 
@@ -140,6 +183,12 @@ main
   display: flex
   margin-top: 3em
 
+  @include mq($until: $sm)
+    padding: 5px
+
+    .article .text
+      padding-left: 0 !important
+
   h1
     text-align: center
 
@@ -173,12 +222,14 @@ main
 
     h2
       line-height: 1em
+      font-size: 1.4em
+      font-family: "PT Sans" sans-serif;
+      transform: none
 
     .imgwrapper
       max-width: 200px
 
-    .copy
-      padding: 0 1em 1em 1em
+    .text
       line-height: 1.4em
 
     .articlelink
