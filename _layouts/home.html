@@ -21,19 +21,27 @@ layout: compress
       <ul class="slides">
         <li style="background-image: url(https://picsum.photos/1200/1204/)" class="hero">
           <img src="assets/images/wghh-logo.png" alt="Wem gehört Hamburg Logo">
+
+          <a href="#slide-{{forloop.index | plus: 1}}" class="scroller"><img src="assets/images/pfeil.svg"></a>
         </li>
         {% for slide in page.slides %}
-        <li style="background-image: url({{ slide.image.src }})">
+        <li style="background-image: url({{ slide.image.src }})" id="slide-{{forloop.index}}">
           <div class="content">
             <h1>{{ slide.title }}</h1>
             <div class="teaser"> {{ slide.teaser }}</div>
             <div class="main"> {{ slide.main }}</div>
+
+            {% if forloop.last %}
+              <a href="#signup"><img src="assets/images/pfeil.svg" style="width: 30px; margin-top: 1em;"></a>
+            {% else %}
+              <a href="#slide-{{forloop.index | plus: 1}}"><img src="assets/images/pfeil.svg" style="width: 30px; margin-top: 1em;"></a>
+            {% endif %}
           </div>
           <a class="attribution" href="{{slide.image.url}}">{{slide.image.attribution}}</a>
         </li>
         {% endfor %}
       </ul>
-      <div class="signup">
+      <div class="signup" id="signup">
         <div class="content">
           <div class="text">
             <div id="mc_embed_signup">
