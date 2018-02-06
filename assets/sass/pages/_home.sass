@@ -1,4 +1,5 @@
-$content-width: 600px;
+$content-width: 600px
+$breakout-width: 800px
 
 main
   @include mq($until: $sm)
@@ -78,6 +79,8 @@ main
       color: $brand
 
 .signup
+  max-width: $breakout-width
+  margin: 0 auto
   background: $brand
   color: white
   display: flex
@@ -110,10 +113,12 @@ main
     border-radius: 0
     border: none
 
-
-
   .content
     width: $content-width
 
   h1, h2, p
     color: white
+
+.partners
+  max-width: $breakout-width
+  margin: 0 auto
