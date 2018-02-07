@@ -68,29 +68,6 @@ main
   &:not(:first-child)
     padding: 2em 0
 
-
-  .attribution
-    position: absolute
-    background-color: white
-    bottom: 0
-    right: 0
-
-  .content
-    background: white
-    width: $content-width
-    max-width: 90%
-    padding: 3em
-    text-align: center
-
-    .teaser
-      font-size: 20px
-      line-height: 30px
-      margin-bottom: 1em
-
-    .main
-      font-size: 16px
-      line-height: 26px
-
   &.hero
     @include mq($until: $sm)
       background-image: url(assets/images/flyover.jpg)
@@ -99,7 +76,7 @@ main
 
     video
       width: auto
-      height: auto
+      height: 100vh
       min-width: 100%
       min-height: 100%
       object-fit: cover
@@ -128,6 +105,30 @@ main
       img
         margin-top: 7px
         width: 30px
+
+  .attribution
+    position: absolute
+    background-color: white
+    bottom: 0
+    right: 0
+
+  .content
+    background: white
+    width: $content-width
+    max-width: 90%
+    padding: 3em
+    text-align: center
+
+    .teaser
+      font-size: 20px
+      line-height: 30px
+      margin-bottom: 1em
+
+    .main
+      font-size: 16px
+      line-height: 26px
+
+
 
 
 
