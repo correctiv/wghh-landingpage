@@ -67,5 +67,17 @@ layout: compress
       {% include footer.html %}
     {% include components/footer.html %}
     {% include global/javascript.html %}
+    <script>
+      Array.from(document.querySelectorAll('a[href*="#"]')).forEach(a => {
+        a.onclick = (e) => {
+          e.preventDefault();
+          var selector = a.getAttribute('href');
+          var target = document.querySelector(selector);
+          target.scrollIntoView({behavior: 'smooth'});
+          target.focus();
+          history.replaceState(null, null, selector);
+        }
+      });
+    </script>
   </body>
 </html>
