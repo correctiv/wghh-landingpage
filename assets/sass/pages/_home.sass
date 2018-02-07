@@ -92,9 +92,23 @@ main
       line-height: 26px
 
   &.hero
-    img
+    @include mq($until: $sm)
+      background-image: url(assets/images/flyover.jpg)
+      video
+        display: none
+
+    video
+      width: auto
+      height: auto
+      min-width: 100%
+      min-height: 100%
+      object-fit: cover
+
+    img.wghh-logo
       width: 400px
       position: absolute
+      z-index: 1
+      max-width: 80%
 
     .scroller
       z-index: 3
@@ -115,12 +129,7 @@ main
         margin-top: 7px
         width: 30px
 
-    video
-      width: auto
-      height: auto
-      min-width: 100%
-      min-height: 100%
-      object-fit: cover
+
 
 .logos
   display: flex
