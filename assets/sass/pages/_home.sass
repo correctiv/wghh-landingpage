@@ -265,13 +265,20 @@ main
   margin: 8em auto
   text-align: center
 
-  #correctiv-logo
-    height: 72px
-    margin-top: 14px
+  .logos
+    display: flex
+    flex-wrap: wrap
+
+    .imgwrapper
+      min-width: 200px
+
+    #correctiv-logo
+      height: 72px
+      width: 185px
+      margin-top: 14px
 
 .footer
   max-width: $content-width
-  padding: 0 100px
   margin: 8em auto
   text-align: center
   color: gray
