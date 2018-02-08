@@ -8,7 +8,7 @@ main-classes: spaced
 layout: general
 ---
 
-# Warum betrifft es die Mieter?
+## Warum betrifft es die Mieter?
 
 Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur Existenzfrage. Kann ich mir ein Leben in der Stadt noch leisten, fragen sich Mieter in Hamburg. Die hohen Preise haben Ursachen. Der wichtigste Grund: Mit Wohnungen lassen sich Geschäfte machen. Hamburg zählen Investoren zu den lukrativsten Städten in Deutschland. Doch die meisten Eigentümer sind unbekannt. Hinter manchen Vermietern verstecken sich Briefkastenfirmen. Viele Immobilien sind Teil großer Spekulationsgeschäfte. 
 
