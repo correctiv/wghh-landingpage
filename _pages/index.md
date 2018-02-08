@@ -55,6 +55,9 @@ blog:
     Ihnen, den Mietern, wollen wir wissen, wer die wahren Eigentümer der Mietwohnungen
     in Hamburg sind. '
   link: https://correctiv.org/hamburg
+newsletter:
+  title: Newsletter zur Immobilien-Recherche
+  copy: Sie sind am Projekt interessiert? Sie wollen sich beteiligen? Tragen Sie sich in unseren Newsletter ein. Und wir halten Sie über das Projekt auf dem Laufenden.
 layout: home
 ---
 
