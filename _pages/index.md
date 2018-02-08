@@ -57,7 +57,8 @@ blog:
   link: https://correctiv.org/hamburg
 newsletter:
   title: Newsletter zur Immobilien-Recherche
-  copy: Sie sind am Projekt interessiert? Sie wollen sich beteiligen? Tragen Sie sich in unseren Newsletter ein. Und wir halten Sie über das Projekt auf dem Laufenden.
+  copy: Sie sind am Projekt interessiert? Sie wollen sich beteiligen? Tragen Sie sich
+    in unseren Newsletter ein. Und wir halten Sie über das Projekt auf dem Laufenden.
 layout: home
 ---
 
