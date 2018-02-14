@@ -16,24 +16,23 @@ slides:
     src: assets/images/cafe.jpg
     url: https://www.flickr.com/photos/franganillo/36575563474
     attribution: CC BY 2.0 “Hamburg” Jorge Franganillo
-- title: Wer spielt mit Ihrer Miete?
-  teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
-    Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
-    Mieter in Hamburg. Vielleicht auch Sie?
-  main: 'Die hohen Preise haben Ursachen. Ein wichtiger Grund: Mit Wohnungen lassen
-    sich Geschäfte machen. Hamburg ist für Investoren einer der lukrativsten Städte
-    in Europa. Doch die Eigentümer bleiben der Öffentlichkeit verborgen.'
+- title: Wer spielt mit Ihrer Wohnung?
+  teaser: Viele Immobilien sind Teil großer Spekulationen oder werden für fragwürdige
+    Geschäfte benutzt. Hinter manchen Vermietern stehen anonyme Briefkastenfirmen.
+  main: 'Das hat Konsequenzen. Für viele Mieter sind die Eigentümer nur schwer erreichbar.
+    Vielleicht kennen sie noch nicht einmal den wahren Inhaber. Auch die Politik hat
+    keinen flächendeckenden Überblick, wem die Stadt gehört. '
   image:
     src: assets/images/house.jpg
     url: https://www.flickr.com/photos/twicepix/6516380427/
     attribution: CC BY-SA 2.0 “building” Martin Abegglen
 - title: Sie sind gefragt!
-  teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
-    Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
-    Mieter in Hamburg. Vielleicht auch Sie?
-  main: 'Die hohen Preise haben Ursachen. Ein wichtiger Grund: Mit Wohnungen lassen
-    sich Geschäfte machen. Hamburg ist für Investoren einer der lukrativsten Städte
-    in Europa. Doch die Eigentümer bleiben der Öffentlichkeit verborgen.'
+  teaser: Wir wollen mit Ihnen aufdecken, wer mit ihrer Wohnung spielt. Ihre Miete
+    erhöht oder sich nicht um Reparaturen kümmert. Gemeinsam finden wir heraus, wer
+    von der Intransparenz im Immobilienmarkt profitiert.
+  main: 'Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
+    Hamburgs, die an der Wohnsituation in ihrer Stadt etwas ändern wollen. Und Journalisten,
+    die benennen werden, wer die Missstände im Hamburger Immobilienmarkt verantwortet. '
   image:
     src: assets/images/bridge.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
@@ -56,9 +55,10 @@ blog:
     in Hamburg sind. '
   link: https://correctiv.org/hamburg
 newsletter:
-  title: Newsletter zur Immobilien-Recherche
-  copy: Sie sind am Projekt interessiert? Sie wollen sich beteiligen? Tragen Sie sich
-    in unseren Newsletter ein. Und wir halten Sie über das Projekt auf dem Laufenden.
+  title: Seien Sie dabei!
+  copy: Tragen Sie sich in unseren Newsletter ein. Wir halten Sie schon jetzt über
+    das Projekt und unsere Veröffentlichungen zum Wohnungsmarkt auf dem Laufenden.
+    Ab April 2018 beginnen wir die gemeinsame Recherche.
 layout: home
 ---
 
