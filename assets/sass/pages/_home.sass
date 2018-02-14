@@ -157,10 +157,7 @@ main
   display: flex
   justify-content: center
   text-align: center
-  padding: 40px 0
-
-  @include mq($until: $sm)
-    padding: 5px
+  padding: 2em
 
   p
     line-height: 1.6em !important
@@ -203,12 +200,6 @@ main
   display: flex
   margin-top: 3em
 
-  @include mq($until: $sm)
-    padding: 5px
-
-    .article .text
-      padding-left: 0 !important
-
   h1
     text-align: center
 
@@ -238,9 +229,16 @@ main
     .articlelink
       color: $brand
 
-  @include mq($until: $sm)
+@include mq($until: $sm)
+  .blog
+    padding: 5px
+
+    .article .text
+      padding-left: 0 !important
+
     .imgwrapper
       display: none
+
     .copy
       padding-left: 0
 
@@ -261,6 +259,7 @@ main
       width: 185px
       margin-top: 14px
 
+
 .footer
   max-width: $content-width
   margin: 8em auto
@@ -270,3 +269,4 @@ main
   ul
     display: flex
     justify-content: space-around
+
