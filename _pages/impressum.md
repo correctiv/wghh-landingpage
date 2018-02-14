@@ -1,8 +1,8 @@
 ---
 title: Wem gehört Hamburg - Impressum
+permalink: "/impressum"
 nav-name: Impressum
 type: footer
-permalink: "/impressum"
 page-hidden: false
 page-name: main
 main-classes: spaced
