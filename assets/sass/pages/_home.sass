@@ -217,15 +217,17 @@ main
 
   .article
     display: flex
-    width: 600px
+    max-width: 600px
     margin-top: 2em
+
+    .copy
+      padding-left: 1em
 
     h2
       line-height: 1em
       font-size: 1.4em
       font-family: "PT Sans", sans-serif
       transform: none
-
 
     .imgwrapper
       max-width: 200px
@@ -236,6 +238,11 @@ main
     .articlelink
       color: $brand
 
+  @include mq($until: $sm)
+    .imgwrapper
+      display: none
+    .copy
+      padding-left: 0
 
 .partners
   max-width: $breakout-width
