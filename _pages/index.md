@@ -1,9 +1,10 @@
 ---
-title: WGHH - Wem gehört Hamburg?
+title: Wem gehört Hamburg?
 permalink: "/"
 page-hidden: false
 page-name: main
-description: Homepage Description
+description: Eine Recherche.
+image: /assets/images/wghh-teaser.jpg
 slides:
 - title: Wem gehört Hamburg?
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
