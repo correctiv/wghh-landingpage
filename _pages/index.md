@@ -3,6 +3,9 @@ title: Wem gehört Hamburg?
 permalink: "/"
 page-hidden: false
 page-name: main
+nav-name: Start
+type: header
+nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 slides:
 - title: Wem gehört Hamburg?

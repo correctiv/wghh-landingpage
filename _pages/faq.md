@@ -3,6 +3,9 @@ title: WGHH - FAQ
 permalink: "/ueber"
 page-hidden: false
 page-name: main
+type: header
+nav-name: FAQ
+nav-order: 5
 main-classes: spaced
 layout: general
 ---

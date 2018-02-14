@@ -1,4 +1,6 @@
 <!-- Header -->
+{% assign headerlinks = site.pages | where: "type", "header" | sort : "nav-order" %}
+
 <div class="header">
   <ul class="logos">
     <li><img src="assets/images/headerlogos/correctiv.png" alt=""></li>
@@ -6,10 +8,10 @@
     <li><img src="assets/images/headerlogos/abendblatt.png" alt=""></li>
   </ul>
   <ul class="navigation">
-    <li><a href="/">Start</a></li>
-    <li><a href="/ueber">Über</a></li>
-    <li><a href="">FAQ</a></li>
-    <li><a href="">Kontakt</a></li>
-    <li><a href="#signup" class="join">Mitmachen</a></li>
+
+    {% for item in headerlinks %}
+      <li><a href="{{item.permalink}}">{{item.nav-name}}</a></li>
+    {% endfor %}
+    <li><a href="/#signup" class="join">Mitmachen</a></li>
   </ul>
 </div>
