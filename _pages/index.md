@@ -15,7 +15,6 @@ slides:
   image:
     src: assets/images/1.jpg
     url: https://www.flickr.com/photos/franganillo/36575563474
-    attribution: CC BY 2.0 “Hamburg” Jorge Franganillo
 - title: Wer spielt mit Ihrer Miete?
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -26,7 +25,6 @@ slides:
   image:
     src: assets/images/2.jpg
     url: https://www.flickr.com/photos/twicepix/6516380427/
-    attribution: CC BY-SA 2.0 “building” Martin Abegglen
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -37,7 +35,6 @@ slides:
   image:
     src: assets/images/3.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -48,7 +45,6 @@ slides:
   image:
     src: assets/images/4.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -59,7 +55,6 @@ slides:
   image:
     src: assets/images/5.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -70,7 +65,6 @@ slides:
   image:
     src: assets/images/6.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens    
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -81,7 +75,6 @@ slides:
   image:
     src: assets/images/7.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -92,7 +85,6 @@ slides:
   image:
     src: assets/images/8.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -103,7 +95,6 @@ slides:
   image:
     src: assets/images/9.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -114,7 +105,6 @@ slides:
   image:
     src: assets/images/10.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 - title: Sie sind gefragt!
   teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
     Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
@@ -125,7 +115,6 @@ slides:
   image:
     src: assets/images/11.jpg
     url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
 blog:
 - title: Wem gehört unser Hamburg? Start einer Mieter-Recherche!
   date: 2017-12-20 00:00:00 Z
