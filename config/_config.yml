@@ -15,11 +15,12 @@ description: >
 
 ## Core Site Settings
 # jekyll configuration
-baseurl: ''
+baseurl: https://wem-gehoert-hamburg.de
 permalink: none
 source: .
 destination: dist
 site-theme: default
+image: assets/images/wghh-teaser.jpg
 compress_html:
   clippings: all
   comments: all
@@ -35,6 +36,7 @@ gems:
   - jekyll-seo-tag
 
 # SEO Specific Settings
+url: https://wem-gehoert-hamburg.de
 twitter:
   username: correctiv_org
   domain: correctiv.org
