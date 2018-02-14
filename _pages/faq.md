@@ -3,7 +3,6 @@ title: WGHH - FAQ
 permalink: "/ueber"
 page-hidden: false
 page-name: main
-description: Alle Informationen
 main-classes: spaced
 layout: general
 ---
