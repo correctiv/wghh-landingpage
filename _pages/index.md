@@ -21,7 +21,7 @@ slides:
     Vielleicht kennen sie noch nicht einmal den wahren Inhaber. Auch die Politik hat
     keinen flächendeckenden Überblick, wem die Stadt gehört. '
   image:
-      src: assets/images/2.jpg
+    src: assets/images/2.jpg
 - title: Sie sind gefragt!
   teaser: Wir wollen mit Ihnen aufdecken, wer mit ihrer Wohnung spielt. Ihre Miete
     erhöht oder sich nicht um Reparaturen kümmert. Gemeinsam finden wir heraus, wer
