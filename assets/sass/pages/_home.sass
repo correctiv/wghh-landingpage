@@ -22,6 +22,10 @@ main
     ul
       width: 100%
 
+  @include mq($from: $sm)
+    ul.navigation
+      max-width: 380px
+
   ul.logos
     align-items: center
 
@@ -37,7 +41,6 @@ main
     height: 50px
     display: flex
     align-items: center
-    max-width: 380px
     justify-content: space-around
 
     .join
