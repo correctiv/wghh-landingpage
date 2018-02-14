@@ -31,4 +31,12 @@ body{
 
 .spaced {
   margin-top: 8em;
+  .wrapper{
+    display: flex;
+    justify-content: center;
+  }
+
+  .content {
+    max-width: $content-width;
+  }
 }

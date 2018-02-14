@@ -19,6 +19,10 @@ $mq-breakpoints: (
 // add custom breakpoint
 // @include mq-add-breakpoint(tvscreen, 1920px);
 
+$content-width: 600px;
+$breakout-width: 800px;
+$inset-width: 400px;
+
 @import 'colors';
 
 
