@@ -13,9 +13,7 @@ slides:
     sich Geschäfte machen. Hamburg ist für Investoren einer der lukrativsten Städte
     in Europa. Doch die Eigentümer bleiben der Öffentlichkeit verborgen.'
   image:
-    src: assets/images/cafe.jpg
-    url: https://www.flickr.com/photos/franganillo/36575563474
-    attribution: CC BY 2.0 “Hamburg” Jorge Franganillo
+    src: assets/images/1.jpg
 - title: Wer spielt mit Ihrer Wohnung?
   teaser: Viele Immobilien sind Teil großer Spekulationen oder werden für fragwürdige
     Geschäfte benutzt. Hinter manchen Vermietern stehen anonyme Briefkastenfirmen.
@@ -23,9 +21,7 @@ slides:
     Vielleicht kennen sie noch nicht einmal den wahren Inhaber. Auch die Politik hat
     keinen flächendeckenden Überblick, wem die Stadt gehört. '
   image:
-    src: assets/images/house.jpg
-    url: https://www.flickr.com/photos/twicepix/6516380427/
-    attribution: CC BY-SA 2.0 “building” Martin Abegglen
+      src: assets/images/2.jpg
 - title: Sie sind gefragt!
   teaser: Wir wollen mit Ihnen aufdecken, wer mit ihrer Wohnung spielt. Ihre Miete
     erhöht oder sich nicht um Reparaturen kümmert. Gemeinsam finden wir heraus, wer
@@ -34,9 +30,7 @@ slides:
     Hamburgs, die an der Wohnsituation in ihrer Stadt etwas ändern wollen. Und Journalisten,
     die benennen werden, wer die Missstände im Hamburger Immobilienmarkt verantwortet. '
   image:
-    src: assets/images/bridge.jpg
-    url: https://www.flickr.com/photos/micha1968/23507998829/
-    attribution: CC BY-ND 2.0 “Graskellerbrücke II” Michael Behrens
+    src: assets/images/3.jpg
 blog:
 - title: Wem gehört unser Hamburg? Start einer Mieter-Recherche!
   date: 2017-12-20 00:00:00 Z

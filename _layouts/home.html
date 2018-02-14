@@ -20,7 +20,7 @@ layout: compress
     <main class="{{ main-classes }}">
       <ul class="slides">
         <li class="hero">
-          <video autoplay muted loop>
+          <video muted loop id="video" poster="assets/images/flyover.jpg" preload="none">
             <source src="assets/video/flyover.mp4" type="video/mp4">
           </video>
           <div class="attribution">GeoBasis-DE/BKG (© 2009) Google</div>
@@ -41,7 +41,6 @@ layout: compress
               <a href="#slide-{{forloop.index | plus: 1}}"><img src="assets/images/pfeil.svg" style="width: 30px; margin-top: 1em;"></a>
             {% endif %}
           </div>
-          <a class="attribution" href="{{slide.image.url}}">{{slide.image.attribution}}</a>
         </li>
         {% endfor %}
       </ul>
@@ -69,6 +68,11 @@ layout: compress
     {% include components/footer.html %}
     {% include global/javascript.html %}
     <script>
+      if (document.body.clientWidth > 768) {
+        document.getElementById("video").autoplay = true;
+        document.getElementById("video").play();
+      }
+
       var links = document.querySelectorAll('a[href*="#"]');
       [].forEach.call(links, function(a) {
         a.onclick = function(e){
