@@ -10,7 +10,7 @@
         <div class="meta">
           <span>{{article.date | date: "%d. %m. %Y" }}</span> | <span>{{ article.publisher }}</span>
         </div>
-        <h2>{{ article.title }}</h2>
+        <h2><a href="{{ article.link }}">{{ article.title }}</a></h2>
         <div class="text">
           {{ article.text }}
           <a href="{{ article.link }}" class="articlelink">weiterlesen</a>
