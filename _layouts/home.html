@@ -20,7 +20,7 @@ layout: compress
     <main class="{{ main-classes }}">
       <ul class="slides">
         <li class="hero">
-          <video muted loop id="video" poster="assets/images/flyover.jpg">
+          <video muted loop id="video" poster="assets/images/flyover.jpg" preload="none">
             <source src="assets/video/flyover.mp4" type="video/mp4">
           </video>
           <img class=wghh-logo src="assets/images/wghh-logo.png" alt="Wem gehört Hamburg Logo">
@@ -69,6 +69,7 @@ layout: compress
     <script>
       if (document.body.clientWidth > 768) {
         document.getElementById("video").autoplay = true;
+        document.getElementById("video").play();
       }
 
       Array.from(document.querySelectorAll('a[href*="#"]')).forEach(a => {
