@@ -68,8 +68,9 @@ layout: compress
     {% include components/footer.html %}
     {% include global/javascript.html %}
     <script>
-      Array.from(document.querySelectorAll('a[href*="#"]')).forEach(a => {
-        a.onclick = (e) => {
+      var links = document.querySelectorAll('a[href*="#"]');
+      [].forEach.call(links, function(a) {
+        a.onclick = function(e){
           e.preventDefault();
           var selector = a.getAttribute('href');
           var target = document.querySelector(selector);
