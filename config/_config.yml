@@ -36,7 +36,6 @@ gems:
   - jekyll-seo-tag
 
 # SEO Specific Settings
-url: https://wem-gehoert-hamburg.de
 twitter:
   username: correctiv_org
   domain: correctiv.org
