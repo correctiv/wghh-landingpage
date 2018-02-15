@@ -11,7 +11,7 @@ layout: general
 
 # KONTAKT
 <br>
-Wir von <a style="color: #e5007d" href="https://correctiv.org"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns ihre Geschichte, die Sie mit ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
+Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns ihre Geschichte, die Sie mit ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
 
 Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden Informationen, wie Sie uns vor Ort in Hamburg und in unserer Redaktion kontaktieren können:
 
@@ -50,10 +50,8 @@ Für die Recherche zieht ein Teil der CORRECTIV-Redaktion ab Mitte März nach Ha
 
 # Anonym kontaktieren
 
-Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? Hier können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden.
-https://correctiv-upload.org/
+Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? <a style="color: #e5007d" href="https://correctiv-upload.org" target="blank">Hier</a> können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden.
 
 # Diskutieren in der Facebook Gruppe
 
-Auf Facebook wollen wir schon jetzt mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren. Wir geben dazu regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion in unserer Gruppe „Wem gehört Hamburg“.
-https://www.facebook.com/groups/1670776179654164/
+Auf Facebook wollen wir schon jetzt mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren. Wir geben dazu regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion in unserer Gruppe <a style="color: #e5007d" href="https://www.facebook.com/groups/1670776179654164/" target="blank">"Wem gehört Hamburg?"</a>.
