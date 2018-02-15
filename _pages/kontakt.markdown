@@ -33,7 +33,7 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 <a href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a><br>
 
 <img src="/assets/images/jonathan-sachse.png" width="30%"><br>
-**Justus von Daniels**<br>
+**Jonathan Sachse**<br>
 <a href="mailto:jonathan.sachse@correctiv.org">jonathan.sachse(at)correctiv.org</a><br>
 
 # Mobile Lokalredaktion
