@@ -27,7 +27,7 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 <img src="/assets/images/margherita-Bettoni.png" width="30%"><br>
 **Margherita Bettoni**<br>
 <a href="mailto:margherita.bettoni@correctiv.org">margherita.bettoni(at)correctiv.org</a>
-<br>
+<br><br>
 <img src="/assets/images/justus-von-daniels.png" width="30%"><br>
 **Justus von Daniels**<br>
 <a href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a><br>
