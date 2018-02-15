@@ -38,7 +38,7 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 <br>
 <div style="float:left">
 **Justus von Daniels**<br>
-<a href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a></div>
+<a href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a>
 </div>
 <br>
 
