@@ -49,7 +49,8 @@ newsletter:
   copy: Tragen Sie sich in unseren Newsletter ein. Wir halten Sie schon jetzt über
     das Projekt und unsere Veröffentlichungen zum Wohnungsmarkt auf dem Laufenden.
     Ab April 2018 beginnen wir die gemeinsame Recherche.
-twitter_text: Jeder hat das Recht zu erfahren, wem die eigene Wohnung gehört. Teilt das Projekt, damit der Immobilienmarkt in Hamburg transparenter wird.
+twitter_text: Jeder hat das Recht zu erfahren, wem die eigene Wohnung gehört. Teilt
+  das Projekt, damit der Immobilienmarkt in Hamburg transparenter wird.
 layout: home
 ---
 
