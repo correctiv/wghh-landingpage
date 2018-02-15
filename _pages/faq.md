@@ -1,5 +1,5 @@
 ---
-title: WGHH - FAQ
+title: FAQ
 permalink: "/faq"
 page-hidden: false
 page-name: main
