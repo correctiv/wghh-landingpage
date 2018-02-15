@@ -25,7 +25,7 @@ layout: general
 
 <h1><a name="1" id="1">Was wollen wir erreichen?</a></h1>
 
-Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie Wohnen in Hamburg erschwinglich bleiben kann.
+Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie die Wohnnsituation in Hamburg erschwinglich bleiben kann.
 
 Die Eigentümer von Mietwohnungen sind nicht öffentlich. Von der Intransparenz profitieren vor allem die Firmen, die mit Wohnungen handeln oder Mieter ausnutzen. Deswegen wollen wir herausfinden, wer die großen Investoren in der Stadt sind. 
 
