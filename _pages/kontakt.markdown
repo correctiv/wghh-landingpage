@@ -21,7 +21,7 @@ Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden I
 
 In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 als Reporterin bei CORRECTIV. Dort arbeitet sie bisher vor allem zu Themen rund um die italienische Mafia in Deutschland, recherchiert über die Türkei und generell zu organisierter Kriminalität. Sie ist in sechs Sprachen erreichbar: Deutsch, Englisch, Spanisch, Französisch, Italienisch und Türkisch.
 
-E-Mail: margherita.bettoni@correctiv.org<br>
+E-Mail: <a style="color: #e5007d" href="mailto:margherita.bettoni@correctiv.org">margherita.bettoni(at)correctiv.org</a><br>
 PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
 <img src="/assets/images/justus-von-daniels.png">
@@ -31,7 +31,7 @@ PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 Justus von Daniels ist seit 2015 im Team von CORRECTIV. Er saß als einziger Journalist vor den geschlossenen Räumen der TTIP-Verhandlungen. Intensiv recherchierte er zu dem umstrittenen Handelspakt, um mehr Transparenz für die Bürger zu schaffen. Der promovierte Volljurist will wissen, wer sinnvolle Lösungen blockiert. Deshalb recherchiert er viel über Lobbyinteressen in der EU und auf lokaler Ebene.
 
 Telefon: 030 555 780 224<br>
-E-Mail: justus.von.daniels@correctiv.org<br>
+E-Mail: <a style="color: #e5007d" href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a><br>
 PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
 
 <img src="/assets/images/jonathan-sachse.png">
@@ -41,7 +41,7 @@ PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
 Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Seitdem war er an mehreren Recherchen beteiligt, die Bürger und Journalisten zusammenbringen. Er hat sich mit der Kreditpolitik von Banken beschäftigt, berichtet über intransparente Organisationen und hat schon dutzende Auskunftsanfragen bei Grundbuchämtern gestellt.
 
 Telefon: 030 5557802 14<br>
-E-Mail: jonathan.sachse@correctiv.org<br>
+E-Mail: <a style="color: #e5007d" href="mailto:jonathan.sachse@correctiv.org">jonathan.sachse(at)correctiv.org</a><br>
 PGP Fingerabdruck: FCB0 E910 FF7C E61E F001  867B D455 3098 0091 2CB2
 
 # Besuchen Sie uns!
