@@ -10,15 +10,15 @@ main-classes: spaced
 layout: general
 ---
 
-<a style="color: #e5007d" href="#1">Was wollen wir erreichen?</a>
-1 Wie wollen wir das erreichen?
-2 Warum betrifft diese Recherche die Mieter? 
-3 Wer kann sich beteiligen?
-4 Wie kann ich mitmachen?
-5 Was machen wir mit den Daten?
-6 Was passiert wann?
-7 Wer sind wir?
-8 Wie können wir uns austauschen?
+<a style="color: #e5007d" href="#1">1 Was wollen wir erreichen?</a>
+2 Wie wollen wir das erreichen?
+3 Warum betrifft diese Recherche die Mieter? 
+4 Wer kann sich beteiligen?
+5 Wie kann ich mitmachen?
+6 Was machen wir mit den Daten?
+7 Was passiert wann?
+8 Wer sind wir?
+9 Wie können wir uns austauschen?
 
 
 <a name="1" id="1">Was wollen wir erreichen?</a>
