@@ -6,21 +6,22 @@ page-name: main
 type: header
 nav-name: FAQ
 nav-order: 5
-main-classes: spaced
+main-classes: spaced faq
 layout: general
 ---
 
 # FAQ
 
-<a style="color: #e5007d" href="#1">1 Was wollen wir erreichen?</a><br>
-<a style="color: #e5007d" href="#2">2 Wie wollen wir das erreichen?</a><br>
-<a style="color: #e5007d" href="#3">3 Warum betrifft diese Recherche die Mieter? </a><br>
-<a style="color: #e5007d" href="#4">4 Wer kann sich beteiligen?</a><br>
-<a style="color: #e5007d" href="#5">5 Wie kann ich mitmachen?</a><br>
-<a style="color: #e5007d" href="#6">6 Was machen wir mit den Daten?</a><br>
-<a style="color: #e5007d" href="#7">7 Was passiert wann?</a><br>
-<a style="color: #e5007d" href="#8">8 Wer sind wir?</a><br>
-<a style="color: #e5007d" href="#9">9 Wie können wir uns austauschen?</a>
+
+1. [Was wollen wir erreichen?](#1)
+2. [Wie wollen wir das erreichen?](#2)
+3. [Warum betrifft diese Recherche die Mieter?](#3) 
+4. [Wer kann sich beteiligen?](#4)
+5. [Wie kann ich mitmachen?](#5)
+6. [Was machen wir mit den Daten?](#6)
+7. [Was passiert wann?](#7)
+8. [Wer sind wir?](#8)
+9. [Wie können wir uns austauschen?](#9)
 
 
 <h1><a name="1" id="1">Was wollen wir erreichen?</a></h1>

@@ -43,6 +43,11 @@ body{
     p {
       font-size: 16px;
       line-height: 26px;
+
+      a {
+        text-decoration: underline;
+      }
+
     }
 
     h1 {
@@ -58,8 +63,17 @@ body{
     height:100px; /* fixed header height*/
     margin:-100px 0 0; /* negative fixed header height */
   }
-  
-  a {
-    text-decoration: underline;
+}
+
+
+.faq {
+  ol {
+    padding-left: 1em;
+    list-style-type: decimal;
+    color: $brand;
+
+    li {
+      display: list-item;
+    }
   }
 }
