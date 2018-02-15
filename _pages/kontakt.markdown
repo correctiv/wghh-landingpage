@@ -13,7 +13,7 @@ layout: general
 
 **CORRECTIV - Recherchen für die Gesellschaft**
 
-WEM GEHÖRT HAMBURG ist ein Projekt von CORRECTIV.
+WEM GEHÖRT HAMBURG ist ein Projekt von CORRECTIV.<br>
 Wir sind ein gemeinnütziges Recherchezentrum,
 ein Team investigativer Journalisten. Wir wollen
 Missstände aufdecken und in Hamburg mit Bürgern
