@@ -25,28 +25,28 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 # Kontakt
 <br>
 
-<div style="float:left; width:30%">
+<div style="float:left; width:25%">
 <img src="/assets/images/margherita-bettoni.png">
 <strong>Margherita Bettoni</strong>
 <br>
 <a style="color: #e5007d" href="mailto:margherita.bettoni@correctiv.org">E-Mail</a>
 </div>
 
-<div style="float:left; width:30%">
+<div style="float:left; width:25%">
 <img src="/assets/images/justus-von-daniels.png">
 <strong>Justus von Daniels</strong>
 <br>
 <a style="color: #e5007d" href="mailto:justus.von.daniels@correctiv.org">E-Mail</a>
 </div>
 
-<div style="float:left; width:30%">
+<div style="float:left; width:25%">
 <img src="/assets/images/jonathan-sachse.png">
 <strong>Jonathan Sachse</strong>
 <br>
 <a style="color: #e5007d" href="mailto:jonathan.sachse@correctiv.org">E-Mail</a>
 </div>
 
-<br>
+<br><br><br>
 
 # Mobile Lokalredaktion
 <br>
