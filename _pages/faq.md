@@ -21,7 +21,7 @@ layout: general
 9 Wie können wir uns austauschen?
 
 
-<a name="1" id="1">Was wollen wir erreichen?</a>
+<a name="1" id="1"><h1>Was wollen wir erreichen?</h1></a>
 
 Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie Wohnen in Hamburg erschwinglich bleiben kann.
 
