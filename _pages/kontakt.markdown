@@ -18,6 +18,6 @@ ein Team investigativer Journalisten. Wir wollen
 Missstände aufdecken und in Hamburg mit Bürgern
 gemeinsam recherchieren. <a style="color: #e5007d" href="https://correctiv.org" target="blank">www.correctiv.org</a>
 
-In Kooperation mit:
-Hamburger Abendblatt und Mieterverein zu Hamburg
+In Kooperation mit:<br>
+**Hamburger Abendblatt** und **Mieterverein zu Hamburg**
 
