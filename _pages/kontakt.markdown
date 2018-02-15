@@ -6,6 +6,7 @@ type: header
 nav-name: Kontakt
 main-classes: spaced
 nav-order: 6
+layout: general
 ---
 
 **CORRECTIV - Recherchen für die Gesellschaft**
