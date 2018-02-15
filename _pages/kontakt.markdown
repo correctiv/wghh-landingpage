@@ -9,7 +9,7 @@ nav-order: 6
 layout: general
 ---
 
-<img src="/assets/images/logos/correctiv.jpg" width="30%">
+<a href="https://correctiv.org" target="blank"><img src="/assets/images/logos/correctiv.jpg" width="30%"></a>
 
 **CORRECTIV - Recherchen für die Gesellschaft**
 
