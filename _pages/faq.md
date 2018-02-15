@@ -18,7 +18,7 @@ Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur Existe
 
 Mieten und Immobilienpreise gehen durch die Decke. Für viele wird das Wohnen in der Stadt zu Existenzfrage. Kann ich mir ein Leben in der Stadt noch leisten. Die hohen Preise haben Ursachen.  Ein Grund ist, dass man mit Wohnungen Geschäfte machen kann. Doch die Eigentümer, die Investoren vor allem, sind unbekannt. Der Immobilienmarkt ist intransparent. Wir wollen aufdecken, wer die Preise hochtreibt.
 
-    Wie wollen wir das erreichen?
+# Wie wollen wir das erreichen?
 
 Dazu gehen wir einen neuen Weg: gemeinsam mit den Mietern. Bürger beteiligen sich, helfen bei der Recherche. Gemeinsam finden wir heraus, wem die rund 450.000 unbekannten Eigentümer von privaten Mietwohnungen gehören. Mit diesen Daten schaffen wir Transparenz und können besser recherchieren.
 
