@@ -9,29 +9,27 @@ nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 slides:
 - title: Wem gehört Hamburg?
-  teaser: Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur
-    Existenzfrage. Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich
-    Mieter in Hamburg. Vielleicht auch Sie?
-  main: 'Die hohen Preise haben Ursachen. Ein wichtiger Grund: Mit Wohnungen lassen
-    sich Geschäfte machen. Hamburg ist für Investoren einer der lukrativsten Städte
-    in Europa. Doch die Eigentümer bleiben der Öffentlichkeit verborgen.'
+  teaser: Mieten gehen durch die Decke. Kann ich mir ein Leben in meiner Stadt noch
+    leisten, fragen sich Mieter in Hamburg. Vielleicht auch Sie?
+  main: Die hohen Preise haben Ursachen. Hamburg ist für Investoren eine der lukrativsten
+    Städte in Europa. Viele Immobilien dienen der Spekulation oder werden für fragwürdige
+    Geschäfte benutzt.
   image:
     src: assets/images/Bild1.jpg
 - title: Wer spielt mit Ihrer Wohnung?
-  teaser: Viele Immobilien sind Teil großer Spekulationen oder werden für fragwürdige
-    Geschäfte benutzt. Hinter manchen Vermietern stehen anonyme Briefkastenfirmen.
+  teaser: Mietern ist der Eigentümer oft nicht bekannt, weil im Mietvertrag nicht
+    der wahre Eigentümer steht.
   main: 'Das hat Konsequenzen. Für viele Mieter sind die Eigentümer nur schwer erreichbar.
-    Vielleicht kennen sie noch nicht einmal den wahren Inhaber. Auch die Politik hat
-    keinen flächendeckenden Überblick, wem die Stadt gehört. '
+    Auch die Politik hat keinen Überblick, wem die Stadt gehört. '
   image:
     src: assets/images/Bild2.jpg
 - title: Sie sind gefragt!
-  teaser: Wir wollen mit Ihnen aufdecken, wer mit ihrer Wohnung spielt. Ihre Miete
+  teaser: Wir wollen mit Ihnen aufdecken, wer mit Ihrer Wohnung spielt. Ihre Miete
     erhöht oder sich nicht um Reparaturen kümmert. Gemeinsam finden wir heraus, wer
     von der Intransparenz im Immobilienmarkt profitiert.
-  main: 'Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
-    Hamburgs, die an der Wohnsituation in ihrer Stadt etwas ändern wollen. Und Journalisten,
-    die benennen werden, wer die Missstände im Hamburger Immobilienmarkt verantwortet. '
+  main: Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
+    Hamburgs, die an der Wohnsituation in ihrer Stadt etwas ändern wollen. Wir wollen
+    herausfinden, wer für die Lage im Hamburger Immobilienmarkt verantwortlich ist.
   image:
     src: assets/images/Bild3.jpg
 blog:
