@@ -10,6 +10,17 @@ main-classes: spaced
 layout: general
 ---
 
+Was wollen wir erreichen?
+Wie wollen wir das erreichen?
+Warum betrifft diese Recherche die Mieter? 
+Wer kann sich beteiligen?
+Wie kann ich mitmachen?
+Was machen wir mit den Daten?
+Was passiert wann?
+Wer sind wir?
+Wie können wir uns austauschen?
+
+
 # Was wollen wir erreichen?
 
 Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie Wohnen in Hamburg erschwinglich bleiben kann.
