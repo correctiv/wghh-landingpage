@@ -37,3 +37,11 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 <a href="mailto:jonathan.sachse@correctiv.org">jonathan.sachse(at)correctiv.org</a><br>
 
 # Mobile Lokalredaktion
+<br>
+Wir wollen mit Ihnen, den Mietern, Transparenz
+schaffen. Wir helfen Ihnen, den wahren
+Eigentümer herauszufinden. Und wir wollen mit
+Ihnen ins Gespräch kommen. Erzählen Sie uns ihre
+Mietergeschichte. Dafür richten wir in der Stadt eine
+mobile Lokalredaktion ein, in der wir zwei Monate
+arbeiten werden.
