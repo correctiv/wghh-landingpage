@@ -24,11 +24,11 @@ slides:
   image:
     src: assets/images/Bild2.jpg
 - title: Sie sind gefragt!
-  teaser: Wir wollen mit Ihnen herausfinden, wem ihre Wohnung gehört. Wer ihre Miete
+  teaser: Wir wollen mit Ihnen herausfinden, wem ihre Wohnung gehört. Wer Ihre Miete
     erhöht oder sich nicht um Reparaturen kümmert. Und wir können aufdecken, wer von
     der Intransparenz im Immobilienmarkt profitiert.
   main: Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
-    Hamburgs, die in ihrer Stadt etwas ändern wollen. Wir wollen zeigen, wer für die
+    Hamburgs, die in Ihrer Stadt etwas ändern wollen. Wir wollen zeigen, wer für die
     Lage im Hamburger Immobilienmarkt verantwortlich ist.
   image:
     src: assets/images/Bild3.jpg
