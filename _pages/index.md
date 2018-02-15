@@ -48,8 +48,8 @@ newsletter:
     das Projekt und mit Veröffentlichungen zum Wohnungsmarkt auf dem Laufenden. \n\nAb
     April 2018 erweitern wir diese Seite mit Funktionen zur Datenerhebung und beginnen
     die gemeinsame Recherche."
-twitter_text: Jeder hat das Recht zu erfahren, wem die eigene Wohnung gehört. Teilt
-  das Projekt, damit der Immobilienmarkt in Hamburg transparenter wird.
+twitter_text: 'Wem gehört Hamburg? Wer hier mitmacht, macht den Wohnungsmarkt in Hamburg
+  transparenter. #WemGehoertHH'
 layout: home
 ---
 
