@@ -19,5 +19,5 @@ Missstände aufdecken und in Hamburg mit Bürgern
 gemeinsam recherchieren. Weitere Informationen zu unserer Arbeit finden Sie auf <a style="color: #e5007d" href="https://correctiv.org" target="blank">www.correctiv.org</a>
 
 In Kooperation mit:<br>
-**Hamburger Abendblatt** und **Mieterverein zu Hamburg**
+Hamburger Abendblatt und Mieterverein zu Hamburg
 
