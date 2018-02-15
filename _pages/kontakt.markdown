@@ -16,7 +16,7 @@ layout: general
 Wir sind ein gemeinnütziges Recherchezentrum,
 ein Team investigativer Journalisten. Wir wollen
 Missstände aufdecken und in Hamburg mit Bürgern
-gemeinsam recherchieren. [www.correctiv.org](https://correctiv.org)
+gemeinsam recherchieren. <a style="color: #e5007d" href="https://correctiv.org" target="blank">www.correctiv.org</a>
 
 In Kooperation mit:
 Hamburger Abendblatt und Mieterverein zu Hamburg
