@@ -24,8 +24,8 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 
 # Kontakt
 <br>
-<div>
-<img src="/assets/images/margherita-Bettoni.png" width="30%"></div>
+<div style="width:30%">
+<img src="/assets/images/margherita-Bettoni.png"></div>
 <div style="float:left">
 **Margherita Bettoni**
 <br>
