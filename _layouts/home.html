@@ -78,6 +78,7 @@ layout: compress
         a.onclick = function(e){
           e.preventDefault();
           var selector = a.getAttribute('href');
+          selector = selector.replace("/", "");
           var target = document.querySelector(selector);
           target.scrollIntoView({behavior: 'smooth'});
           target.focus();
