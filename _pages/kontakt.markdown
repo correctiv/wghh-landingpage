@@ -48,7 +48,7 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 
 <br><br><br>
 
-<div>
+<div style="float:none>
 # Mobile Lokalredaktion
 <br>
 Wir wollen mit Ihnen, den Mietern, Transparenz
