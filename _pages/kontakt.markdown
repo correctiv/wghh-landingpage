@@ -16,7 +16,7 @@ layout: general
 Wir sind ein gemeinnütziges Recherchezentrum,
 ein Team investigativer Journalisten. Wir wollen
 Missstände aufdecken und in Hamburg mit Bürgern
-gemeinsam recherchieren.
+gemeinsam recherchieren. [www.correctiv.org](https://correctiv.org)
 
 In Kooperation mit:
 Hamburger Abendblatt und Mieterverein zu Hamburg
