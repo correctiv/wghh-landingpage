@@ -11,25 +11,25 @@ slides:
 - title: Wem gehört Hamburg?
   teaser: Mieten gehen durch die Decke. Kann ich mir ein Leben in meiner Stadt noch
     leisten, fragen sich Mieter in Hamburg. Vielleicht auch Sie?
-  main: Die hohen Preise haben Ursachen. Hamburg ist für Investoren eine der lukrativsten
-    Städte in Europa. Viele Immobilien dienen der Spekulation oder werden für fragwürdige
-    Geschäfte benutzt.
+  main: Die hohen Preise haben Ursachen. Hamburg ist für Finanzinvestoren eine der
+    lukrativsten Städte in Europa. Viele Immobilien dienen zunehmend der Spekulation
+    oder werden für fragwürdige Geschäfte benutzt.
   image:
     src: assets/images/Bild1.jpg
 - title: Wer spielt mit Ihrer Wohnung?
-  teaser: Mietern ist der Eigentümer oft nicht bekannt, weil im Mietvertrag nicht
+  teaser: Vielen Mietern ist der Eigentümer nicht bekannt, weil im Mietvertrag nicht
     der wahre Eigentümer steht.
   main: 'Das hat Konsequenzen. Für viele Mieter sind die Eigentümer nur schwer erreichbar.
     Auch die Politik hat keinen Überblick, wem die Stadt gehört. '
   image:
     src: assets/images/Bild2.jpg
 - title: Sie sind gefragt!
-  teaser: Wir wollen mit Ihnen aufdecken, wer mit Ihrer Wohnung spielt. Ihre Miete
-    erhöht oder sich nicht um Reparaturen kümmert. Gemeinsam finden wir heraus, wer
-    von der Intransparenz im Immobilienmarkt profitiert.
+  teaser: Wir wollen mit Ihnen herausfinden, wem ihre Wohnung gehört. Wer ihre Miete
+    erhöht oder sich nicht um Reparaturen kümmert. Und wir können aufdecken, wer von
+    der Intransparenz im Immobilienmarkt profitiert.
   main: Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
-    Hamburgs, die an der Wohnsituation in ihrer Stadt etwas ändern wollen. Wir wollen
-    herausfinden, wer für die Lage im Hamburger Immobilienmarkt verantwortlich ist.
+    Hamburgs, die in ihrer Stadt etwas ändern wollen. Wir wollen zeigen, wer für die
+    Lage im Hamburger Immobilienmarkt verantwortlich ist.
   image:
     src: assets/images/Bild3.jpg
 blog:
