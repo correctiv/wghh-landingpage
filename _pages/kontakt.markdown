@@ -9,7 +9,7 @@ nav-order: 6
 layout: general
 ---
 
-# INITIATOR
+<img src="/assets/images/logos/correctiv.jpg" width="30%">
 
 **CORRECTIV - Recherchen für die Gesellschaft**
 
@@ -18,9 +18,6 @@ Wir sind ein gemeinnütziges Recherchezentrum,
 ein Team investigativer Journalisten. Wir wollen
 Missstände aufdecken und in Hamburg mit Bürgern
 gemeinsam recherchieren. Weitere Informationen zu unserer Arbeit finden Sie auf <a style="color: #e5007d" href="https://correctiv.org" target="blank">www.correctiv.org</a>
-
-<img src="/assets/images/logos/correctiv.jpg" width="30%">
-
 
 In Kooperation mit:<br>
 Hamburger Abendblatt und Mieterverein zu Hamburg
