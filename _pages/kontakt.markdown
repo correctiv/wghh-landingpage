@@ -10,10 +10,12 @@ layout: general
 ---
 
 # KONTAKT
-
+<br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns ihre Geschichte, die Sie mit ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
 
 Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden Informationen, wie Sie uns vor Ort in Hamburg und in unserer Redaktion kontaktieren können:
+
+<img src="/assets/images/margherita-bettoni.png">
 
 **Reporterin Margherita Bettoni**
 
@@ -22,6 +24,8 @@ In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 a
 E-Mail: margherita.bettoni@correctiv.org<br>
 PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
+<img src="/assets/images/justus-von-daniels.png">
+
 **Reporter Justus von Daniels** 
 
 Justus von Daniels ist seit 2015 im Team von CORRECTIV. 
@@ -29,6 +33,8 @@ Justus von Daniels ist seit 2015 im Team von CORRECTIV.
 Telefon: 030 555 780 224<br>
 E-Mail: justus.von.daniels@correctiv.org<br>
 PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
+
+<img src="/assets/images/jonathan-sachse.png">
 
 **Reporter Jonathan Sachse**
 
