@@ -10,14 +10,14 @@ main-classes: spaced
 layout: general
 ---
 
-<a style="color: #e5007d" href="#1">1 Was wollen wir erreichen?</a>
-<a style="color: #e5007d" href="#2">2 Wie wollen wir das erreichen?</a>
-<a style="color: #e5007d" href="#3">3 Warum betrifft diese Recherche die Mieter? </a>
-<a style="color: #e5007d" href="#4">4 Wer kann sich beteiligen?</a>
-<a style="color: #e5007d" href="#5">5 Wie kann ich mitmachen?</a>
-<a style="color: #e5007d" href="#6">6 Was machen wir mit den Daten?</a>
-<a style="color: #e5007d" href="#7">7 Was passiert wann?</a>
-<a style="color: #e5007d" href="#8">8 Wer sind wir?</a>
+<a style="color: #e5007d" href="#1">1 Was wollen wir erreichen?</a><br>
+<a style="color: #e5007d" href="#2">2 Wie wollen wir das erreichen?</a><br>
+<a style="color: #e5007d" href="#3">3 Warum betrifft diese Recherche die Mieter? </a><br>
+<a style="color: #e5007d" href="#4">4 Wer kann sich beteiligen?</a><br>
+<a style="color: #e5007d" href="#5">5 Wie kann ich mitmachen?</a><br>
+<a style="color: #e5007d" href="#6">6 Was machen wir mit den Daten?</a><br>
+<a style="color: #e5007d" href="#7">7 Was passiert wann?</a><br>
+<a style="color: #e5007d" href="#8">8 Wer sind wir?</a><br>
 <a style="color: #e5007d" href="#9">9 Wie können wir uns austauschen?</a>
 
 
