@@ -39,14 +39,14 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 <a style="color: #e5007d" href="mailto:justus.von.daniels@correctiv.org">E-Mail</a>
 </div>
 
-<div style="float:left; width:25%; overflow: auto;">
+<div style="float:left; width:25%;">
 <img src="/assets/images/jonathan-sachse.png">
 <strong>Jonathan Sachse</strong>
 <br>
 <a style="color: #e5007d" href="mailto:jonathan.sachse@correctiv.org">E-Mail</a>
 </div>
 
-<br><br><br>
+<div style="clear:both"></div>
 
 
 # Mobile Lokalredaktion
