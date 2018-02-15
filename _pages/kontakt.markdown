@@ -39,7 +39,7 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 <a style="color: #e5007d" href="mailto:justus.von.daniels@correctiv.org">E-Mail</a>
 </div>
 
-<div style="float:left; width:25%">
+<div style="float:left; width:25%; overflow: auto;">
 <img src="/assets/images/jonathan-sachse.png">
 <strong>Jonathan Sachse</strong>
 <br>
@@ -48,7 +48,7 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 
 <br><br><br>
 
-<div style="float:none>
+
 # Mobile Lokalredaktion
 <br>
 Wir wollen mit Ihnen, den Mietern, Transparenz
@@ -57,4 +57,4 @@ Eigentümer herauszufinden. Und wir wollen mit
 Ihnen ins Gespräch kommen. Erzählen Sie uns ihre
 Mietergeschichte. Dafür richten wir in der Stadt eine
 mobile Lokalredaktion ein, in der wir zwei Monate
-arbeiten werden.</div>
+arbeiten werden.
