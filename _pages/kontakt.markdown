@@ -19,7 +19,7 @@ Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden I
 
 **Reporterin Margherita Bettoni**
 
-In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 als Reporterin bei CORRECTIV. Dort arbeitet sie bisher vor allem zu Themen rund um die italienische Mafia in Deutschland, Recherchen über die Türkei und generell zu organisierter Kriminalität. Sie 
+In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 als Reporterin bei CORRECTIV. Dort arbeitet sie bisher vor allem zu Themen rund um die italienische Mafia in Deutschland, recherchiert über die Türkei und generell zu organisierter Kriminalität. Sie ist in sechs Sprachen erreichbar: Deutsch, Englisch, Spanisch, Französisch, Italienisch und Türkisch.
 
 E-Mail: margherita.bettoni@correctiv.org<br>
 PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
@@ -28,7 +28,7 @@ PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
 **Reporter Justus von Daniels** 
 
-Justus von Daniels ist seit 2015 im Team von CORRECTIV. 
+Justus von Daniels ist seit 2015 im Team von CORRECTIV. Er saß als einziger Journalist vor den geschlossenen Räumen der TTIP-Verhandlungen. Intensiv recherchierte er zu dem umstrittenen Handelspakt, um mehr Transparenz für die Bürger zu schaffen. Der promovierte Volljurist will wissen, wer sinnvolle Lösungen blockiert. Deshalb recherchiert er viel über Lobbyinteressen in der EU und auf lokaler Ebene.
 
 Telefon: 030 555 780 224<br>
 E-Mail: justus.von.daniels@correctiv.org<br>
