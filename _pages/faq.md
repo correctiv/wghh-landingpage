@@ -25,7 +25,7 @@ layout: general
 
 <h1><a name="1" id="1">Was wollen wir erreichen?</a></h1>
 
-Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie die Wohnnsituation in Hamburg erschwinglich bleiben kann.
+Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie die Wohnsituation in Hamburg erschwinglich bleiben kann.
 
 Die Eigentümer von Mietwohnungen sind nicht öffentlich. Von der Intransparenz profitieren vor allem die Firmen, die mit Wohnungen handeln oder Mieter ausnutzen. Deswegen wollen wir herausfinden, wer die großen Investoren in der Stadt sind. 
 
@@ -38,9 +38,11 @@ Und wir sind überzeugt, dass Transparenz den Bürgern hilft, die Stadt mitzuges
 
 <h1><a name="2" id="2">Wie wollen wir das erreichen?</a></h1>
 
-Wir gehen einen neuen Weg: gemeinsam mit den Mietern. Denn sie kennen ihren Eigentümer oder haben das Recht darauf, es zu erfahren. Dazu haben wir ein eigenes Portal entwickelt, den CrowdNewsroom. Ab April wird diese Seite um neue Funktionen erweitert. Dann können sich Bürger hier an der Recherche beteiligen, indem sie Informationen aus ihrem Mietvertrag hochladen, die dann verifiziert werden. Gemeinsam finden wir heraus, wem die rund 450.000 unbekannten Eigentümer von privaten Mietwohnungen in Hamburg gehören.
+Wir gehen einen neuen Weg: gemeinsam mit den Mietern. Denn sie kennen ihren Eigentümer oder haben das Recht darauf, es zu erfahren. Dazu nutzen wir unsere Plattform CrowdNewsroom, mit der wir bereits erfolgreich bei zwei Recherchen gearbeitet haben. Über 500 Menschen sammelten faule Kredite, Vorstandsgehälter und überhöhte Dispozinsen [von Sparkassen](https://correctiv.org/recherchen/sparkassen/). In Dortmund meldeten hunderte Schüler, Lehrer und Eltern einen Monat den [Unterrichtsausfall](https://crowdnewsroom.org/unterrichtsausfall-der-check/) an ihrer Schule. Mit der Recherche zum Wohnungsmarkt in Hamburg führen wir die Idee des CrowdNewsroom fort. Interessierte Bürger lernen journalistische Methoden kennen und helfen gleichzeitig bei großen Recherchen, die mit einem kleinen Team nicht umsetzbar wären.
 
-Im Team mit dem Hamburger Abendblatt werten wir die Daten anschließend aus, recherchieren zu den Hintergründen von fragwürdigen Eigentümern.
+Das bedeutet konkret: Ab April wird die Seite [wem-gehoert-hamburg.de ](http://wem-gehoert-hamburg.de/)um neue Funktionen aus dem CrowdNewsroom erweitert. Dann können sich Bürger hier an der Recherche beteiligen, indem sie Informationen aus ihrem Mietvertrag hochladen, die dann verifiziert werden. Gemeinsam finden wir heraus, wem die rund 450.000 unbekannten Eigentümer von privaten Mietwohnungen in Hamburg gehören.
+
+Im Team werten [CORRECTIV](https://correctiv.org/) und das [Hamburger Abendblatt](https://www.abendblatt.de/) die Daten anschließend aus, recherchieren zu den Hintergründen von fragwürdigen Eigentümern.
 
 
 <h1><a name="3" id="3">Warum betrifft diese Recherche die Mieter?</a></h1>
@@ -68,7 +70,7 @@ Nicht selten ist der Vermieter im Mietvertrag nicht gleich der Eigentümer. Denn
 
 Wir behandeln die Daten mit großer Sorgfalt. Wir tragen alle öffentlich verfügbaren Daten zusammen und kombinieren diese mit den Einträgen, die Mieter und Eigentümer hochladen. Diese Daten werden wir zunächst intern aus. 
 
-Später werden wir ausgewählte Daten veröffentlichen. Dabei liegt unser Fokus auf den großen Investoren und den Organisationen, die fragwürdig handeln. Die Art der Veröffentlichung hängt davon ab, wie viele Informationen mit uns geteilt werden. Es können Geschichten über besonders problematische Investoren entstehen, aber auch große Übersichten mit den Eigentumsverhältnissen eines Stadtteils.
+Später werden wir ausgewählte Daten veröffentlichen. Dabei liegt unser Fokus auf den großen Finanzinvestoren und den Organisationen, die fragwürdig handeln. Die Art der Veröffentlichung hängt davon ab, wie viele Informationen mit uns geteilt werden. Es können Geschichten über besonders problematische Investoren entstehen, aber auch große Übersichten mit den Eigentumsverhältnissen eines Stadtteils.
 
 Was wir keinesfalls veröffentlichen, sind Mietverträge, Nebenkostenabrechnungen oder andere private Dokumente, die Sie uns anvertrauen. Wir werden niemals Informationen veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen – es sei denn dieser erteilt nach Rückfrage seine Zustimmung.
 
@@ -84,13 +86,13 @@ Die gewonnenen Daten werten wir für unsere Recherchen aus.
 
 <h1><a name="8" id="8">Wer sind wir?</a></h1>
 
-CORRECTIV ist das erste gemeinnützige Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. 
+[CORRECTIV](https://correctiv.org/) ist das erste gemeinnützige Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. 
 
-Wir kooperieren in Hamburg mit den Kollegen des Hamburger Abendblattes, mit denen wir gemeinsam über den Immobilienmarkt recherchieren. 
+Wir kooperieren in Hamburg mit den Kollegen des [Hamburger Abendblattes](https://www.abendblatt.de/), mit denen wir gemeinsam über den Immobilienmarkt recherchieren. 
 
-Der Mieterverein zu Hamburg beteiligt sich auch an dem Projekt und unterstützt die Mieter dabei, mehr über die Eigentümer herauszufinden.
+Der [Mieterverein zu Hamburg](https://www.mieterverein-hamburg.de/de/) beteiligt sich auch an dem Projekt und unterstützt die Mieter dabei, mehr über die Eigentümer herauszufinden.
 
-Der Blog FINK, die Studentenredaktion der HAW Hamburg, wird ab April ebenfalls über die Wohnungsmarkt in Hamburg berichten.
+Der [Blog FINK](https://fink.hamburg/), die Studentenredaktion der HAW Hamburg, wird ab April ebenfalls über die Wohnungsmarkt in Hamburg berichten.
 
 <h1><a name="9" id="9">Wie können Sie uns kontaktieren?</a></h1>
 
