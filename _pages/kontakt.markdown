@@ -11,6 +11,8 @@ layout: general
 
 ![CORRECTIV-logo.png](/assets/images/logos/correctiv.jpg)
 
+<img src="/assets/images/logos/correctiv.jpg" width="10%">
+
 ## CORRECTIV - Recherchen für die Gesellschaft
 
 Wir sind ein gemeinnütziges Recherchezentrum,
