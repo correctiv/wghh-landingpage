@@ -9,54 +9,45 @@ nav-order: 6
 layout: general
 ---
 
-<a href="https://correctiv.org" target="blank"><img src="/assets/images/logos/correctiv.jpg" width="30%"></a>
+# KONTAKT
 
-**CORRECTIV - Recherchen für die Gesellschaft**
+Wir von <a style="color: #e5007d" href="https://correctiv.org"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns ihre Geschichte, die Sie mit ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
 
-WEM GEHÖRT HAMBURG ist ein Projekt von CORRECTIV.<br>
-Wir sind ein gemeinnütziges Recherchezentrum,
-ein Team investigativer Journalisten. Wir wollen
-Missstände aufdecken und in Hamburg mit Bürgern
-gemeinsam recherchieren. Weitere Informationen zu unserer Arbeit finden Sie auf <a style="color: #e5007d" href="https://correctiv.org" target="blank">www.correctiv.org</a>
+Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden Informationen, wie Sie uns vor Ort in Hamburg und in unserer Redaktion kontaktieren können:
 
-In Kooperation mit:<br>
-Hamburger Abendblatt und Mieterverein zu Hamburg
+## Reporterin Margherita Bettoni
 
-# Kontakt
-<br>
+In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 als Reporterin bei CORRECTIV. Dort arbeitet sie bisher vor allem zu Themen rund um die italienische Mafia in Deutschland, Recherchen über die Türkei und generell zu organisierter Kriminalität. Sie 
 
-<ul style="display: flex; -ms-flex-pack: center; justify-content: center;">
+E-Mail: margherita.bettoni@correctiv.org
+PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
-<li style="list-style-type: none; display: block;">
-<img src="/assets/images/margherita-bettoni.png">
-<strong>Margherita Bettoni</strong>
-<br>
-<a style="color: #e5007d" href="mailto:margherita.bettoni@correctiv.org">E-Mail</a>
-</li>
+## Reporter Justus von Daniels 
 
-<li style="list-style-type: none; display: block;">
-<img src="/assets/images/justus-von-daniels.png">
-<strong>Justus von Daniels</strong>
-<br>
-<a style="color: #e5007d" href="mailto:justus.von.daniels@correctiv.org">E-Mail</a>
-</li>
+Justus von Daniels ist seit 2015 im Team von CORRECTIV. 
 
-<li style="list-style-type: none; display: block;">
-<img src="/assets/images/jonathan-sachse.png">
-<strong>Jonathan Sachse</strong>
-<br>
-<a style="color: #e5007d" href="mailto:jonathan.sachse@correctiv.org">E-Mail</a>
-</li>
+Telefon: 030 555 780 224
+E-Mail: justus.von.daniels@correctiv.org
+PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
 
-</ul>
+## Reporter Jonathan Sachse
 
+Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Seitdem war er an mehreren Recherchen beteiligt, die Bürger und Journalisten zusammenbringen. Er hat sich mit der Kreditpolitik von Banken beschäftigt, berichtet über intransparente Organisationen und hat schon dutzende Auskunftsanfragen bei Grundbuchämtern gestellt.
 
-# Mobile Lokalredaktion
-<br>
-Wir wollen mit Ihnen, den Mietern, Transparenz
-schaffen. Wir helfen Ihnen, den wahren
-Eigentümer herauszufinden. Und wir wollen mit
-Ihnen ins Gespräch kommen. Erzählen Sie uns ihre
-Mietergeschichte. Dafür richten wir in der Stadt eine
-mobile Lokalredaktion ein, in der wir zwei Monate
-arbeiten werden.
+Telefon: 030 5557802 14
+E-Mail: jonathan.sachse@correctiv.org
+PGP Fingerabdruck: FCB0 E910 FF7C E61E F001  867B D455 3098 0091 2CB2
+
+## Besuchen Sie uns!
+
+Für die Recherche zieht ein Teil der CORRECTIV-Redaktion ab Mitte März nach Hamburg um. Wir schlagen unser Zelt am Hein-Köllisch-Platz 12 im Cafe der Initiative GWA auf. Kommen Sie vorbei, zum Gespräch, um sich weiter zu informieren, oder zu den Diskussionsveranstaltungen, die wir dort anbieten.
+
+## Anonym kontaktieren
+
+Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? Hier können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden.
+https://correctiv-upload.org/
+
+## Diskutieren in der Facebook Gruppe
+
+Auf Facebook wollen wir schon jetzt mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren. Wir geben dazu regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion in unserer Gruppe „Wem gehört Hamburg“.
+https://www.facebook.com/groups/1670776179654164/
