@@ -10,6 +10,8 @@ main-classes: spaced
 layout: general
 ---
 
+# FAQ
+
 <a style="color: #e5007d" href="#1">1 Was wollen wir erreichen?</a><br>
 <a style="color: #e5007d" href="#2">2 Wie wollen wir das erreichen?</a><br>
 <a style="color: #e5007d" href="#3">3 Warum betrifft diese Recherche die Mieter? </a><br>
