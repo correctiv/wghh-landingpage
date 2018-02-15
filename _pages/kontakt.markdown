@@ -9,6 +9,8 @@ nav-order: 6
 layout: general
 ---
 
+![CORRECTIV-logo.png](/uploads/CORRECTIV-logo.png)
+
 ## CORRECTIV - Recherchen für die Gesellschaft
 
 Wir sind ein gemeinnütziges Recherchezentrum,
