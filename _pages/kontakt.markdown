@@ -13,7 +13,7 @@ layout: general
 <br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns Ihre Geschichte, die Sie mit Ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
 
-Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden Informationen, wie Sie uns vor Ort in Hamburg und in unserer Redaktion kontaktieren können:
+Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden Informationen, wie Sie uns vor Ort in Hamburg und in unserer Redaktion erreichen:
 
 <img src="/assets/images/margherita-bettoni.png">
 
