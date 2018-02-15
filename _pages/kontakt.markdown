@@ -44,16 +44,16 @@ Telefon: 030 5557802 14<br>
 E-Mail: jonathan.sachse@correctiv.org<br>
 PGP Fingerabdruck: FCB0 E910 FF7C E61E F001  867B D455 3098 0091 2CB2
 
-## Besuchen Sie uns!
+# Besuchen Sie uns!
 
 Für die Recherche zieht ein Teil der CORRECTIV-Redaktion ab Mitte März nach Hamburg um. Wir schlagen unser Zelt am Hein-Köllisch-Platz 12 im Cafe der Initiative GWA auf. Kommen Sie vorbei, zum Gespräch, um sich weiter zu informieren, oder zu den Diskussionsveranstaltungen, die wir dort anbieten.
 
-## Anonym kontaktieren
+# Anonym kontaktieren
 
 Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? Hier können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden.
 https://correctiv-upload.org/
 
-## Diskutieren in der Facebook Gruppe
+# Diskutieren in der Facebook Gruppe
 
 Auf Facebook wollen wir schon jetzt mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren. Wir geben dazu regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion in unserer Gruppe „Wem gehört Hamburg“.
 https://www.facebook.com/groups/1670776179654164/
