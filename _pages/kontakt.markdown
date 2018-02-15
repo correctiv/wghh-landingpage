@@ -24,19 +24,25 @@ Hamburger Abendblatt und Mieterverein zu Hamburg
 
 # Kontakt
 <br>
+<img src="/assets/images/margherita-Bettoni.png" width="30%">
+<br>
 <div style="float:left">
-<img src="/assets/images/margherita-Bettoni.png" width="30%"><br>
-**Margherita Bettoni**<br><a href="mailto:margherita.bettoni@correctiv.org">margherita.bettoni(at)correctiv.org</a>
+**Margherita Bettoni**
+<br>
+<a href="mailto:margherita.bettoni@correctiv.org">margherita.bettoni(at)correctiv.org</a>
 </div>
 <br><br>
 
+<img src="/assets/images/justus-von-daniels.png" width="30%">
+<br>
 <div style="float:left">
-<img src="/assets/images/justus-von-daniels.png" width="30%"><br>
 **Justus von Daniels**<br>
-<a href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a></div><br>
+<a href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a></div>
+</div>
+<br>
 
-<div style="float:left">
 <img src="/assets/images/jonathan-sachse.png" width="30%"><br>
+<div style="float:left">
 **Jonathan Sachse**<br>
 <a href="mailto:jonathan.sachse@correctiv.org">jonathan.sachse(at)correctiv.org</a></div><br>
 
