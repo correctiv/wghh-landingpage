@@ -9,7 +9,7 @@ nav-order: 6
 layout: general
 ---
 
-# CORRECTIV - Recherchen für die Gesellschaft
+## CORRECTIV - Recherchen für die Gesellschaft
 
 Wir sind ein gemeinnütziges Recherchezentrum,
 ein Team investigativer Journalisten. Wir wollen
