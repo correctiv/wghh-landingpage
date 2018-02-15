@@ -12,8 +12,8 @@ slides:
   teaser: Mieten gehen durch die Decke. Kann ich mir ein Leben in meiner Stadt noch
     leisten, fragen sich Mieter in Hamburg. Vielleicht auch Sie?
   main: Die hohen Preise haben Ursachen. Hamburg ist für Finanzinvestoren eine der
-    lukrativsten Städte in Europa. Viele Immobilien dienen zunehmend der Spekulation
-    oder werden für fragwürdige Geschäfte benutzt.
+    lukrativsten Städte in Europa. Immer mehr Immobilien dienen der Spekulation oder
+    werden für fragwürdige Geschäfte benutzt.
   image:
     src: assets/images/Bild1.jpg
 - title: Wer spielt mit Ihrer Wohnung?
