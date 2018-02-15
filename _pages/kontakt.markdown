@@ -15,14 +15,14 @@ Wir von <a style="color: #e5007d" href="https://correctiv.org"> CORRECTIV</a> fr
 
 Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden Informationen, wie Sie uns vor Ort in Hamburg und in unserer Redaktion kontaktieren können:
 
-## Reporterin Margherita Bettoni
+**Reporterin Margherita Bettoni**
 
 In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 als Reporterin bei CORRECTIV. Dort arbeitet sie bisher vor allem zu Themen rund um die italienische Mafia in Deutschland, Recherchen über die Türkei und generell zu organisierter Kriminalität. Sie 
 
 E-Mail: margherita.bettoni@correctiv.org
 PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
-## Reporter Justus von Daniels 
+**Reporter Justus von Daniels** 
 
 Justus von Daniels ist seit 2015 im Team von CORRECTIV. 
 
@@ -30,7 +30,7 @@ Telefon: 030 555 780 224
 E-Mail: justus.von.daniels@correctiv.org
 PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
 
-## Reporter Jonathan Sachse
+**Reporter Jonathan Sachse**
 
 Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Seitdem war er an mehreren Recherchen beteiligt, die Bürger und Journalisten zusammenbringen. Er hat sich mit der Kreditpolitik von Banken beschäftigt, berichtet über intransparente Organisationen und hat schon dutzende Auskunftsanfragen bei Grundbuchämtern gestellt.
 
