@@ -3,14 +3,12 @@
 # Contains site data, core jekyll config, plugin config, etc.
 
 ## Org settings
-title: Wem gehört Hamburg
+title: Wem gehört Hamburg?
 
 ## Site Description
 # used in meta tags
 description: >
-  Mieten gehen durch die Decke. Für viele wird das Wohnen in der Stadt zur Existenzfrage.
-  Kann ich mir ein Leben in meiner Stadt noch leisten, fragen sich Mieter in Hamburg.
-  Vielleicht auch Sie?
+  Hamburg ist für Investoren eine der lukrativsten Städte in Europa. Doch die Eigentümer bleiben verborgen. Sie können das ändern.
 
 
 ## Core Site Settings
