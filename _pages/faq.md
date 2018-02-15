@@ -1,6 +1,6 @@
 ---
 title: WGHH - FAQ
-permalink: "/ueber"
+permalink: "/faq"
 page-hidden: false
 page-name: main
 type: header
