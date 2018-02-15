@@ -30,7 +30,7 @@ PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
 Justus von Daniels ist seit 2015 im Team von CORRECTIV. Er saß als einziger Journalist vor den geschlossenen Räumen der TTIP-Verhandlungen. Intensiv recherchierte er zu dem umstrittenen Handelspakt, um mehr Transparenz für die Bürger zu schaffen. Der promovierte Volljurist will wissen, wer sinnvolle Lösungen blockiert. Deshalb recherchiert er viel über Lobbyinteressen in der EU und auf lokaler Ebene.
 
-Telefon: 030 555 780 224<br>
+Telefon: 030 555 7802 24<br>
 E-Mail: <a style="color: #e5007d" href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a><br>
 PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
 
