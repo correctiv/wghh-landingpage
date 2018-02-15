@@ -21,7 +21,7 @@ layout: general
 8 Wie können wir uns austauschen?
 
 
-# [Was wollen wir erreichen?](#1)
+<a name="1" id="1">Was wollen wir erreichen?</a>
 
 Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie Wohnen in Hamburg erschwinglich bleiben kann.
 
@@ -34,7 +34,7 @@ Wir wollen mit dieser Recherche auch einen Anstoß geben, ob die Geheimhaltung d
 Und wir sind überzeugt, dass Transparenz den Bürgern hilft, die Stadt mitzugestalten. Wenn wir wissen, wie der Immobilienmarkt funktioniert, können wir Schwachstellen aufzeigen, können Bürger und Politik besser diskutieren, was sich ändern muss, damit Wohnen in Hamburg erschwinglich bleibt.
 
 
-# Wie wollen wir das erreichen?
+# [Wie wollen wir das erreichen?](#2)
 
 Wir gehen einen neuen Weg: gemeinsam mit den Mietern. Denn sie kennen ihren Eigentümer oder haben das Recht darauf, es zu erfahren. Dazu haben wir ein eigenes Portal entwickelt, den CrowdNewsroom. Ab April wird diese Seite um neue Funktionen erweitert. Dann können sich Bürger hier an der Recherche beteiligen, indem sie Informationen aus ihrem Mietvertrag hochladen, die dann verifiziert werden. Gemeinsam finden wir heraus, wem die rund 450.000 unbekannten Eigentümer von privaten Mietwohnungen in Hamburg gehören.
 
