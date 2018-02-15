@@ -43,7 +43,7 @@ Richtig interessant wird es dann mit den Daten von ihnen.
 
 Preise steigen. Warum eigentlich? Ein Grund sind Investoren. Billiges Geld, unregulierter Markt. Die gehen anders mit Wohungen um als der lokale oder der private Vermieter. Heute werden Wohnungen als Produkte gehandelt, Renditeversprechen basieren auf Mieterhöhungen. Wir wollen offen legen, welche Wohnungen, welche Viertel betroffen sind. Nur dann kann man auch gestalten und was ändern.
 
-## Wer sind wir?
+# Wer sind wir?
 
 Correctiv vorstellen. Wir haben Erfahrungen. Wir suchen uns Partner. Abendblatt kennt sich aus in der Stadt. Mieterverein kennt die Probleme, kann Lage einschätzen. Zusammen zu arbeiten macht Sinn, jeder kann beitragen, was er kann.
 
