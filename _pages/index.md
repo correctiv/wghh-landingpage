@@ -16,7 +16,7 @@ slides:
     sich Geschäfte machen. Hamburg ist für Investoren einer der lukrativsten Städte
     in Europa. Doch die Eigentümer bleiben der Öffentlichkeit verborgen.'
   image:
-    src: assets/images/1.jpg
+    src: assets/images/Bild1.jpg
 - title: Wer spielt mit Ihrer Wohnung?
   teaser: Viele Immobilien sind Teil großer Spekulationen oder werden für fragwürdige
     Geschäfte benutzt. Hinter manchen Vermietern stehen anonyme Briefkastenfirmen.
@@ -24,7 +24,7 @@ slides:
     Vielleicht kennen sie noch nicht einmal den wahren Inhaber. Auch die Politik hat
     keinen flächendeckenden Überblick, wem die Stadt gehört. '
   image:
-    src: assets/images/2.jpg
+    src: assets/images/Bild2.jpg
 - title: Sie sind gefragt!
   teaser: Wir wollen mit Ihnen aufdecken, wer mit ihrer Wohnung spielt. Ihre Miete
     erhöht oder sich nicht um Reparaturen kümmert. Gemeinsam finden wir heraus, wer
@@ -33,7 +33,7 @@ slides:
     Hamburgs, die an der Wohnsituation in ihrer Stadt etwas ändern wollen. Und Journalisten,
     die benennen werden, wer die Missstände im Hamburger Immobilienmarkt verantwortet. '
   image:
-    src: assets/images/3.jpg
+    src: assets/images/Bild3.jpg
 blog:
 - title: Wem gehört unser Hamburg? Start einer Mieter-Recherche!
   date: 2017-12-20 00:00:00 Z
