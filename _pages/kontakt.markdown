@@ -58,4 +58,4 @@ PGP Fingerabdruck: FCB0 E910 FF7C E61E F001  867B D455 3098 0091 2CB2
 
 # Diskutieren in der Facebook Gruppe
 
-Auf Facebook wollen wir schon jetzt mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren. Wir geben dazu regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion in unserer Gruppe <a style="color: #e5007d" href="https://www.facebook.com/groups/wemgehoerthamburg/" target="blank">"Wem gehört Hamburg?"</a>.
+Auf Facebook wollen wir schon jetzt mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren. Wir geben dazu regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion in unserer Gruppe <a style="color: #e5007d" href="https://www.facebook.com/groups/wemgehoerthamburg/" target="blank">„Wem gehört Hamburg?“</a>.
