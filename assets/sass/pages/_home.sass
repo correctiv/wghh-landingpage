@@ -67,7 +67,7 @@ main
   background-position-x: center
   background-position-y: center
   background-size: cover
-  height: 100px // trick IE into positioning things center
+  height: 100vh // trick IE into positioning things center
 
   &:not(:first-child)
     padding: 2em 0
@@ -135,6 +135,10 @@ main
 
   .slides li.hero img.wghh-logo
     left: 10vw
+
+@include mq($until: $lg)
+  .slides li
+    background-attachment: scroll
 
 .logos
   display: flex
