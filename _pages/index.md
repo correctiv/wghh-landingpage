@@ -45,9 +45,9 @@ blog:
 newsletter:
   title: Seien Sie dabei!
   copy: "Tragen Sie sich in unseren Newsletter ein. Wir halten Sie schon jetzt über
-    das Projekt und mit Veröffentlichungen zum Wohnungsmarkt auf dem Laufenden. \n\nAb
-    April 2018 erweitern wir diese Seite mit Funktionen zur Datenerhebung und beginnen
-    die gemeinsame Recherche."
+    das Projekt auf dem Laufenden und senden Ihnen Veröffentlichungen über den Wohnungsmarkt
+    zu. \n\nAb April 2018 erweitern wir diese Seite mit Funktionen zur Datenerhebung
+    und beginnen die gemeinsame Recherche."
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: home
