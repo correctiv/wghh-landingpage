@@ -127,8 +127,10 @@ main
       line-height: 26px
 
 
-
-
+@include mq($until: $sm)
+  .slides li .content .teaser, .signup p
+    font-size: 16px
+    line-height: 26px
 
 .logos
   display: flex
