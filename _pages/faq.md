@@ -56,7 +56,7 @@ Von mehr Transparenz profitieren alle: Die Bewohner wissen, in welchen Händen i
 
 <h1><a name="4" id="4">Wer kann sich beteiligen?</a></h1>
 
-Neben den Mietern können sich natürlich auch die Eigentümer beteiligen. Mit dieser Recherche wollen wir nicht private Investoren an den Pranger stellen, die ein oder zwei Objekte in Hamburg besitzen. Uns geht es um mehr Transparenz, die am Ende allen nützt.
+Neben den Mietern können sich natürlich auch die Eigentümer beteiligen. Private Investoren wollen wir mit dieser Recherche nicht an den Pranger stellen. Uns geht es um Transparenz, die am Ende allen nützt.
 
 
 <h1><a name="5" id="5">Wie kann ich mitmachen?</a></h1>
