@@ -101,7 +101,7 @@ Der [Blog FINK](https://fink.hamburg/), die Studentenredaktion der HAW Hamburg, 
 
 <h1><a name="9" id="9">Wie können Sie uns kontaktieren?</a></h1>
 
-Wir werden auch vor Ort sein, um mit Ihnen ins Gespräch zu kommen. Dazu werden wir ab Mitte März einen Teil der CORRECTIV-Redaktion ins Herz der Stadt, nach St. Pauli, verlegen. Wir werden dort Veranstaltungen mit Mietern, Stadtexperten und Politikern organisieren. Alle sind herzlich eingeladen vorbeizukommen.
+Wir werden auch vor Ort sein, um mit Ihnen ins Gespräch zu kommen. Dazu werden wir ab Mitte März einen Teil der CORRECTIV-Redaktion ins Herz der Stadt, nach St. Pauli, verlegen. Wir werden dort Veranstaltungen mit Mietern, Stadtexperten und Politikern organisieren. Alle sind herzlich eingeladen: kommen Sie vorbei!
 
 <a style="color: #e5007d" href="/kontakt">Und Sie können uns auch direkt kontaktieren</a>. Erzählen Sie uns ihre Mietergeschichte, geben Sie uns gerne Hinweise. 
 
