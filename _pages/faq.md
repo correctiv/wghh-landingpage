@@ -70,11 +70,11 @@ Gut ist, wenn viele Bürgerinnen und Bürger mitmachen. Erzählen Sie Ihren Freu
 
 <h1><a name="6" id="6">Was machen wir mit den Daten?</a></h1>
 
-Wir behandeln die Daten mit großer Sorgfalt. Wir tragen alle öffentlich verfügbaren Daten zusammen und kombinieren diese mit den Einträgen, die Mieter und Eigentümer hochladen. Diese Daten werten wir zunächst intern aus. 
+Wir behandeln die Daten mit großer Sorgfalt. Wir tragen alle öffentlich verfügbaren Daten zusammen und kombinieren diese mit den Einträgen, die Mieter und Eigentümer hochladen. Diese Daten werten wir intern aus. 
 
 Später werden wir ausgewählte Daten veröffentlichen. Dabei liegt unser Fokus auf den großen Finanzinvestoren und den Organisationen, die fragwürdig handeln. Die Art der Veröffentlichung hängt davon ab, wie viele Informationen mit uns geteilt werden. Es können Geschichten über besonders problematische Investoren entstehen, aber auch große Übersichten mit den Eigentumsverhältnissen eines Stadtteils.
 
-Was wir keinesfalls veröffentlichen, sind Mietverträge, Nebenkostenabrechnungen oder andere private Dokumente, die Sie uns anvertrauen. Wir werden niemals Informationen veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen – es sei denn dieser erteilt nach Rückfrage seine Zustimmung.
+Was wir keinesfalls veröffentlichen, sind Mietverträge, Nebenkostenabrechnungen oder andere private Dokumente, die Sie uns anvertrauen. Wir werden keine Informationen veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen – es sei denn dieser erteilt nach Rückfrage seine Zustimmung.
 
 
 <h1><a name="7" id="7">Was passiert wann?</a></h1>
@@ -98,7 +98,7 @@ Der [Blog FINK](https://fink.hamburg/), die Studentenredaktion der HAW Hamburg, 
 
 <h1><a name="9" id="9">Wie können Sie uns kontaktieren?</a></h1>
 
-Wir werden auch vor Ort sein, um mit Ihnen ins Gespräch zu kommen. Dazu werden wir ab Mitte März einen Teil der CORRECTIV-Redaktion ins Herz der Stadt, nach St. Pauli, verlegen. Wir werden dort Veranstaltungen mit Mietern, Stadtexperten, Politikern organisieren. Alle sind herzlich eingeladen vorbeizukommen.
+Wir werden auch vor Ort sein, um mit Ihnen ins Gespräch zu kommen. Dazu werden wir ab Mitte März einen Teil der CORRECTIV-Redaktion ins Herz der Stadt, nach St. Pauli, verlegen. Wir werden dort Veranstaltungen mit Mietern, Stadtexperten und Politikern organisieren. Alle sind herzlich eingeladen vorbeizukommen.
 
 <a style="color: #e5007d" href="/kontakt">Und Sie können uns auch direkt kontaktieren</a>. Erzählen Sie uns ihre Mietergeschichte, geben Sie uns gerne Hinweise. 
 
