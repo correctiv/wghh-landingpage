@@ -36,7 +36,7 @@ blog:
 - title: Wem gehört unser Hamburg? Start einer Mieter-Recherche!
   date: 2017-12-20 00:00:00 Z
   publisher: CORRECTIV
-  image: "/uploads/thumb.png"
+  image: "/uploads/hamburg-thumb.png"
   text: Wem gehört Hamburg? CORRECTIV und Hamburger Abendblatt starten Immobilien-Recherche
     – mit Mietern
   link: https://correctiv.org/a/2264
