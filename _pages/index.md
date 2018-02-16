@@ -35,13 +35,12 @@ slides:
 blog:
 - title: Wem gehört unser Hamburg? Start einer Mieter-Recherche!
   date: 2017-12-20 00:00:00 Z
-  publisher: Mieterverein zu Hamburg
-  image: http://bschubert.net/wghh/wp-content/uploads/2018/01/thumb3.jpg
-  text: Wem gehört Hamburg? Diesen Satz werden Sie in den kommenden Monaten häufiger
-    lesen oder hören. Im Januar startet eine Kampagne mit dem Ziel, mehr Transparenz
-    auf dem Hamburger Wohnungsmarkt zu schaffen.
-  link: https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wem-gehoert-unser-hamburg-start-einer-mieter-recherche/index.html
-  hidden: true
+  publisher: CORRECTIV
+  image: "/uploads/thumb.png"
+  text: Wem gehört Hamburg? CORRECTIV und Hamburger Abendblatt starten Immobilien-Recherche
+    – mit Mietern
+  link: https://correctiv.org/a/2264
+  hidden: false
 newsletter:
   title: Seien Sie dabei!
   copy: "Tragen Sie sich in unseren Newsletter ein. Wir halten Sie schon jetzt über
