@@ -25,7 +25,7 @@ Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? <a style=
 
 Die Übertragung erfolgt verschlüsselt: es ist in den meisten Fällen sinnvoll, eine Kontaktmöglichkeit für Rückfragen anzugeben. So können wir Hinweise besser bearbeiten.
 
-Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. 
+Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor: 
 
 <img src="/assets/images/margherita-bettoni.png">
 
