@@ -19,7 +19,7 @@ Schreiben Sie uns: <a style="color: #e5007d" href="mailto:hamburg@correctiv.org"
 
 Für die Recherche zieht ein Teil der CORRECTIV-Redaktion ab Mitte März nach Hamburg um. Wir schlagen unser Zelt am **Hein-Köllisch-Platz 12 im Cafe der Initiative GWA** auf. Kommen Sie vorbei: sprechen Sie mit uns, holen Sie sich weitere Informationen oder nehmen an unseren Diskussionsveranstaltungen teil.
 
-# Anonym kontaktieren
+# Vertraulich kontaktieren
 
 Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? <a style="color: #e5007d" href="https://correctiv-upload.org" target="blank">Hier</a> können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden. 
 
