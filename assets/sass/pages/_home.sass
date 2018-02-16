@@ -72,20 +72,19 @@ main
     padding: 2em 0
 
   &.hero
+    height: 100px
     video
-      width: auto
-      height: 100vh
-      min-width: 100%
-      min-height: 100%
+      position: absolute
+      left: 0
+      top: 0
+      width: 100%
+      height: 100%
       object-fit: cover
 
     img.wghh-logo
       width: 400px
-      position: absolute
       z-index: 1
       max-width: 80%
-      left: calc(50% - 200px)
-      top: calc(50% - 200px)
 
     .scroller
       z-index: 2
@@ -296,7 +295,6 @@ main
       height: 72px
       width: 185px
       margin-top: 14px
-
 
 .footer
   max-width: $inset-width
