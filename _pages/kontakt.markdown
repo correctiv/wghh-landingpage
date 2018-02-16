@@ -13,13 +13,27 @@ layout: general
 <br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns Ihre Geschichte, die Sie mit Ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
 
-Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. Und Sie finden Informationen, wie Sie uns vor Ort in Hamburg und in unserer Redaktion erreichen:
+**Schreiben Sie uns: 
+
+hamburg@correctiv.org**
+
+# Wir sind vor Ort: Besuchen Sie uns!
+
+Für die Recherche zieht ein Teil der CORRECTIV-Redaktion ab Mitte März nach Hamburg um. Wir schlagen unser Zelt am **Hein-Köllisch-Platz 12 im Cafe der Initiative GWA** auf. Kommen Sie vorbei: sprechen Sie mit uns, holen Sie sich weitere Informationen oder nehmen an unseren Diskussionsveranstaltungen teil.
+
+# Anonym kontaktieren
+
+Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? <a style="color: #e5007d" href="https://correctiv-upload.org" target="blank">Hier</a> können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden. 
+
+Die Übertragung erfolgt verschlüsselt: es ist in den meisten Fällen sinnvoll, eine Kontaktmöglichkeit für Rückfragen anzugeben. So können wir Hinweise besser bearbeiten.
+
+Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor. 
 
 <img src="/assets/images/margherita-bettoni.png">
 
 **Reporterin Margherita Bettoni**
 
-In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 als Reporterin bei CORRECTIV. Dort arbeitet sie bisher vor allem zu Themen rund um die italienische Mafia in Deutschland, recherchiert über die Türkei und generell zu organisierter Kriminalität. Sie ist in sechs Sprachen erreichbar: Deutsch, Englisch, Spanisch, Französisch, Italienisch und Türkisch.
+In Hamburg können Sie Margherita Bettoni direkt ansprechen. Sie ist seit 2015 als Reporterin bei CORRECTIV. Dort arbeitet sie bisher vor allem zu Themen rund um die italienische Mafia in Deutschland und organisierte Kriminalität generell. Zudem recherchiert sie über die Türkei. Margherita ist in sechs Sprachen erreichbar: Deutsch, Englisch, Spanisch, Französisch, Italienisch und Türkisch.
 
 E-Mail: <a style="color: #e5007d" href="mailto:margherita.bettoni@correctiv.org">margherita.bettoni(at)correctiv.org</a><br>
 PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
@@ -28,7 +42,7 @@ PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
 **Reporter Justus von Daniels** 
 
-Justus von Daniels ist seit 2015 im Team von CORRECTIV. Er saß als einziger Journalist vor den geschlossenen Räumen der TTIP-Verhandlungen. Intensiv recherchierte er zu dem umstrittenen Handelspakt, um mehr Transparenz für die Bürger zu schaffen. Der promovierte Volljurist will wissen, wer sinnvolle Lösungen blockiert. Deshalb recherchiert er viel über Lobbyinteressen in der EU und auf lokaler Ebene.
+Justus von Daniels ist seit 2015 im Team von CORRECTIV. Er berichtete als einziger Journalist von vor Ort über die  geschlossenen Verhandlungsrunden über das Freihandelsabkommen TTIP. Intensiv recherchierte er zu dem umstrittenen Handelspakt, um Transparenz für die Bürgerinnen und Bürger Europas zu schaffen. Der promovierte Volljurist will wissen, wer sinnvolle Lösungen blockiert. Deshalb recherchiert er viel über Lobbyinteressen in der EU und auf lokaler Ebene.
 
 Telefon: 030 555 7802 24<br>
 E-Mail: <a style="color: #e5007d" href="mailto:justus.von.daniels@correctiv.org">justus.von.daniels(at)correctiv.org</a><br>
@@ -38,19 +52,11 @@ PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
 
 **Reporter Jonathan Sachse**
 
-Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Seitdem war er an mehreren Recherchen beteiligt, die Bürger und Journalisten zusammenbringen. Er hat sich mit der Kreditpolitik von Banken beschäftigt, berichtet über intransparente Organisationen und hat schon dutzende Auskunftsanfragen bei Grundbuchämtern gestellt.
+Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Er hat den CrowdNewsroom von CORRECTIV mit entwickelt. Seitdem war er an mehreren Recherchen beteiligt, die Bürger und Journalisten gemeinsam unternehmen. Er hat sich mit politischer Einflussnahme bei Sparkassen beschäftigt, recherchiert über das Innenleben verschwiegener Organisationen und hat schon dutzende Auskunftsanfragen bei Grundbuchämtern gestellt.
 
 Telefon: 030 5557802 14<br>
 E-Mail: <a style="color: #e5007d" href="mailto:jonathan.sachse@correctiv.org">jonathan.sachse(at)correctiv.org</a><br>
 PGP Fingerabdruck: FCB0 E910 FF7C E61E F001  867B D455 3098 0091 2CB2
-
-# Besuchen Sie uns!
-
-Für die Recherche zieht ein Teil der CORRECTIV-Redaktion ab Mitte März nach Hamburg um. Wir schlagen unser Zelt am Hein-Köllisch-Platz 12 im Cafe der Initiative GWA auf. Kommen Sie vorbei, zum Gespräch, um sich weiter zu informieren, oder zu den Diskussionsveranstaltungen, die wir dort anbieten.
-
-# Anonym kontaktieren
-
-Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? <a style="color: #e5007d" href="https://correctiv-upload.org" target="blank">Hier</a> können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden.
 
 # Diskutieren in der Facebook Gruppe
 
