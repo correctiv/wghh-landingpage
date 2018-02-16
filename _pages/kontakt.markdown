@@ -50,7 +50,7 @@ PGP Fingerabdruck: C3E2 C881 91F2 8099 3573  1936 AE91 3C1E 9E2F 482C
 
 **Reporter Jonathan Sachse**
 
-Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Er hat den CrowdNewsroom von CORRECTIV mit entwickelt. Seitdem war er an mehreren Recherchen beteiligt, die Bürger und Journalisten gemeinsam unternehmen. Er hat sich mit politischer Einflussnahme bei Sparkassen beschäftigt, recherchiert über das Innenleben verschwiegener Organisationen und hat schon dutzende Auskunftsanfragen bei Grundbuchämtern gestellt.
+Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Er hat den CrowdNewsroom von CORRECTIV mit konzipiert. Seitdem war er an mehreren Recherchen beteiligt, die Bürger und Journalisten gemeinsam unternehmen. Er hat sich mit politischer Einflussnahme bei Sparkassen beschäftigt, recherchiert über das Innenleben verschwiegener Organisationen und hat schon dutzende Auskunftsanfragen bei Grundbuchämtern gestellt.
 
 Telefon: 030 5557802 14<br>
 E-Mail: <a style="color: #e5007d" href="mailto:jonathan.sachse@correctiv.org">jonathan.sachse(at)correctiv.org</a><br>
