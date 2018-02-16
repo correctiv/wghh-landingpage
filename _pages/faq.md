@@ -67,7 +67,7 @@ Nicht selten ist der Vermieter im Mietvertrag nicht gleich der Eigentümer. Denn
 
 Dazu werden wir ab April den CrowdNewsroom einsetzen.
 
-Wichtig ist, das viele Bürgerinnen und Bürger mitmachen: je mehr mitmachen, desto mehr Schlüsse über den Immobilienmarkt lassen sich ziehen. Erzählen Sie Ihren Freunden und Nachbarn von dem Projekt. Teilen Sie diese Seite auf Facebook, Twitter oder Instagram.
+Wichtig ist, das viele Bürgerinnen und Bürger mitmachen: je mehr sich beteiligen, desto mehr Schlüsse über den Immobilienmarkt lassen sich ziehen. Erzählen Sie Ihren Freunden und Nachbarn von dem Projekt. Teilen Sie diese Seite auf Facebook, Twitter oder Instagram.
 
 <h1><a name="6" id="6">Was machen wir mit den Daten?</a></h1>
 
