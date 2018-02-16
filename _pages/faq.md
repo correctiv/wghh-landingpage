@@ -47,7 +47,7 @@ Im Team werten [CORRECTIV](https://correctiv.org/) und das [Hamburger Abendblatt
 
 <h1><a name="3" id="3">Warum betrifft diese Recherche die Mieter?</a></h1>
 
-Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. Es ist zum Beispiel nicht vorgeschrieben, dass der Eigentümer einer Wohnung im Mietvertrag angegeben sein muss. Viele Mieter schließen ihren Vertrag mit einer Hausverwaltung ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu erreichen.
+Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu erreichen.
 
 Und die Eigentümer bestimmen die Mietpreise. Große Investoren drängen zunehmend auf den Markt und handeln mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze des Erlaubten gehen und manchmal darüber hinaus.
 
