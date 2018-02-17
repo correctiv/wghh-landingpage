@@ -37,7 +37,8 @@ blog:
   date: 2018-02-17 08:00:00 Z
   publisher: CORRECTIV
   image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/1d/93/1d936166-6690-42c1-9973-4445385b2a11/hamburg_23correctiv_ivo-mayr_benjamin-schubert.jpg__1280x700_q85_crop_subsampling-2.jpg
-  text: CORRECTIV und Hamburger Abendblatt starten Immobilien-Recherche – mit Mietern
+  text: CORRECTIV und Hamburger Abendblatt starten Immobilien-Recherche – gemeinsam
+    mit den Mietern.
   link: https://correctiv.org/a/2264
   hidden: false
 - title: "„Investoren schrauben die Mieten in Hamburg nach oben“"
