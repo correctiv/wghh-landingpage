@@ -41,12 +41,12 @@ blog:
     mit den Mietern.
   link: https://correctiv.org/a/2264
   hidden: false
-- title: "„Investoren schrauben die Mieten in Hamburg nach oben“"
+- title: "„Investoren schrauben Mieten nach oben“"
   date: 2018-02-17 10:00:00 Z
   publisher: Hamburger Abendblatt
   image: "/uploads/Chychla_1280.jpg"
   text: Mietervereins-Chef ruft die Hamburger auf, beim Rechercheprojekt von Abendblatt
-    und Correctiv mitzuwirken – zu ihrem eigenen Schutz.
+    und CORRECTIV mitzuwirken – zu ihrem eigenen Schutz.
   link: https://www.abendblatt.de/nachrichten/article213469255/Investoren-schrauben-die-Mieten-in-Hamburg-nach-oben.html
   hidden: false
 newsletter:
