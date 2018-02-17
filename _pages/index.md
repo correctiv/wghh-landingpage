@@ -43,7 +43,7 @@ blog:
 - title: "„Investoren schrauben die Mieten in Hamburg nach oben“"
   date: 2018-02-17 10:00:00 Z
   publisher: Hamburger Abendblatt
-  image: "/uploads/Chychla-6-0be9fe.jpg"
+  image: "/uploads/Chychla_1280.jpg"
   text: Mietervereins-Chef ruft die Hamburger auf, beim Rechercheprojekt von Abendblatt
     und Correctiv mitzuwirken – zu ihrem eigenen Schutz.
   link: https://www.abendblatt.de/nachrichten/article213469255/Investoren-schrauben-die-Mieten-in-Hamburg-nach-oben.html
