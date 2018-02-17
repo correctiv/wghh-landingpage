@@ -82,7 +82,7 @@ Was wir keinesfalls veröffentlichen, sind Mietverträge, Nebenkostenabrechnunge
 
 <h1><a name="7" id="7">Was passiert wann?</a></h1>
 
-In der Startphase wollen wir die Bürgerinnen und Bürger über das Projekt infomieren. Dazu haben wir diese Seite eingerichtet, auf der man sich <a style="color: #e5007d" href="/#signup">in den Newsletter</a> kann. In dem Newsletter informiert CORRECTIV über den Fortgang des Projektes und unsere ersten Veröffentlichungen gemeinsam mit dem Hamburger Abendblatt über den Wohnungsmarkt in Hamburg.
+In der Startphase wollen wir die Bürgerinnen und Bürger über das Projekt infomieren. Dazu haben wir diese Seite eingerichtet, auf der man sich <a style="color: #e5007d" href="/#signup">in den Newsletter</a> eintragen kann. In dem Newsletter informiert CORRECTIV über den Fortgang des Projektes und unsere ersten Veröffentlichungen gemeinsam mit dem Hamburger Abendblatt über den Wohnungsmarkt in Hamburg.
 
 Ab April beginnen wir die Bürgerrecherche. Einen Monat lang arbeiten wir mit Bürgern zusammen, um mehr über die Wohnungsinhaber zu erfahren. 
 
