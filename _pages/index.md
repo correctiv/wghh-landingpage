@@ -49,6 +49,14 @@ blog:
     – zu ihrem eigenen Schutz.
   link: https://www.abendblatt.de/nachrichten/article213469255/Investoren-schrauben-die-Mieten-in-Hamburg-nach-oben.html
   hidden: false
+- title: Wem gehört Hamburg? Machen Sie mit!
+  date: 2018-02-16 00:00:00 Z
+  publisher: Hamburger Abendblatt
+  image: https://img.abendblatt.de/img/hamburg/crop209805143/6482607140-w820-cv16_9-q85/Balkon-1.jpg
+  text: 'Mieter, Eigentümer, Immobilieninvestoren: Rechercheprojekt von Correctiv
+    und Abendblatt macht den Wohnungsmarkt transparent.'
+  link: https://www.abendblatt.de/nachrichten/article213466063/Wem-gehoert-Hamburg-Machen-Sie-mit.html
+  hidden: false
 newsletter:
   title: Seien Sie dabei!
   copy: "Tragen Sie sich in unseren Newsletter ein. Wir halten Sie schon jetzt über
