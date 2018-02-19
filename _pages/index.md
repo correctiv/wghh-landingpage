@@ -49,6 +49,13 @@ blog:
     – zu ihrem eigenen Schutz.
   link: https://www.abendblatt.de/nachrichten/article213469255/Investoren-schrauben-die-Mieten-in-Hamburg-nach-oben.html
   hidden: false
+- title: CORRECTIV startet weitere CrowdNewsroom-Recherche
+  date: 2018-02-17 00:00:00 Z
+  publisher: CORRECTIV
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/b0/00/b000223c-5d14-4c44-a479-adef3e0aefb9/crowdnewsroom01.jpg__1280x700_q85_crop_subject_location-2067%2C1378_subsampling-2.jpg
+  text: Journalisten und Bürger recherchieren über Wohnen in Hamburg
+  link: https://correctiv.org/blog/2018/02/17/correctiv-startet-weitere-crowdnewsroom-recherche-wem-gehort-hamburg/
+  hidden: false
 - title: Wem gehört Hamburg? Machen Sie mit!
   date: 2018-02-16 00:00:00 Z
   publisher: Hamburger Abendblatt
@@ -56,13 +63,6 @@ blog:
   text: 'Mieter, Eigentümer, Immobilieninvestoren: Rechercheprojekt von Correctiv
     und Abendblatt macht den Wohnungsmarkt transparent.'
   link: https://www.abendblatt.de/nachrichten/article213466063/Wem-gehoert-Hamburg-Machen-Sie-mit.html
-  hidden: false
-- title: CORRECTIV startet weitere CrowdNewsroom-Recherche
-  date: 2018-02-17 00:00:00 Z
-  publisher: CORRECTIV
-  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/b0/00/b000223c-5d14-4c44-a479-adef3e0aefb9/crowdnewsroom01.jpg__1280x700_q85_crop_subject_location-2067%2C1378_subsampling-2.jpg
-  text: Journalisten und Bürger recherchieren über Wohnen in Hamburg
-  link: https://correctiv.org/blog/2018/02/17/correctiv-startet-weitere-crowdnewsroom-recherche-wem-gehort-hamburg/
   hidden: false
 newsletter:
   title: Seien Sie dabei!
