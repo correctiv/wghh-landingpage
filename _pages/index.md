@@ -64,6 +64,14 @@ blog:
     und Abendblatt macht den Wohnungsmarkt transparent.'
   link: https://www.abendblatt.de/nachrichten/article213466063/Wem-gehoert-Hamburg-Machen-Sie-mit.html
   hidden: false
+- title: Verhindert die Bezirkspolitik Wohnungsbau in Hamburg?
+  date: 2018-02-20 00:00:00 Z
+  publisher: Hamburger Abendblatt
+  image: https://img.abendblatt.de/img/hamburg/crop213501075/255260617-w820-cv16_9-q85/1495AE00E5ABABD5.jpg
+  text: Die Zahl der fertiggestellten Wohnungen in Hamburg ist um fast 20 Prozent
+    zurückgegangen. Dafür gibt es mehr Neubauprojekte.
+  link: https://www.abendblatt.de/nachrichten/article213501077/Verhindert-die-Bezirkspolitik-Wohnungsbau-in-Hamburg.html
+  hidden: false
 newsletter:
   title: Seien Sie dabei!
   copy: "Tragen Sie sich in unseren Newsletter ein. Wir halten Sie schon jetzt über
