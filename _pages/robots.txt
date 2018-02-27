@@ -1,4 +1,5 @@
 ---
+title: Robots
 permalink: "/robots.txt"
 sitemap:
   exclude: true
