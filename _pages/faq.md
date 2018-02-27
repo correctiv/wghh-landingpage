@@ -29,7 +29,7 @@ Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie die Wohn
 
 Viele Eigentümer von Mietwohnungen sind nicht öffentlich. Das betrifft Mieter, die den wahren Eigentümer ihrer Wohnung nicht kennen. Von der Intransparenz profitieren auch Firmen, die mit Wohnungen handeln oder Mieter ausnutzen.  
 
-Wir wollen recherchieren, ob fragwürdige Firmen ihre Geschäfte in Hamburg machen. Oder ob in Einzelfällen Immobilienkäufe zur Geldwäsche genutzt werden. Mit der Recherchen können wir prüfen, ob sich Investoren an die Vorgabe halten, Wohnungen zu sozialverträglichen Preisen anzubieten.
+Wir wollen recherchieren, ob fragwürdige Firmen ihre Geschäfte in Hamburg machen. Oder ob in Einzelfällen Immobilienkäufe zur Geldwäsche genutzt werden. Mit den Recherchen können wir prüfen, ob sich Investoren an die Vorgabe halten, Wohnungen zu sozialverträglichen Preisen anzubieten.
 
 Wir wollen mit dieser Recherche auch die Frage aufwerfen, ob die Geheimhaltung der Grundbücher noch zeitgemäß ist. Die Grundbücher der Städte und Gemeinden in Deutschland sind nicht vernetzt, nur wenige haben Zugang. Das nützt Firmen, die Geschäfte verschleiern wollen.
 
@@ -40,23 +40,23 @@ Und wir sind überzeugt, dass Transparenz den Bürgern hilft, die Stadt mitzuges
 
 Wir gehen einen neuen Weg: gemeinsam mit den Mietern. Denn Sie kennen Ihren Eigentümer oder haben das Recht darauf, es zu erfahren. Dazu nutzen wir unsere Plattform CrowdNewsroom, mit der wir bereits erfolgreich bei zwei Recherchen gearbeitet haben. Bürger in ganz Deutschland sammelten Informationen über faule Kredite, Vorstandsgehälter und überhöhte Dispozinsen [ihrer lokalen Sparkassen](https://correctiv.org/recherchen/sparkassen/). In Dortmund meldeten hunderte Schüler, Lehrer und Eltern einen Monat lang den [Unterrichtsausfall](https://crowdnewsroom.org/unterrichtsausfall-der-check/) an ihrer Schule. Mit der Recherche zum Wohnungsmarkt in Hamburg führen wir die Idee des CrowdNewsroom fort. Interessierte Bürger lernen journalistische Methoden kennen und helfen gleichzeitig bei großen Recherchen, die mit einem kleinen Team nicht umsetzbar wären.
 
-Das bedeutet konkret: Ab April wird die Seite [wem-gehoert-hamburg.de ](http://wem-gehoert-hamburg.de/)um neue Funktionen aus dem CrowdNewsroom erweitert. Dann können sich Bürger hier an der Recherche beteiligen, indem sie Informationen aus ihrem Mietvertrag hochladen, die dann verifiziert werden. Gemeinsam finden wir heraus, wem die rund 450.000 unbekannten Eigentümer von privaten Mietwohnungen in Hamburg gehören.
+Das bedeutet konkret: Ab April wird die Seite [wem-gehoert-hamburg.de ](http://wem-gehoert-hamburg.de/)um neue Funktionen aus dem CrowdNewsroom erweitert. Dann können sich Bürger hier an der Recherche beteiligen, indem sie Informationen aus ihrem Mietvertrag hochladen, die dann verifiziert werden.
 
-Im Team werten [CORRECTIV](https://correctiv.org/) und das [Hamburger Abendblatt](https://www.abendblatt.de/) die Daten anschließend aus, recherchieren zu den Hintergründen von fragwürdigen Eigentümern.
+Im Team werten [CORRECTIV](https://correctiv.org/) und das [Hamburger Abendblatt](https://www.abendblatt.de/) die Daten anschließend aus, recherchieren zu den Hintergründen von fragwürdigen Eigentümern und veröffentlichen das, was relevant ist.
 
 
 <h1><a name="3" id="3">Warum betrifft diese Recherche die Mieter?</a></h1>
 
 Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu erreichen.
 
-Und die Eigentümer bestimmen die Mietpreise. Große Investoren drängen zunehmend auf den Markt und handeln mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze des Erlaubten gehen und manchmal darüber hinaus.
+Große Investoren drängen zunehmend auf den Markt und handeln mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze des Erlaubten gehen und manchmal darüber hinaus.
 
 Von mehr Transparenz profitieren alle: Die Bewohner wissen, in welchen Händen ihre Wohnung ist. Journalisten können mit den Infos Missstände herausfinden. Das wiederum bringt Aufklärung. Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt gelingen kann.
 
 
 <h1><a name="4" id="4">Wer kann sich beteiligen?</a></h1>
 
-Neben den Mietern können sich natürlich auch die Eigentümer beteiligen. Private Investoren wollen wir mit dieser Recherche nicht an den Pranger stellen. Uns geht es um Transparenz, die am Ende allen nützt.
+Neben den Mietern können sich natürlich auch die Eigentümer beteiligen. Kleine, private Eigentümer wollen wir mit dieser Recherche nicht an den Pranger stellen. Wir veröffentlichen nur Auswertungen der Daten, die relevant sind, um Missstände zu benennen.
 
 
 <h1><a name="5" id="5">Wie kann ich mitmachen?</a></h1>
