@@ -19,14 +19,15 @@ slides:
 - title: Wer spielt mit Ihrer Wohnung?
   teaser: Vielen Mietern ist der Besitzer ihrer Wohnung nicht bekannt, weil im Mietvertrag
     nicht der wahre Eigentümer steht.
-  main: 'Das hat Konsequenzen. Für viele Mieter sind die Eigentümer nur schwer erreichbar.
-    Auch die Politik hat keinen Überblick, wem die Stadt gehört. '
+  main: 'Das hat Konsequenzen: Sie wissen nicht, wer Ihre Miete erhöht oder sich um
+    Reparaturen kümmert.  Auch die Politik hat keinen Überblick, wem die Stadt gehört. '
   image:
     src: assets/images/Bild2.jpg
 - title: Sie sind gefragt!
-  teaser: Wir wollen mit Ihnen herausfinden, wem Ihre Wohnung gehört. Wer Ihre Miete
-    erhöht oder sich nicht um Reparaturen kümmert. Und wir können aufdecken, wer von
-    der Intransparenz im Immobilienmarkt profitiert.
+  teaser: Wir wollen mit Ihnen herausfinden, wem Hamburg gehört. Ab April 2018 können
+    Sie auf dieser Seite den Eigentümer Ihrer Wohnung eintragen – oder wir finden
+    ihn gemeinsam heraus. So können wir aufdecken, wer von der Intransparenz im Immobilienmarkt
+    profitiert.
   main: Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
     Hamburgs, die in Ihrer Stadt etwas ändern wollen. Wir wollen zeigen, wer für die
     Lage auf dem Hamburger Immobilienmarkt verantwortlich ist.
