@@ -37,14 +37,14 @@ blog:
 - title: Über dem Limit
   date: 2018-03-05 18:00:00 Z
   publisher: CORRECTIV
-  image: "/uploads/HeaderLimit.jpg"
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/c6/a9/c6a9ec41-b7bd-41fd-8242-0b0978b1861e/hamburg_18correctiv_ivo-mayr_benjamin-schubert.jpg__1280x700_q85_crop_subject_location-2448%2C1632_subsampling-2.jpg
   text: Hamburger Vermieter tricksen bei Mieterhöhungen aufgrund des Mietspiegels.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/05/uber-dem-limit/
   hidden: false
 - title: Haus verkommt – Bezirk will Vermieter enteignen
   date: 2018-02-28 00:00:00 Z
   publisher: Hamburger Abendblatt
-  image: "/uploads/GrindelalleeWGHH.jpg"
+  image: https://img.abendblatt.de/img/hamburg/crop213573563/3562603322-w820-cv16_9-q85/grindelallee-55003a52-e187-410a-a319-4fd0eefa80e9.jpg
   text: Mieter von der Grindelallee werden seit Jahren schikaniert. Jetzt handelt
     die Verwaltung im Kampf gegen den dubiosen Eigentümer.
   link: https://www.abendblatt.de/nachrichten/article213573565/Haus-verkommt-Bezirk-will-Vermieter-enteignen.html
