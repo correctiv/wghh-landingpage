@@ -34,13 +34,20 @@ slides:
   image:
     src: assets/images/Bild3.jpg
 blog:
-- title: 'Es geht los: Wem gehört Hamburg?'
-  date: 2018-02-17 08:00:00 Z
+- title: Über dem Limit
+  date: 2018-03-05 18:00:00 Z
   publisher: CORRECTIV
-  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/1d/93/1d936166-6690-42c1-9973-4445385b2a11/hamburg_23correctiv_ivo-mayr_benjamin-schubert.jpg__1280x700_q85_crop_subsampling-2.jpg
-  text: CORRECTIV und Hamburger Abendblatt starten Immobilien-Recherche – gemeinsam
-    mit den Mietern.
-  link: https://correctiv.org/a/2264
+  image: "/uploads/HeaderLimit.jpg"
+  text: Hamburger Vermieter tricksen bei Mieterhöhungen aufgrund des Mietspiegels.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/05/uber-dem-limit/
+  hidden: false
+- title: Haus verkommt – Bezirk will Vermieter enteignen
+  date: 2018-02-28 00:00:00 Z
+  publisher: Hamburger Abendblatt
+  image: "/uploads/GrindelalleeWGHH.jpg"
+  text: Mieter von der Grindelallee werden seit Jahren schikaniert. Jetzt handelt
+    die Verwaltung im Kampf gegen den dubiosen Eigentümer.
+  link: https://www.abendblatt.de/nachrichten/article213573565/Haus-verkommt-Bezirk-will-Vermieter-enteignen.html
   hidden: false
 - title: "„Investoren schrauben Mieten nach oben“"
   date: 2018-02-17 10:00:00 Z
@@ -57,21 +64,13 @@ blog:
   text: Journalisten und Bürger recherchieren über Wohnen in Hamburg
   link: https://correctiv.org/blog/2018/02/17/correctiv-startet-weitere-crowdnewsroom-recherche-wem-gehort-hamburg/
   hidden: false
-- title: Wem gehört Hamburg? Machen Sie mit!
-  date: 2018-02-16 00:00:00 Z
-  publisher: Hamburger Abendblatt
-  image: https://img.abendblatt.de/img/hamburg/crop209805143/6482607140-w820-cv16_9-q85/Balkon-1.jpg
-  text: 'Mieter, Eigentümer, Immobilieninvestoren: Rechercheprojekt von Correctiv
-    und Abendblatt macht den Wohnungsmarkt transparent.'
-  link: https://www.abendblatt.de/nachrichten/article213466063/Wem-gehoert-Hamburg-Machen-Sie-mit.html
-  hidden: false
-- title: Verhindert die Bezirkspolitik Wohnungsbau in Hamburg?
-  date: 2018-02-20 00:00:00 Z
-  publisher: Hamburger Abendblatt
-  image: https://img.abendblatt.de/img/hamburg/crop213501075/255260617-w820-cv16_9-q85/1495AE00E5ABABD5.jpg
-  text: Die Zahl der fertiggestellten Wohnungen in Hamburg ist um fast 20 Prozent
-    zurückgegangen. Dafür gibt es mehr Neubauprojekte.
-  link: https://www.abendblatt.de/nachrichten/article213501077/Verhindert-die-Bezirkspolitik-Wohnungsbau-in-Hamburg.html
+- title: 'Es geht los: Wem gehört Hamburg?'
+  date: 2018-02-17 08:00:00 Z
+  publisher: CORRECTIV
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/1d/93/1d936166-6690-42c1-9973-4445385b2a11/hamburg_23correctiv_ivo-mayr_benjamin-schubert.jpg__1280x700_q85_crop_subsampling-2.jpg
+  text: CORRECTIV und Hamburger Abendblatt starten Immobilien-Recherche – gemeinsam
+    mit den Mietern.
+  link: https://correctiv.org/a/2264
   hidden: false
 newsletter:
   title: Seien Sie dabei!
