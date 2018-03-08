@@ -2,6 +2,7 @@
 title: Ask your Hausverwaltung
 date: 2018-03-07 15:55:00 Z
 permalink: "/ask"
+main-classes: spaced
 layout: general
 ---
 
@@ -19,8 +20,8 @@ Lorem ipsum dolor amet pabst cray kickstarter trust fund hashtag offal fingersta
 <form action="https://correctiv.us12.list-manage.com/subscribe/post?u=74b23e1b0af8c36eb217e01c1&amp;id=4a8c81f17b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Find the name of your Eingentümer via your Hausverwaltung</h2>
-          <h3>Enter your email and we will send you an email with the detailed instructions and 
-          documents to send to your Hausverwaltung.</h3>
+          <p>Enter your email and we will send you an email with the detailed instructions and 
+          documents to send to your Hausverwaltung.</p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
