@@ -34,12 +34,13 @@ slides:
   image:
     src: assets/images/Bild3.jpg
 blog:
-- title: Über dem Limit
-  date: 2018-03-05 18:00:00 Z
+- title: Kampf um Altona
+  date: 2018-03-09 08:00:00 Z
   publisher: CORRECTIV
-  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/c6/a9/c6a9ec41-b7bd-41fd-8242-0b0978b1861e/hamburg_18correctiv_ivo-mayr_benjamin-schubert.jpg__1280x700_q85_crop_subject_location-2448%2C1632_subsampling-2.jpg
-  text: Hamburger Vermieter tricksen bei Mieterhöhungen aufgrund des Mietspiegels.
-  link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/05/uber-dem-limit/
+  image: "/uploads/bernie-fenster-kind.jpg__1280x700_q85_crop_subject_location-1327,790_subsampling-2-4ab118.jpg"
+  text: 'Zwei Investoren kaufen einen Hinterhof in Altona, auf dem mehr als 100 Menschen
+    arbeiten und leben. Was wiegt höher: Gewinnerwartugnen oder Gemeinschaft?'
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/09/kampf-um-altona/
   hidden: false
 - title: Haus verkommt – Bezirk will Vermieter enteignen
   date: 2018-02-28 00:00:00 Z
