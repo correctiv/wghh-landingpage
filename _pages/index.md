@@ -37,7 +37,7 @@ blog:
 - title: Kampf um Altona
   date: 2018-03-09 08:00:00 Z
   publisher: CORRECTIV
-  image: "/uploads/bernie-fenster-kind.jpg__1280x700_q85_crop_subject_location-1327,790_subsampling-2-4ab118.jpg"
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/f0/b4/f0b455b6-47d2-4715-81a5-0ce96690f3a8/bernie-fenster-kind.jpg__1280x700_q85_crop_subject_location-1327%2C790_subsampling-2.jpg
   text: 'Zwei Investoren kaufen einen Hinterhof in Altona, auf dem mehr als 100 Menschen
     arbeiten und leben. Was wiegt höher: Gewinnerwartugnen oder Gemeinschaft?'
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/09/kampf-um-altona/
