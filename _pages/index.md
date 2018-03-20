@@ -38,7 +38,8 @@ blog:
   date: 2018-04-05 19:00:00 Z
   publisher: CORRECTIV
   image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F42304637%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C1200%2C600&s=d3ca78e6e659d426de46754c185de9ea
-  text: Besuchen Sie unsere Auftaktveranstaltung beim Hamburger Abendblatt
+  text: 'Besuchen Sie unsere Auftaktveranstaltung beim Hamburger Abendblatt. Jetzt
+    anmelden:'
   link: https://www.eventbrite.de/e/wem-gehort-hamburg-auftakt-zur-gemeinsamen-eigentumer-recherche-tickets-44250350991
   hidden: false
 - title: 'Event: Wie kann die Politik die Wohnungskrise lösen?'
@@ -46,7 +47,7 @@ blog:
   publisher: CORRECTIV
   image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F42459641%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C800%2C400&s=20b8631544ac47cba99dcc3a3232dcd2
   text: Bei einer Podiumsdiskussion diskutieren Sven Giegold und Matthias Kock über
-    den Wohnungsmarkt in Hamburg.
+    den Wohnungsmarkt in Hamburg. Kommen Sie vorbei.
   link: https://www.eventbrite.de/e/mieter-und-investoren-wie-kann-die-politik-die-wohnungskrise-losen-tickets-44363115272
   hidden: false
 - title: Kampf um Altona
