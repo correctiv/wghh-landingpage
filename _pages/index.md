@@ -37,7 +37,7 @@ blog:
 - title: 'Event: Wie kann die Politik die Wohnungskrise lösen?'
   date: 2018-03-29 19:00:00 Z
   publisher: CORRECTIV
-  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F42459641%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C800%2C400&s=20b8631544ac47cba99dcc3a3232dcd2
+  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F42472299%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C1920%2C960&s=c1994c76cf4e1c78e8f5dc201005f4e8
   text: Bei einer Podiumsdiskussion diskutieren Sven Giegold und Matthias Kock über
     den Wohnungsmarkt in Hamburg. Kommen Sie vorbei.
   link: https://www.eventbrite.de/e/mieter-und-investoren-wie-kann-die-politik-die-wohnungskrise-losen-tickets-44363115272
