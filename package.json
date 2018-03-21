@@ -46,7 +46,6 @@
     "modularscale-sass": "^3.0.3",
     "node-sass": "^4.5.3",
     "postcss-loader": "^1.1.1",
-    "prepush": "^3.1.11",
     "resolve-url-loader": "^2.1.0",
     "sass-loader": "^6.0.6",
     "sass-mq": "^3.3.2",
