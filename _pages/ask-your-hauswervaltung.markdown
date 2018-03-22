@@ -44,7 +44,7 @@ Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup--> 
 
-## Zwischenschritt bei Problemen: Dranbleiben 
+## Bei Problemen: Dranbleiben 
 Sollte Ihre Hausverwaltung die Information verweigern, fragen Sie nach. Der Mieterverein zu Hamburg hat [auf seiner Webseite](https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wer-ist-mein-vermieter-wem-gehoert-meine-mietwohnung/index.html) Argumente zusammengetragen, die Sie dafür nutzen können. Sie finden ein passendes Urteil, was der Mieterverein zu Hamburg erstritten hat. Außerdem können Sie dort einen zweiten Musterbrief herunterladen, den Sie am besten für Nachfragen verwenden.
 
 ## Letzter Schritt: Laden Sie die Antwort hoch
