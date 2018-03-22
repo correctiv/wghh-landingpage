@@ -22,7 +22,7 @@ Wenn Sie den wahren Eigentümer nicht kennen und Sie nur die Hausverwaltung ansp
 <div id="mc_embed_signup">
 <form action="https://correctiv.us12.list-manage.com/subscribe/post?u=74b23e1b0af8c36eb217e01c1&amp;id=4a8c81f17b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Find the name of your Eingentümer via your Hausverwaltung</h2>
+	<h2>Finden Sie den Eigentümer heraus, indem Sie Ihre Hausverwaltung fragen</h2>
           <p>Bitte teilen Sie uns Ihre E-Mail Adresse mit. Wir senden Ihnen anschließend einen Serienbrief im Doc-Format, den Sie als Vorlage verwenden können.</p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
