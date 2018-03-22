@@ -24,7 +24,7 @@ Wenn Sie den wahren Eigentümer nicht kennen und Sie nur die Hausverwaltung ansp
     <div id="mc_embed_signup_scroll">
 	<h2>Nutzen Sie unsere Mustervorlage</h2>
           <p>Bitte teilen Sie uns Ihre E-Mail Adresse mit. Wir senden Ihnen anschließend einen Serienbrief im Doc-Format, den Sie als Vorlage verwenden können.</p>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">*</span> notwendig</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
