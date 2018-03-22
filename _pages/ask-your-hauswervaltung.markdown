@@ -1,7 +1,7 @@
 ---
 title: Ask your Hausverwaltung
 date: 2018-03-07 15:55:00 Z
-permalink: "/ask"
+permalink: "/hausverwaltungfragen"
 main-classes: spaced
 layout: general
 ---
