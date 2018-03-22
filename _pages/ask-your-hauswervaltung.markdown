@@ -28,7 +28,7 @@ Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen 
           <p>Bitte teilen Sie uns Ihre E-Mail Adresse mit. Wir senden Ihnen anschließend einen Serienbrief im Doc-Format, den Sie als Vorlage verwenden können.</p>
 <div class="indicates-required"><span class="asterisk">*</span> notwendig</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">E-Mail Adresse  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
