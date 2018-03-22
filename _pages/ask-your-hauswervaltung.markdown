@@ -11,6 +11,7 @@ Viele Hamburger wissen nicht, wer der Eigentümer ihrer Mietwohnung ist. Dieser 
 
 Wir erklären Ihnen, wie Sie den Eigentümer herausbekommen:
 
+
 ## Erster Schritt: Auskunft von der Hausverwaltung
 Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, ist die Verwaltung verpflichtet, Auskunft zu geben. Sie können die Hausverwaltung mit wenigen Sätzen schriftlich bitten, den Namen des Eigentümers mitzuteilen. Dafür senden wir Ihnen gerne eine Mustervorlage. 
 
@@ -46,6 +47,7 @@ Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen 
 
 ## Bei Problemen: Dranbleiben 
 Sollte Ihre Hausverwaltung die Information verweigern, fragen Sie nach. Der Mieterverein zu Hamburg hat [auf seiner Webseite](https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wer-ist-mein-vermieter-wem-gehoert-meine-mietwohnung/index.html) Argumente zusammengetragen, die Sie dafür nutzen können. Sie finden ein passendes Urteil, was der Mieterverein zu Hamburg erstritten hat. Außerdem können Sie dort einen zweiten Musterbrief herunterladen, den Sie am besten für Nachfragen verwenden.
+
 
 ## Letzter Schritt: Laden Sie die Antwort hoch
 Wir wollen mit Ihnen herausfinden, wem Hamburg gehört. Ab dem 5. April 2018 können Sie auf der Seite [wem-gehoert-hamburg.de](https://wem-gehoert-hamburg.de/) den Eigentümer Ihrer Wohnung eintragen. Sie helfen die Eigentümerstrukturen der Stadt besser zu verstehen, wenn Sie die Antwort Ihrer Hausverwaltung dort hochladen. So können wir eine Debatte anstoßen, wer von der Intransparenz im Immobilienmarkt profitiert. Ihre hochgeladene Antwort wird nicht öffentlich stehen, sondern allein von CORRECTIV-Journalisten vertraulich für Recherchen verwendet. 
