@@ -6,8 +6,8 @@ main-classes: spaced
 layout: general
 ---
 
-## Ask your Hausverwaltung 
-Lorem ipsum dolor amet pabst cray kickstarter trust fund hashtag offal fingerstache viral irony green juice. Sustainable crucifix truffaut gastropub, flexitarian vexillologist squid yr pop-up helvetica scenester. Thundercats typewriter fingerstache williamsburg literally, listicle scenester put a bird on it beard. Austin wolf unicorn, tofu activated charcoal keytar keffiyeh tattooed heirloom ethical hot chicken. Vexillologist literally DIY semiotics hell of flexitarian cardigan. Asymmetrical cloud bread hexagon distillery pitchfork la croix, skateboard lumbersexual enamel pin squid iPhone.
+## Fragen Sie Ihre Hausverwaltung
+Viele Hamburger wissen nicht, wer der Eigentümer ihrer Mietwohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. Die Mieter selbst müssen zahlreiche Information über sich preisgeben. Der Eigentümer einer Wohnung wiederum ist nicht unbedingt im Mietvertrag aufgeführt. Sehr oft übernimmt eine zwischengeschaltete Hausverwaltung den Kontakt mit dem Mieter. Im Mietvertrag wird diese Hausverwaltung nicht selten als Vermieter bezeichnet. Kommt es zu Problemen, ist es für Mieter oft schwer, den wahren Eigentümer zu erreichen.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
