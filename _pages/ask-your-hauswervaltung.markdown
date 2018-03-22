@@ -10,7 +10,7 @@ layout: general
 Viele Hamburger wissen nicht, wer der Eigentümer ihrer Mietwohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. Die Mieter selbst müssen zahlreiche Information über sich preisgeben. Der Eigentümer einer Wohnung wiederum ist nicht unbedingt im Mietvertrag aufgeführt. Sehr oft übernimmt eine zwischengeschaltete Hausverwaltung den Kontakt mit dem Mieter. Im Mietvertrag wird diese Hausverwaltung nicht selten als Vermieter bezeichnet. Kommt es zu Problemen, ist es für Mieter oft schwer, den wahren Eigentümer zu erreichen.
 
 ## Ihre Hausverwaltung muss Auskunft geben
-Wenn Sie den wahren Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, ist die Verwaltung verpflichtet, Auskunft zu geben. Sie können die Hausverwaltung mit wenigen Sätzen schriftlich bitten, den Namen des Eigentümers mitzuteilen. Wir senden Ihnen dafür einen Serienbrief im Doc-Format, den Sie als Vorlage verwenden können. Bitte teilen Sie uns dafür Ihre E-Mail Adresse mit: 
+Wenn Sie den wahren Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, ist die Verwaltung verpflichtet, Auskunft zu geben. Sie können die Hausverwaltung mit wenigen Sätzen schriftlich bitten, den Namen des Eigentümers mitzuteilen. Dafür senden wir Ihnen gerne eine Mustervorlage. 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -23,8 +23,7 @@ Wenn Sie den wahren Eigentümer nicht kennen und Sie nur die Hausverwaltung ansp
 <form action="https://correctiv.us12.list-manage.com/subscribe/post?u=74b23e1b0af8c36eb217e01c1&amp;id=4a8c81f17b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Find the name of your Eingentümer via your Hausverwaltung</h2>
-          <p>Enter your email and we will send you an email with the detailed instructions and 
-          documents to send to your Hausverwaltung.</p>
+          <p>Bitte teilen Sie uns Ihre E-Mail Adresse mit. Wir senden Ihnen anschließend einen Serienbrief im Doc-Format, den Sie als Vorlage verwenden können.</p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -42,6 +41,7 @@ Wenn Sie den wahren Eigentümer nicht kennen und Sie nur die Hausverwaltung ansp
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup--> 
+
 ## Bei Problemen: Mit Argumenten nachhaken 
 Sollte Ihre Hausverwaltung die Information verweigern, fragen Sie nach. Der Mieterverein zu Hamburg hat [auf Ihrer Webseite](https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wer-ist-mein-vermieter-wem-gehoert-meine-mietwohnung/index.html) Argumente zusammengetragen, die Sie dafür nutzen können. Sie finden ein Urteil, was der Mieterverein zu Hamburg für solche Anfragen erstritten hat. Außerdem können Sie dort einen zweiten Musterbrief herunterladen, den Sie am besten für Nachfragen verwenden.
 
