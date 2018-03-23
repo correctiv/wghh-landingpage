@@ -55,7 +55,7 @@ main
   100%
     bottom: 10%
 
-.slides li
+.slides>li
   min-height: 100vh
   display: flex
   justify-content: center
@@ -308,4 +308,12 @@ main
   ul
     display: flex
     justify-content: space-around
+
+.results
+  width: 80%
+  margin: 0 auto
+  text-transform: capitalize
+
+  @include mq($until: $sm)
+    width: 100%
 
