@@ -6,7 +6,7 @@ main-classes: spaced
 layout: general
 ---
 
-## Warum Sie den Eigentümer nicht kennen
+**Warum Sie den Eigentümer nicht kennen**
 Viele Hamburger wissen nicht, wer der Eigentümer ihrer Mietwohnung ist. Dieser ist nicht unbedingt im Mietvertrag aufgeführt. Sehr oft übernimmt eine zwischengeschaltete Hausverwaltung den Kontakt mit dem Mieter und wird im Mietvertrag als Vermieter aufgeführt. Kommt es zu Problemen, erreichen Mieter nur schwer den echten Vermieter bzw. den Eigentümer dahinter. 
 
 Wir erklären Ihnen, wie Sie den Eigentümer herausbekommen:<br>
