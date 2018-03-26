@@ -44,9 +44,9 @@ Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen 
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup--> 
 
-**Bei Problemen: Dranbleiben** <br>
+**Bei Problemen: Dranbleiben**<br>
 Sollte Ihre Hausverwaltung die Information verweigern, fragen Sie nach. Der Mieterverein zu Hamburg hat [auf seiner Webseite](https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wer-ist-mein-vermieter-wem-gehoert-meine-mietwohnung/index.html) Argumente zusammengetragen, die Sie dafür nutzen können. Sie finden ein passendes Urteil, was der Mieterverein zu Hamburg erstritten hat, um über den Vermieter bzw. die juristische Vertretung informiert zu werden. Außerdem können Sie dort einen zweiten Musterbrief herunterladen, den Sie am besten für Nachfragen verwenden.
 <br><br>
 
-**Letzter Schritt: Laden Sie die Antwort hoch** <br>
+**Letzter Schritt: Laden Sie die Antwort hoch**<br>
 Wir wollen mit Ihnen herausfinden, wem Hamburg gehört. Ab dem 5. April 2018 können Sie auf der Seite [wem-gehoert-hamburg.de](https://wem-gehoert-hamburg.de/) den Eigentümer Ihrer Wohnung eintragen. Sie helfen die Eigentümerstrukturen der Stadt besser zu verstehen, wenn Sie die Antwort Ihrer Hausverwaltung dort hochladen. So können wir eine Debatte anstoßen, wer von der Intransparenz im Immobilienmarkt profitiert. Ihre hochgeladene Antwort wird nicht öffentlich stehen, sondern allein von CORRECTIV-Journalisten vertraulich für Recherchen verwendet. 
