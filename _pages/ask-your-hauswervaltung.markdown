@@ -7,13 +7,13 @@ layout: general
 ---
 
 ## Warum Sie den Eigentümer nicht kennen
-Viele Hamburger wissen nicht, wer der Eigentümer ihrer Mietwohnung ist. Dieser ist nicht unbedingt im Mietvertrag aufgeführt. Sehr oft übernimmt eine zwischengeschaltete Hausverwaltung den Kontakt mit dem Mieter und wird im Mietvertrag als Vermieter bezeichnet. Kommt es zu Problemen, erreichen Mieter nur schwer den wahren Eigentümer. 
+Viele Hamburger wissen nicht, wer der Eigentümer ihrer Mietwohnung ist. Dieser ist nicht unbedingt im Mietvertrag aufgeführt. Sehr oft übernimmt eine zwischengeschaltete Hausverwaltung den Kontakt mit dem Mieter und wird im Mietvertrag als Vermieter aufgeführt. Kommt es zu Problemen, erreichen Mieter nur schwer den echten Vermieter bzw. den Eigentümer dahinter. 
 
 Wir erklären Ihnen, wie Sie den Eigentümer herausbekommen:
 
 
 ## Erster Schritt: Auskunft von der Hausverwaltung
-Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, ist die Verwaltung verpflichtet, Auskunft zu geben. Sie können die Hausverwaltung mit wenigen Sätzen schriftlich bitten, den Namen des Eigentümers mitzuteilen. Dafür senden wir Ihnen gerne eine Mustervorlage. 
+Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, können Sie die Verwaltung um Auskunft bitten. Bitten Sie die Hausverwaltung mit wenigen Sätzen schriftlich, den Namen des Eigentümers mitzuteilen. Nutzen Sie dafür am besten unsere Mustervorlage:
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -46,7 +46,7 @@ Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen 
 <!--End mc_embed_signup--> 
 
 ## Bei Problemen: Dranbleiben 
-Sollte Ihre Hausverwaltung die Information verweigern, fragen Sie nach. Der Mieterverein zu Hamburg hat [auf seiner Webseite](https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wer-ist-mein-vermieter-wem-gehoert-meine-mietwohnung/index.html) Argumente zusammengetragen, die Sie dafür nutzen können. Sie finden ein passendes Urteil, was der Mieterverein zu Hamburg erstritten hat. Außerdem können Sie dort einen zweiten Musterbrief herunterladen, den Sie am besten für Nachfragen verwenden.
+Sollte Ihre Hausverwaltung die Information verweigern, fragen Sie nach. Der Mieterverein zu Hamburg hat [auf seiner Webseite](https://www.mieterverein-hamburg.de/de/aktuelles/meldungen/meldung/wer-ist-mein-vermieter-wem-gehoert-meine-mietwohnung/index.html) Argumente zusammengetragen, die Sie dafür nutzen können. Sie finden ein passendes Urteil, was der Mieterverein zu Hamburg erstritten hat, um über den Vermieter bzw. die juristische Vertretung informiert zu werden. Außerdem können Sie dort einen zweiten Musterbrief herunterladen, den Sie am besten für Nachfragen verwenden.
 
 
 ## Letzter Schritt: Laden Sie die Antwort hoch
