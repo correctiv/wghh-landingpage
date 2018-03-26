@@ -13,6 +13,7 @@ Wir erklären Ihnen, wie Sie den Eigentümer herausbekommen:
 
 
 **Erster Schritt: Auskunft von der Hausverwaltung**
+
 Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, können Sie die Verwaltung um Auskunft bitten. Bitten Sie die Hausverwaltung mit wenigen Sätzen schriftlich, den Namen des Eigentümers mitzuteilen. Nutzen Sie dafür am besten unsere Mustervorlage:
 
 <!-- Begin MailChimp Signup Form -->
