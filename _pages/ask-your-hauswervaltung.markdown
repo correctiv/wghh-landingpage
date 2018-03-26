@@ -26,7 +26,7 @@ Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen 
 <form action="https://correctiv.us12.list-manage.com/subscribe/post?u=74b23e1b0af8c36eb217e01c1&amp;id=4a8c81f17b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Nutzen Sie unsere Mustervorlage</h2>
-          <p>Bitte teilen Sie uns Ihre E-Mail Adresse mit. Wir senden Ihnen anschließend einen Serienbrief im Doc-Format, den Sie als Vorlage verwenden können.</p>
+          Bitte teilen Sie uns Ihre E-Mail Adresse mit. Wir senden Ihnen anschließend einen Serienbrief im Doc-Format, den Sie als Vorlage verwenden können.
 <div class="indicates-required"><span class="asterisk">*</span> notwendig</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">E-Mail Adresse  <span class="asterisk">*</span>
