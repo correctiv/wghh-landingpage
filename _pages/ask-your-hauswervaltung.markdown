@@ -6,13 +6,13 @@ main-classes: spaced
 layout: general
 ---
 
-**Warum Sie den Eigentümer nicht kennen**<br>
+**Warum Sie den Eigentümer Ihrer Wohnung vielleicht nicht kennen**<br>
 Viele Hamburger wissen nicht, wer der Eigentümer ihrer Mietwohnung ist. Dieser ist nicht unbedingt im Mietvertrag aufgeführt. Sehr oft übernimmt eine zwischengeschaltete Hausverwaltung den Kontakt mit dem Mieter und wird im Mietvertrag als Vermieter aufgeführt. Kommt es zu Problemen, erreichen Mieter nur schwer den echten Vermieter bzw. den Eigentümer dahinter. 
 Wir erklären Ihnen, wie Sie den Eigentümer herausbekommen:<br><br>
 
 
 **Erster Schritt: Auskunft von der Hausverwaltung**<br>
-Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, können Sie die Verwaltung um Auskunft bitten. Bitten Sie die Hausverwaltung mit wenigen Sätzen schriftlich, den Namen des Eigentümers mitzuteilen. Nutzen Sie dafür am besten unsere Mustervorlage:
+Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung erreichen, können Sie die Verwaltung um Auskunft bitten. Bitten Sie die Hausverwaltung mit wenigen Sätzen schriftlich, den Namen des Eigentümers mitzuteilen. Nutzen Sie dafür am besten unsere Mustervorlage:
 
 [ALS .DOC HERUNTERLADEN](https://wem-gehoert-hamburg.de/assets/Mustervorlage_Hausverwaltung.doc)
 
@@ -29,7 +29,7 @@ Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen 
 <form action="https://correctiv.us12.list-manage.com/subscribe/post?u=74b23e1b0af8c36eb217e01c1&amp;id=4a8c81f17b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Dürfen wir Sie kontaktieren?</h2>
-          Dürfen wir Sie in 14 Tagen fragen, ob Sie eine Antwort erhalten haben? Dann tragen Sie bitte hier Ihre E-Mail ein:
+          Dürfen wir Sie in 2-3 Wochen fragen, ob Sie eine Antwort von der Hausverwaltung erhalten haben? Dann tragen Sie bitte hier Ihre E-Mail ein:
 <div class="indicates-required"><span class="asterisk">*</span> notwendig</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">E-Mail Adresse  <span class="asterisk">*</span>
@@ -54,3 +54,5 @@ Sollte Ihre Hausverwaltung die Information verweigern, fragen Sie nach. Der Miet
 
 **Letzter Schritt: Laden Sie die Antwort hoch**<br>
 Wir wollen mit Ihnen herausfinden, wem Hamburg gehört. Ab dem 5. April 2018 können Sie auf der Seite [wem-gehoert-hamburg.de](https://wem-gehoert-hamburg.de/) den Eigentümer Ihrer Wohnung eintragen. Sie helfen die Eigentümerstrukturen der Stadt besser zu verstehen, wenn Sie die Antwort Ihrer Hausverwaltung dort hochladen. So können wir eine Debatte anstoßen, wer von der Intransparenz im Immobilienmarkt profitiert. Ihre hochgeladene Antwort wird nicht öffentlich stehen, sondern allein von CORRECTIV-Journalisten vertraulich für Recherchen verwendet. 
+
+Vielen Dank für Ihre Hilfe!
