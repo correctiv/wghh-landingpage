@@ -26,7 +26,7 @@ HERUNTERLADEN. [Mustervorlage als .DOC](http://download.correctiv.org/wghh/muste
 <div id="mc_embed_signup">
 <form action="https://correctiv.us12.list-manage.com/subscribe/post?u=74b23e1b0af8c36eb217e01c1&amp;id=4a8c81f17b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Dürfen wir Sie kontaktieren?</h2>
+	<h2>Wollen sie eine Erinnerungsmail erhalten?</h2>
           Dürfen wir Sie in 2-3 Wochen fragen, ob Sie eine Antwort von der Hausverwaltung erhalten haben? Dann tragen Sie bitte hier Ihre E-Mail ein:
 <div class="indicates-required"><span class="asterisk">*</span> notwendig</div>
 <div class="mc-field-group">
