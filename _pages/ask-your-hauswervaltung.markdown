@@ -15,6 +15,7 @@ Wir erklären Ihnen, wie Sie den Eigentümer herausbekommen:<br><br>
 Wenn Sie den Eigentümer nicht kennen und Sie nur die Hausverwaltung ansprechen können, können Sie die Verwaltung um Auskunft bitten. Bitten Sie die Hausverwaltung mit wenigen Sätzen schriftlich, den Namen des Eigentümers mitzuteilen. Nutzen Sie dafür am besten unsere Mustervorlage:
 
 [ALS .DOC HERUNTERLADEN](https://wem-gehoert-hamburg.de/assets/Mustervorlage_Hausverwaltung.doc)
+
 [ALS .PDF HERUNTERLADEN](https://wem-gehoert-hamburg.de/assets/Mustervorlage_Hausverwaltung.pdf)
 
 <!-- Begin MailChimp Signup Form -->
