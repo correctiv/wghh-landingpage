@@ -18,32 +18,34 @@ layout: compress
   <body class="{{ page.page-name }}-page {{ page_theme }}">
     {% include components/header.html %}
     <main class="{{ main-classes }}">
-      <ul class="slides">
-        <li class="hero">
-          <video muted loop id="video" poster="assets/images/flyover.jpg" preload="none">
-            <source src="assets/video/flyover.mp4" type="video/mp4">
-          </video>
-          <div class="attribution">GeoBasis-DE/BKG (© 2009) Google</div>
-          <img class=wghh-logo src="assets/images/wghh-logo.png" alt="Wem gehört Hamburg Logo">
-          <a href="#slide-1" class="scroller"><img src="assets/images/pfeil.svg"></a>
-        </li>
-
-        {% for slide in page.slides %}
-        <li style="background-image: url({{ slide.image.src }})" id="slide-{{forloop.index}}">
+      <div class="hero">
+        <div class="background" style="background-image: url('assets/images/Bild1.jpg')">
           <div class="content">
-            <h1>{{ slide.title }}</h1>
-            <div class="teaser"> {{ slide.teaser }}</div>
-            <div class="main"> {{ slide.main }}</div>
-
-            {% if forloop.last %}
-              <a href="#signup"><img src="assets/images/pfeil.svg" style="width: 30px; margin-top: 1em;"></a>
-            {% else %}
-              <a href="#slide-{{forloop.index | plus: 1}}"><img src="assets/images/pfeil.svg" style="width: 30px; margin-top: 1em;"></a>
-            {% endif %}
+            <img class="wghh-logo hero-top" src="assets/images/wghh-logo.png" alt="Wem gehört Hamburg Logo">
+            <div class="main">
+              <p>
+                <strong>Wir wollen gemeinsam mit den Mietern den Hamburger Wohnungsmarkt
+                transparent machen. Und herausfinden, welche Eigentümer die
+                Wohnungskrise verschärfen.</strong>
+              </p>
+              <p>
+                Teilen Sie uns mit, wer der Eigentümer ihrer Wohnung ist. Mit
+                ihrem Puzzleteil vervollständigen wir ein großes Bild der Stadt.
+                Davon profitieren alle.
+              </p>
+              <p>
+                Als Dankeschön erhalten Sie exklusive Ergebnisse der Recherche.
+                Direkt nach Ihrer Teilnahme senden wir Ihnen eine Übersicht mit
+                den Eigentumsverhältnissen in Ihrer Nachbarschaft.
+              </p>
+              <button>Jetzt mitmachen!</button>
+              <a class="info" href="faq">Warum betrifft mich diese Recherche?</a>
+            </div>
           </div>
-        </li>
-        {% endfor %}
-      </ul>
+        </div>
+        <div class="timeline"><img src="assets/images/timeline-mock.png" width="100%"/></div>
+        <a class="next" href="#signup"><img src="assets/images/pfeil.svg"></a>
+      </div>
       <div class="signup" id="signup">
         <div class="content">
           <div class="text">
@@ -80,10 +82,10 @@ layout: compress
     {% include components/footer.html %}
     {% include global/javascript.html %}
     <script>
-      if (document.body.clientWidth > 768) {
-        document.getElementById("video").autoplay = true;
-        document.getElementById("video").play();
-      }
+      // if (document.body.clientWidth > 768) {
+      //   document.getElementById("video").autoplay = true;
+      //   document.getElementById("video").play();
+      // }
 
       var links = document.querySelectorAll('a[href*="#"]');
       [].forEach.call(links, function(a) {

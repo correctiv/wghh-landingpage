@@ -7,32 +7,6 @@ nav-name: Start
 type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
-slides:
-- title: Wem gehört Hamburg?
-  teaser: Mieten gehen durch die Decke. Kann ich mir ein Leben in meiner Stadt noch
-    leisten, fragen sich viele Mieter in Hamburg. Vielleicht auch Sie?
-  main: Die hohen Preise haben Ursachen. Hamburg ist für Finanzinvestoren eine der
-    lukrativsten Städte in Europa. Immer mehr Immobilien dienen der Spekulation oder
-    werden für fragwürdige Geschäfte benutzt.
-  image:
-    src: assets/images/Bild1.jpg
-- title: Wer spielt mit Ihrer Wohnung?
-  teaser: Vielen Mietern ist der Besitzer ihrer Wohnung nicht bekannt, weil im Mietvertrag
-    nicht der wahre Eigentümer steht.
-  main: 'Das hat Konsequenzen: Sie wissen nicht, wer Ihre Miete erhöht oder sich um
-    Reparaturen kümmert.  Auch die Politik hat keinen Überblick, wem die Stadt gehört. '
-  image:
-    src: assets/images/Bild2.jpg
-- title: Sie sind gefragt!
-  teaser: Wir wollen mit Ihnen herausfinden, wem Hamburg gehört. Ab April 2018 können
-    Sie auf dieser Seite den Eigentümer Ihrer Wohnung eintragen – oder wir finden
-    ihn gemeinsam heraus. So können wir aufdecken, wer von der Intransparenz im Immobilienmarkt
-    profitiert.
-  main: Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
-    Hamburgs, die in Ihrer Stadt etwas ändern wollen. Wir wollen zeigen, wer für die
-    Lage auf dem Hamburger Immobilienmarkt verantwortlich ist.
-  image:
-    src: assets/images/Bild3.jpg
 blog:
 - title: 'Event: Wie kann die Politik die Wohnungskrise lösen?'
   date: 2018-03-29 19:00:00 Z

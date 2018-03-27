@@ -125,13 +125,79 @@ main
 
     .main
       font-size: 16px
-      line-height: 26px
+      line-height: 22px
+
+.hero
+  margin-top: 50px
+
+  .background
+    display: flex
+    justify-content: center
+    align-items: center
+    margin-bottom: 40px
+    padding-top: 40px
+    position: relative
+    background-repeat: no-repeat
+    background-attachment: fixed
+    background-position-x: center
+    background-position-y: center
+    background-size: cover
+
+  .content
+    position: relative
+    width: 650px
+    max-width: 90%
+    flex-flow: column
+
+  .hero-top
+    display: block
+    width: 40%
+    margin: 0 auto -6em
+
+  .main
+    clear: both
+    width: 100%
+    padding: 4em 10% 7%
+    text-align: center
+    margin-bottom: 1.5em
+    background: white
+
+    p
+      line-height: 1.75rem;
+
+  button
+    clear: both
+    display: block
+    margin: 1.5em auto 1.5em
+    background-color: #e6007e
+    border-radius: 0
+    font-weight: 700
+
+  a.info
+    clear: both
+    display: inline
+    width: 100%
+    color: #9B9B9B
+    text-decoration: underline
+    text-underline-position: under
+    line-height: 1.2em
+
+  .timeline
+    width: 90%
+    max-width: 800px
+    margin: 1em auto
+
+  .next
+    display: block
+    width: 30px
+    margin: 3em auto 1em
+    text-align: center
 
 
 @include mq($until: $sm)
   .slides li .content .teaser, .signup p
     font-size: 16px
-    line-height: 26px
+    line-height: 22px
 
   .slides li.hero img.wghh-logo
     left: 10vw
@@ -159,13 +225,16 @@ main
 
 .signup
   max-width: $breakout-width
-  margin: 100px auto 0 auto
-  background: $brand
+  margin: 0 auto
   color: white
   display: flex
   justify-content: center
   text-align: center
-  padding: 2em
+  padding: 100px 0 0
+
+  .content
+    background: $brand
+    padding: 2em
 
   p
     line-height: 1.6em !important
