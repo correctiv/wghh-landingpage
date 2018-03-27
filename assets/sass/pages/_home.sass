@@ -2,6 +2,9 @@ main
   @include mq($until: $sm)
     padding: 0 0 !important
 
+strong
+  font-family: "PTSans-Bold"
+
 .header
   position: fixed
   z-index: 3
@@ -145,14 +148,14 @@ main
 
   .content
     position: relative
-    width: 650px
+    width: 600px
     max-width: 90%
     flex-flow: column
 
   .hero-top
     display: block
     width: 40%
-    margin: 0 auto -6em
+    margin: 0 auto -5.75rem
 
   .main
     clear: both
@@ -163,7 +166,8 @@ main
     background: white
 
     p
-      line-height: 1.75rem;
+      font-size: 1rem;
+      line-height: 1.4rem;
 
   button
     clear: both
@@ -230,7 +234,7 @@ main
   display: flex
   justify-content: center
   text-align: center
-  padding: 100px 0 0
+  padding: 50px 0 0
 
   .content
     background: $brand
