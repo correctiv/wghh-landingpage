@@ -1,0 +1,101 @@
+<!-- Timeline -->
+<div class="timeline">
+  <div class="label-container">
+    <div id="start__label" class="label"></div>
+    <div id="milestone__label" class="label"></div>
+    <div id="end__label" class="label"></div>
+  </div>
+  <div id="outerContainer">
+    <div id="barContainer">
+      <div id="progressContainer">
+        <div id="start" class="milestone"></div>
+        <div id="milestone" class="milestone"></div>
+        <div id="end" class="milestone"></div>
+      </div>
+    </div>
+  </div>
+  <div class="label-container">
+    <div class="segment__label--left">Eigentümer erheben</div>
+    <div class="segment__label--right">Daten auswerten</div>
+  </div>
+</div>
+
+
+<style>
+  #outerContainer {
+    width: 95%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #barContainer {
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #ddd;
+    flex-basis: auto;
+  }
+
+  #progressContainer {
+    width: 1%;
+    height: 20px;
+    background-color: #e6007e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .timeline .milestone {
+    position: absolute;
+    width: 8px;
+    height: 50px;
+    border: 3px solid white;
+    background-color: #ddd;
+    flex-basis: auto;
+    z-index: 1;
+  }
+
+  .timeline .label-container {
+    position: relative;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+  }
+
+  .timeline .label {
+    position: absolute;
+    color: #666666;
+    display: inline-block;
+    flex-basis: content;
+    z-index: 2;
+    transform: rotate(-20deg);
+  }
+
+  @media (min-width: 450px){
+    .timeline .label {
+      transform: rotate(0deg);
+    }
+  }
+
+  .timeline .segment__label--left {
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    text-align: center;
+    color: #666666;
+    flex-basis: content;
+  }
+
+  .timeline .segment__label--right {
+    width: 50%;
+    float: right;
+    padding-top: 10px;
+    text-align: center;
+    color: #666666;
+    flex-basis: content;
+  }
+</style>
