@@ -97,16 +97,11 @@ layout: compress
         </ul>
       </div>
 
-      {% include blog.html %}
-      {% include footer.html %}
+    {% include blog.html %}
+    {% include footer.html %}
     {% include components/footer.html %}
     {% include global/javascript.html %}
     <script>
-      // if (document.body.clientWidth > 768) {
-      //   document.getElementById("video").autoplay = true;
-      //   document.getElementById("video").play();
-      // }
-
       var links = document.querySelectorAll('a[href*="#"]');
       [].forEach.call(links, function(a) {
         a.onclick = function(e){
