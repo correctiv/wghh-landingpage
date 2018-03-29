@@ -12,6 +12,7 @@ hero:
     Einblick in die Eigentumsverhältnisse in Ihrer Nachbarschaft. Geben Sie dafür
     in die folgende Zeile Ihre Adresse ein. Dann sehen Sie, auf welche Eigentümertypen
     \ sich Ihre Nachbarschaft aufteilt. "
+  footnote: The rent is too damn high!
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: wem
