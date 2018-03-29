@@ -69,6 +69,10 @@ newsletter:
     Projekt auf dem Laufenden und schicken Ihnen unsere Veröffentlichungen über
     den Wohnungsmarkt zu. Dazu erhalten Sie Einladungen zu den Veranstaltungen
     zum Thema in unserer mobilen Redaktion in St. Pauli."
+hero:
+  lead: Gemeinsam mit den Mieterinnen und Mietern wollen wir den Hamburger Wohnungsmarkt transparenter machen. Und herausfinden, welche Eigentümer die Wohnungskrise verschärfen.
+  section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist. Mit Ihrem Puzzleteil vervollständigen wir ein großes Bild der Stadt. Davon profitieren alle.
+  section2: Als Dankeschön senden wir Ihnen direkt nach der Teilnahme eine Übersicht mit den Eigentumsverhältnissen in Ihrer Nachbarschaft.
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: home
