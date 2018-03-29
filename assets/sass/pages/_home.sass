@@ -280,9 +280,12 @@ strong
 
 .footnote
   margin: 2em auto
-small
-    font-family: "PT Sans", sans-serif
-    color: gray
+  small
+      font-family: "PT Sans", sans-serif
+      color: gray
+      a
+        color: darken(gray, 20%)
+        text-decoration: underline
 
 
 .blog
@@ -415,8 +418,14 @@ small
 .results
   width: 80%
   margin: 0 auto
-  text-transform: capitalize
 
   @include mq($until: $sm)
     width: 100%
 
+.results-description
+  text-align: left;
+  width: 80%
+  margin: 0 auto
+
+  @include mq($until: $sm)
+    width: 100%
