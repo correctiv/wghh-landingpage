@@ -8,9 +8,15 @@ image: "/assets/images/wghh-teaser.jpg"
 description: Wem gehört Hamburg in Ihrer Nachbarschaft?
 hero:
   title: 'Ihre Daten wurden erfolgreich übermittelt. '
-  lead: 'Vielen Dank für Ihre Teilnahme! Als Dankeschön erhalten Sie jetzt einen Einblick
-    in die Eigentumsverhältnisse in Ihrer Nachbarschaft. '
-  footnote: Hier schreibt Simon W. einen Text!
+  lead: 'Vielen Dank für Ihre Teilnahme! Als Dankeschön erhalten Sie jetzt
+    einen Einblick in die Eigentumsverhältnisse in Ihrer Nachbarschaft. *'
+  footnote: '* Diese Angaben beziehen sich auf ein 100m-Quadrat, in dem Ihre
+    Adresse liegt. Die Daten stammen aus dem <a
+    href="https://www.zensus2011.de/SharedDocs/Aktuelles/Ergebnisse/DemografischeGrunddaten.html?nn=3065474">Zensus
+    2011</a>. Das heißt, sie sind möglicherweise schon etwas veraltet. Außerdem
+    wurden, um die Anonymität zu gewährleisten, manche Daten etwas verfremdet
+    und sind daher ungenau. Doch es gibt derzeit keine aktuelleren und besseren
+    Daten. Auch deshalb machen wir diese Recherche.'
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: wem
