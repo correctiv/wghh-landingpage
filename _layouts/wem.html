@@ -27,15 +27,16 @@ layout: compress
             <div class="main">{{page.hero.lead}}</div>
             <h3>For your address <span id="address"></span>:</h3>
             <div id="main" class="main">
+              <p class="results-description">Anzahl der Wohnungen...</p>
                 <table class="results">
-                  <tr><td>cooperatively owned           </td><td id="flats_cooperative_owned"></td><td><span id="flats_cooperative_owned_q"></span>%</td></tr>
-                  <tr><td>ngo or church owned           </td><td id="flats_ngo_church_owned"></td><td><span id="flats_ngo_church_owned_q"></span>%</td></tr>
-                  <tr><td>other private company owned   </td><td id="flats_other_private_company_owned"></td><td><span id="flats_other_private_company_owned_q"></span>%</td></tr>
-                  <tr><td>private company owned         </td><td id="flats_private_company_owned"></td><td><span id="flats_private_company_owned_q"></span>%</td></tr>
-                  <tr><td>private owned                 </td><td id="flats_private_owned"></td><td><span id="flats_private_owned_q"></span>%</td></tr>
-                  <tr><td>public body owned             </td><td id="flats_public_body_owned"></td><td><span id="flats_public_body_owned_q"></span>%</td></tr>
-                  <tr><td>state owned                   </td><td id="flats_state_owned"></td><td><span id="flats_state_owned_q"></span>%</td></tr>
-                  <tr><td>total                         </td><td id="flats_total"></td></tr>
+                  <tr><td>in Privatbesitz</td><td id="flats_private_owned"></td><td>(<span id="flats_private_owned_q"></span>%)</td></tr>
+                  <tr><td>im Besitz von Wohnungsunternehmen</td><td id="flats_private_company_owned"></td><td>(<span id="flats_private_company_owned_q"></span>%)</td></tr>
+                  <tr><td>im Besitz von anderen Unternehmen</td><td id="flats_other_private_company_owned"></td><td>(<span id="flats_other_private_company_owned_q"></span>%)</td></tr>
+                  <tr><td>im Besitz von Genossenschaften</td><td id="flats_cooperative_owned"></td><td>(<span id="flats_cooperative_owned_q"></span>%)</td></tr>
+                  <tr><td>in städtischem Besitz</td><td id="flats_public_body_owned"></td><td>(<span id="flats_public_body_owned_q"></span>%)</td></tr>
+                  <tr><td>im Besitz von NGOs oder Kirchen</td><td id="flats_ngo_church_owned"></td><td>(<span id="flats_ngo_church_owned_q"></span>%)</td></tr>
+                  <tr><td>in Staatseigentum</td><td id="flats_state_owned"></td><td>(<span id="flats_state_owned_q"></span>%)</td></tr>
+                  <tr><td>Insgesamt</td><td id="flats_total"></td></tr>
                 </table>
                 <div class="footnote"><small>{{page.hero.footnote}}</small></div>
                 <div id="id" style="display:none">100mN33834E43253</div>
@@ -61,7 +62,7 @@ layout: compress
 function wem() {
     var street = getQueryVariable("street");
     var number = getQueryVariable("nr");
-    var streetview = "https://maps.googleapis.com/maps/api/staticmap?maptype=satellite&size=640x640&scale=2&zoom=18&center="+street+number+"HamburgGermany&key=AIzaSyCdGzleqAIZ5HK5ePdemM6MnPz2h-21oCk";
+    var streetview = "https://maps.googleapis.com/maps/api/staticmap?maptype=satellite&size=640x640&scale=2&zoom=16&center="+street+number+"HamburgGermany&key=AIzaSyCdGzleqAIZ5HK5ePdemM6MnPz2h-21oCk";
     var wghhXhttp = new XMLHttpRequest();
     wghhXhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
