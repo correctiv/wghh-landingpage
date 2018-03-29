@@ -11,6 +11,9 @@ hero:
   title: Wem gehört Hamburg in Ihrer Nähe?
   lead: Lorem ipsum dolor amet. The rent is too damn high!
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Lorem ipsum dolor amet. The rent is too damn high!
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  footnote: The rent is too damn high!
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 ---
