@@ -1,6 +1,7 @@
-main
+body.default main
+  padding-top: 50px !important
   @include mq($until: $sm)
-    padding: 0 0 !important
+    padding: 70px 0 !important
 
 strong
   font-family: "PTSans-Bold", $base-font-family
@@ -119,6 +120,7 @@ strong
     width: $content-width
     max-width: 90%
     padding: 2.5em 1.5em
+    margin: 0 auto
     text-align: center
 
     .teaser
@@ -131,7 +133,6 @@ strong
       line-height: 22px
 
 .hero
-  margin-top: 50px
 
   .background
     display: flex
@@ -209,7 +210,7 @@ strong
 
 @include mq($until: $lg)
   .slides li
-    background-attachment: scroll
+    display: initial
 
 .logos
   display: flex
