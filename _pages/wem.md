@@ -16,6 +16,7 @@ hero:
     um die Anonymität zu gewährleisten, manche Daten etwas verfremdet und sind daher
     ungenau. Doch es gibt derzeit keine aktuelleren und besseren Daten. Auch deshalb
     machen wir diese Recherche.'
+  error: Sorry! Keine Ergebnisse gefunden für diese Adresse.
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: wem
