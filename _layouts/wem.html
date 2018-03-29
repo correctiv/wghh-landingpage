@@ -21,11 +21,11 @@ layout: compress
     <main>
 
 <ul class="slides">
-    <li style="background-image: url(assets/images/Bild2.jpg)" id="slide">
+    <li id="slide">
         <div class="content">
             <h2>{{page.hero.title}}</h2>
             <div class="main">{{page.hero.lead}}</div>
-            <h3>Im Umkreis von <span id="address"></span>:</h3>
+            <h3 id="table-header">Im Umkreis von <span id="address"></span>:</h3>
             <div id="main" class="main">
               <p class="results-description">Anzahl der Wohnungen...</p>
                 <table class="results">
@@ -67,7 +67,9 @@ function wem() {
         if (this.readyState == 4 && this.status == 200) {
             var response = JSON.parse(this.responseText);
             if (response.data == null){
-                document.getElementById("main").innerText = "Sorry, no results were found for this address.";
+                document.getElementById("main").innerText = "{{page.hero.error}}";
+                document.getElementById("table-header").style.display = "none";
+                streetview = "assets/images/Bild2.jpg";
             }
             else {
                 for (var stat in response.data) {
@@ -77,10 +79,10 @@ function wem() {
                 document.getElementById("address").innerText = (street +" "+number);
             }
         }
+        document.getElementById("slide").style.backgroundImage = "url('"+streetview+"')";
     };
     wghhXhttp.open("GET", "https://wghh-census-api.apps.correctiv.org/"+window.location.search, true);
     wghhXhttp.send();
-    document.getElementById("slide").style.backgroundImage = "url('"+streetview+"')";
 }
 wem();
 
