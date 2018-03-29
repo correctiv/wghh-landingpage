@@ -5,9 +5,9 @@ page-hidden: true
 page-name: wem
 type: header
 image: "/assets/images/wghh-teaser.jpg"
-description: Ihre Daten wurden erfolgreich übermittelt. Vielen Dank für Ihre Teilnahme!
+description: Wem gehört Hamburg in Ihrer Nachbarschaft?
 hero:
-  title: Wem gehört Hamburg in Ihrer Nachbarschaft?
+  title: Ihre Daten wurden erfolgreich übermittelt. Vielen Dank für Ihre Teilnahme!
   lead: 'Als Dankeschön erhalten Sie jetzt einen Einblick in die Eigentumsverhältnisse
     in Ihrer Nachbarschaft. '
   footnote: Hier schreibt Simon W. einen Text!
