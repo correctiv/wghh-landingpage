@@ -64,11 +64,8 @@ blog:
   link: https://correctiv.org/a/2264
   hidden: false
 newsletter:
-  title: Seien Sie dabei!
-  copy: "Tragen Sie sich in unseren Newsletter ein. Wir halten Sie über das
-    Projekt auf dem Laufenden und schicken Ihnen unsere Veröffentlichungen über
-    den Wohnungsmarkt zu. Dazu erhalten Sie Einladungen zu den Veranstaltungen
-    zum Thema in unserer mobilen Redaktion in St. Pauli."
+  title: Bleiben Sie informiert!
+  copy: Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie Einladungen zu  Veranstaltungen zum Thema.
 hero:
   lead: Gemeinsam mit den Mieterinnen und Mietern wollen wir den Hamburger Wohnungsmarkt transparenter machen. Und herausfinden, welche Eigentümer die Wohnungskrise verschärfen.
   section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist. Mit Ihrem Puzzleteil vervollständigen wir ein großes Bild der Stadt. Davon profitieren alle.
