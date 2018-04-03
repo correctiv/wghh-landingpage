@@ -1,7 +1,7 @@
 ---
 title: Wem gehört Hamburg - Datenschutzbestimmung
 permalink: "/datenschutzbestimmung"
-nav-name: Impressum
+nav-name: Datenschutzbestimmung
 type: footer
 page-hidden: false
 page-name: main
