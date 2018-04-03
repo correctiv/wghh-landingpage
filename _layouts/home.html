@@ -31,7 +31,7 @@ layout: compress
             </div>
           </div>
         </div>
-        {% include timeline.html %}
+        {% include components/timeline.html %}
         <a class="next" href="#signup"><img src="assets/images/pfeil.svg"></a>
       </div>
       <div class="signup" id="signup">
@@ -53,17 +53,7 @@ layout: compress
           </div>
         </div>
       </div>
-
-      <div class="social-share">
-        <ul>
-          <li>
-            <a href="https://twitter.com/share?text={{page.twitter_text | url_encode}}&url=https%3A//wem-gehoert-hamburg.de" id="twitter" target="_blank"></a>
-          </li>
-          <li>
-            <a href="https://www.facebook.com/sharer.php?u=https%3A//wem-gehoert-hamburg.de" id="facebook" target="_blank"></a>
-          </li>
-        </ul>
-      </div>
+      {% include components/sharing.html %}
 
     {% include blog.html %}
     {% include footer.html %}

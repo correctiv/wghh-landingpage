@@ -1,0 +1,59 @@
+
+.social-share {
+  margin: 2em auto;
+}
+
+.social-share ul {
+    display: flex;
+    justify-content: center;
+}
+
+.social-share li {
+  list-style-type: none;
+}
+
+.social-share a {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.resp-sharing-button__link,
+.resp-sharing-button__icon {
+  display: inline-block;
+}
+
+.resp-sharing-button__link {
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+}
+
+.resp-sharing-button__icon svg {
+  width: 30px;
+  height: 30px;
+  vertical-align: top;
+}
+
+.resp-sharing-button--small svg {
+  margin: 0;
+  vertical-align: middle;
+}
+
+/* Non solid icons get a stroke */
+.resp-sharing-button__icon {
+  stroke: #fff;
+  fill: none;
+}
+
+/* Solid icons get a fill */
+.resp-sharing-button__icon--solid,
+.resp-sharing-button__icon--solidcircle {
+  fill:  #e6007e;
+  stroke: none;
+  background-color: #fff;
+}
+
