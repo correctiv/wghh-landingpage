@@ -39,16 +39,7 @@ layout: compress
                   <tr><td>Insgesamt</td><td id="flats_total"></td></tr>
                 </table>
                 <div class="footnote"><small>{{page.hero.footnote}}</small></div>
-                <div class="social-share">
-                  <ul>
-                    <li>
-                      <a href="https://twitter.com/share?text={{page.twitter_text | url_encode}}&url=https%3A//wem-gehoert-hamburg.de" id="twitter" target="_blank"></a>
-                    </li>
-                    <li>
-                      <a href="https://www.facebook.com/sharer.php?u=https%3A//wem-gehoert-hamburg.de" id="facebook" target="_blank"></a>
-                    </li>
-                  </ul>
-                </div>
+                {% include components/sharing.html %}
             </div>
         </div>
     </li>
