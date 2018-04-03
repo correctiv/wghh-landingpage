@@ -1,8 +1,8 @@
 ---
-title: Wem gehört Hamburg in Ihrer Nähe?
-permalink: "/wem"
+title: Wem gehört Hamburg in Ihrer Nachbarschaft?
+permalink: "/nachbarschaft"
 page-hidden: true
-page-name: wem
+page-name: nachbarschaft
 type: header
 image: "/assets/images/wghh-teaser.jpg"
 description: Wem gehört Hamburg in Ihrer Nachbarschaft?
@@ -19,6 +19,6 @@ hero:
   error: In der Zensusdatenbank wurden für diese Adresse leider keine Ergebnisse gefunden.
 twitter_text: 'Wir wollen herausfinden, welche Eigentümer die Wohnungskrise in Hamburg
   verschärfen. Jeder kann sich beteiligen auf https://wem-gehoert-hamburg.de #WemGehoertHamburg'
-layout: wem
+layout: nachbarschaft
 ---
 
