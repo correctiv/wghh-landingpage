@@ -292,8 +292,19 @@ main
     background-image: url(../../assets/images/facebook.png)
 
 .wem-page
+
   .main
     margin-bottom: 2em
+
+  .slides>li
+    .content
+      padding: 1em 1.5em
+
+    @include mq($until: $sm)
+      height: auto
+      margin-top: 90px
+      align-items: normal
+      background-size: initial
 
   .social-share
     margin-bottom: 0
