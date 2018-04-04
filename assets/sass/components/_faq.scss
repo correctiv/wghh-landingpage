@@ -1,0 +1,76 @@
+
+.faq {
+  width: 100%;
+}
+
+.faq-page .spaced .content {
+  width: 100%;
+}
+
+.toggle {
+  width: 100%;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.toggle:last-child {
+  border-bottom: 1px solid grey;
+}
+
+.toggle-title {
+  position: relative;
+  display: block;
+  border-top: 1px solid grey;
+  margin: .5em 0;
+}
+
+body.default main .toggle p {
+  font-size: 16px;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+
+body.default main .toggle-title p {
+  margin-top: .45em;
+  cursor: pointer;
+  font-weight:200;
+  color: #e6007e;
+}
+
+.toggle-inner {
+  display: none;
+  line-height: 20px;
+  margin: 1em .5em;
+}
+
+.toggle-inner div {
+ max-width: 100%;
+}
+
+.toggle-title .title-name {
+  display: block;
+}
+
+.toggle-title a i {
+  font-size: 22px;
+  margin-right: .5em;
+}
+
+.toggle-title i {
+  position: absolute;
+  width: 1em;
+  height: 1em;
+  margin: 0;
+  right: 0;
+}
+
+.toggle-title i:before {
+  content:'+';
+}
+.toggle-title.active i:before {
+  content: '-';
+}

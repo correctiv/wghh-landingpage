@@ -1,0 +1,44 @@
+---
+layout: compress
+---
+
+{% assign theme = site.site-theme %}
+
+{% for class in page.main-classes %}
+  {% assign main-classes = '' | append: ' ' | append: class %}
+{% endfor %}
+{% if page.theme != nil %}
+  {% capture page_theme %}page.theme{% endcapture %}
+{% else %}
+  {% capture page_theme %}{{ theme }}{% endcapture %}
+{% endif %}
+<!DOCTYPE>
+<html>
+  {% include global/head.html %}
+  <body class="{{ page.page-name }}-page {{ page_theme }}">
+    {% include components/header.html %}
+    <main class="{{ main-classes }}">
+      <div class="wrapper">
+        <div class="content">
+          <h1>FAQ</h1>
+          {% assign faq = page.faq | where: "hidden", "false" %}
+          <div class="faq">
+            {% for faq in page.faq %}
+            <div class="toggle">
+                <div class="toggle-title">
+                    <p><i></i><span class="title-name">{{ faq.title }}</span></p>
+                </div>
+                <div class="toggle-inner">
+                    {{ faq.text }}
+                </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </main>
+    {% include footer.html %}
+    {% include components/footer.html %}
+    {% include global/javascript.html %}
+  </body>
+</html>
