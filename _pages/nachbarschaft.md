@@ -16,7 +16,7 @@ hero:
     veraltet. Außerdem wurden, um die Anonymität zu gewährleisten, manche Daten etwas
     verfremdet und sind daher ungenau. Doch es gibt derzeit keine aktuelleren und
     besseren Daten. Auch deshalb machen wir diese Recherche.'
-  error: In der Zensusdatenbank wurden für diese Adresse leider keine Ergebnisse gefunden.
+  error: In der Zensusdatenbank wurden für Ihre Adresse leider keine Ergebnisse gefunden.
 twitter_text: 'Wir wollen herausfinden, welche Eigentümer die Wohnungskrise in Hamburg
   verschärfen. Jeder kann sich beteiligen auf https://wem-gehoert-hamburg.de #WemGehoertHamburg'
 layout: nachbarschaft
