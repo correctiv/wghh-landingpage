@@ -65,11 +65,16 @@ blog:
   hidden: false
 newsletter:
   title: Bleiben Sie informiert!
-  copy: "Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie Einladungen zu  Veranstaltungen zum Thema."
+  copy: Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren
+    Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie
+    Einladungen zu  Veranstaltungen zum Thema.
 hero:
-  lead: Gemeinsam mit den Mieterinnen und Mietern wollen wir den Hamburger Wohnungsmarkt transparenter machen. Und herausfinden, welche Eigentümer die Wohnungskrise verschärfen.
-  section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist. Mit Ihrem Puzzleteil vervollständigen wir ein großes Bild der Stadt. Davon profitieren alle.
-  section2: Als Dankeschön senden wir Ihnen direkt nach der Teilnahme eine Übersicht mit den Eigentumsverhältnissen in Ihrer Nachbarschaft.
+  lead: Gemeinsam mit den Mieterinnen und Mietern wollen wir den Hamburger Wohnungsmarkt
+    transparenter machen. Und herausfinden, welche Eigentümer die Wohnungskrise verschärfen.
+  section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist. Mit Ihrem Puzzleteil
+    vervollständigen wir ein großes Bild der Stadt. Davon profitieren alle.
+  section2: Als Dankeschön senden wir Ihnen direkt nach der Teilnahme eine Übersicht
+    mit den Eigentumsverhältnissen in Ihrer Nachbarschaft.
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: home
