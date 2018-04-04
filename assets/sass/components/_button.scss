@@ -31,3 +31,6 @@ a.btn--white{
     background: darken($white, 10);
   }
 }
+button.btn--disabled {
+  background-color: lighten(gray, 20%) !important;
+}
