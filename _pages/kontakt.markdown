@@ -16,7 +16,7 @@ Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> C
 Schreiben Sie uns: 
 
 Redaktionelle Anfragen: <a style="color: #e5007d" href="mailto:hamburg@correctiv.org">hamburg(at)correctiv.org</a><br>
-Technische Fragen: <a style="color: #e5007d" href="mailto:hamburg@correctiv.org">hilfe(at)correctiv.org</a><br>
+Technische Fragen: <a style="color: #e5007d" href="mailto:hilfe@correctiv.org">hilfe(at)correctiv.org</a><br>
 
 # Wir sind vor Ort: Besuchen Sie uns!
 
