@@ -13,7 +13,10 @@ layout: general
 <br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns Ihre Geschichte, die Sie mit Ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
 
-Schreiben Sie uns: <a style="color: #e5007d" href="mailto:hamburg@correctiv.org">hamburg(at)correctiv.org</a><br>
+Schreiben Sie uns: 
+
+Redaktionelle Anfragen:<a style="color: #e5007d" href="mailto:hamburg@correctiv.org">hamburg(at)correctiv.org</a><br>
+Technische Fragen: <a style="color: #e5007d" href="mailto:hamburg@correctiv.org">hilfe(at)correctiv.org</a><br>
 
 # Wir sind vor Ort: Besuchen Sie uns!
 
