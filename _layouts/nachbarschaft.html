@@ -20,39 +20,30 @@ layout: compress
     {% include components/header.html %}
     <main>
 
-<ul class="slides">
-    <li id="slide">
-        <div class="content">
-            <h2>{{page.hero.title}}</h2>
-            <div class="main"><span id="lead">{{page.hero.lead}}</span></div>
-            <h3 id="table-header">Im Umkreis von <span id="address"></span>:</h3>
-            <div id="main" class="main">
-              <p class="results-description">In Ihrer Nachbarschaft haben wir Daten für
-                <span id="flats_total"></span> Wohnungen gefunden. Darunter befinden sich:</p>
-                <table class="results">
-                  <tr><td>in Privatbesitz</td><td id="flats_private_owned"></td></tr>
-                  <tr><td>im Besitz von Wohnungsunternehmen</td><td id="flats_private_company_owned"></td></tr>
-                  <tr><td>im Besitz von anderen Unternehmen</td><td id="flats_other_private_company_owned"></td></tr>
-                  <tr><td>im Besitz von Genossenschaften</td><td id="flats_cooperative_owned"></td></tr>
-                  <tr><td>in städtischem Besitz</td><td id="flats_public_body_owned"></td></tr>
-                  <tr><td>im Besitz von NGOs oder Kirchen</td><td id="flats_ngo_church_owned"></td></tr>
-                  <tr><td>in Staatseigentum</td><td id="flats_state_owned"></td></tr>
-                </table>
-                <div class="footnote"><small>{{page.hero.footnote}}</small></div>
-                <div class="social-share">
-                  <ul>
-                    <li>
-                      <a href="https://twitter.com/share?text={{page.twitter_text | url_encode}}&url=https%3A//wem-gehoert-hamburg.de" id="twitter" target="_blank"></a>
-                    </li>
-                    <li>
-                      <a href="https://www.facebook.com/sharer.php?u=https%3A//wem-gehoert-hamburg.de" id="facebook" target="_blank"></a>
-                    </li>
-                  </ul>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
+      <ul class="slides">
+          <li id="slide">
+              <div class="content">
+                  <h2>{{page.hero.title}}</h2>
+                  <div class="main"><span id="lead">{{page.hero.lead}}</span></div>
+                  <h3 id="table-header">Im Umkreis von <span id="address"></span>:</h3>
+                  <div id="main" class="main">
+                    <p class="results-description">In Ihrer Nachbarschaft haben wir Daten für
+                      <span id="flats_total"></span> Wohnungen gefunden. Darunter befinden sich:</p>
+                      <table class="results">
+                        <tr><td>in Privatbesitz</td><td id="flats_private_owned"></td></tr>
+                        <tr><td>im Besitz von Wohnungsunternehmen</td><td id="flats_private_company_owned"></td></tr>
+                        <tr><td>im Besitz von anderen Unternehmen</td><td id="flats_other_private_company_owned"></td></tr>
+                        <tr><td>im Besitz von Genossenschaften</td><td id="flats_cooperative_owned"></td></tr>
+                        <tr><td>in städtischem Besitz</td><td id="flats_public_body_owned"></td></tr>
+                        <tr><td>im Besitz von NGOs oder Kirchen</td><td id="flats_ngo_church_owned"></td></tr>
+                        <tr><td>in Staatseigentum</td><td id="flats_state_owned"></td></tr>
+                      </table>
+                      <div class="footnote"><small>{{page.hero.footnote}}</small></div>
+                     {% include components/sharing.html %}
+                  </div>
+              </div>
+          </li>
+      </ul>
 
     {% include footer.html %}
     {% include components/footer.html %}

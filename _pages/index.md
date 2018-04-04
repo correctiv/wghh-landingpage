@@ -7,32 +7,6 @@ nav-name: Start
 type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
-slides:
-- title: Wem gehört Hamburg?
-  teaser: Mieten gehen durch die Decke. Kann ich mir ein Leben in meiner Stadt noch
-    leisten, fragen sich viele Mieter in Hamburg. Vielleicht auch Sie?
-  main: Die hohen Preise haben Ursachen. Hamburg ist für Finanzinvestoren eine der
-    lukrativsten Städte in Europa. Immer mehr Immobilien dienen der Spekulation oder
-    werden für fragwürdige Geschäfte benutzt.
-  image:
-    src: assets/images/Bild1.jpg
-- title: Wer spielt mit Ihrer Wohnung?
-  teaser: Vielen Mietern ist der Besitzer ihrer Wohnung nicht bekannt, weil im Mietvertrag
-    nicht der wahre Eigentümer steht.
-  main: 'Das hat Konsequenzen: Sie wissen nicht, wer Ihre Miete erhöht oder sich um
-    Reparaturen kümmert.  Auch die Politik hat keinen Überblick, wem die Stadt gehört. '
-  image:
-    src: assets/images/Bild2.jpg
-- title: Sie sind gefragt!
-  teaser: Wir wollen mit Ihnen herausfinden, wem Hamburg gehört. Ab April 2018 können
-    Sie auf dieser Seite den Eigentümer Ihrer Wohnung eintragen – oder wir finden
-    ihn gemeinsam heraus. So können wir aufdecken, wer von der Intransparenz im Immobilienmarkt
-    profitiert.
-  main: Dieses Projekt ist ein Experiment. Eine gemeinsame Recherche mit den Mietern
-    Hamburgs, die in Ihrer Stadt etwas ändern wollen. Wir wollen zeigen, wer für die
-    Lage auf dem Hamburger Immobilienmarkt verantwortlich ist.
-  image:
-    src: assets/images/Bild3.jpg
 blog:
 - title: 'Event: Wie kann die Politik die Wohnungskrise lösen?'
   date: 2018-03-29 19:00:00 Z
@@ -90,11 +64,12 @@ blog:
   link: https://correctiv.org/a/2264
   hidden: false
 newsletter:
-  title: Seien Sie dabei!
-  copy: "Tragen Sie sich in unseren Newsletter ein. Wir halten Sie schon jetzt über
-    das Projekt auf dem Laufenden und senden Ihnen Veröffentlichungen über den Wohnungsmarkt
-    zu. \n\nAb April 2018 erweitern wir diese Seite mit Funktionen zur Datenerhebung
-    und beginnen die gemeinsame Recherche."
+  title: Bleiben Sie informiert!
+  copy: "Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie Einladungen zu  Veranstaltungen zum Thema."
+hero:
+  lead: Gemeinsam mit den Mieterinnen und Mietern wollen wir den Hamburger Wohnungsmarkt transparenter machen. Und herausfinden, welche Eigentümer die Wohnungskrise verschärfen.
+  section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist. Mit Ihrem Puzzleteil vervollständigen wir ein großes Bild der Stadt. Davon profitieren alle.
+  section2: Als Dankeschön senden wir Ihnen direkt nach der Teilnahme eine Übersicht mit den Eigentumsverhältnissen in Ihrer Nachbarschaft.
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: home

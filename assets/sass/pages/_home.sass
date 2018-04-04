@@ -1,6 +1,10 @@
-main
+body.default main
+  padding-top: 50px !important
   @include mq($until: $sm)
-    padding: 0 0 !important
+    padding: 70px 0 !important
+
+strong
+  font-family: "PTSans-Bold", $base-font-family
 
 .header
   position: fixed
@@ -43,6 +47,8 @@ main
     .join
       padding: .3em
       background-color: $brand
+      &--disabled
+        background-color: gray
 
 
 @keyframes bounce
@@ -116,6 +122,7 @@ main
     width: $content-width
     max-width: 90%
     padding: 2.5em 1.5em
+    margin: 0 auto
     text-align: center
 
     .teaser
@@ -127,18 +134,85 @@ main
       font-size: 16px
       line-height: 20px
 
+.hero
+
+  .background
+    display: flex
+    justify-content: center
+    align-items: center
+    margin-bottom: 40px
+    padding-top: 40px
+    position: relative
+    background-repeat: no-repeat
+    background-attachment: fixed
+    background-position-x: center
+    background-position-y: center
+    background-size: cover
+
+  .content
+    position: relative
+    width: 600px
+    max-width: 90%
+    flex-flow: column
+
+  .hero-top
+    display: block
+    width: 40%
+    margin: 0 auto -4.5rem
+
+  .main
+    clear: both
+    width: 100%
+    padding: 4em 10% 7%
+    text-align: center
+    margin-bottom: 1.5em
+    background: white
+
+    p
+      margin: 0 0 1rem !important
+      font-size: 1rem;
+      line-height: 1.4rem;
+
+  button
+    clear: both
+    display: block
+    margin: 1.5em auto 1.5em
+    background-color: #e6007e
+    border-radius: 0
+    font-weight: 700
+
+  a.info
+    clear: both
+    display: inline
+    width: 100%
+    color: #9B9B9B
+    text-decoration: underline
+    text-underline-position: under
+    line-height: 1.2em
+
+  .timeline
+    width: 90%
+    max-width: 800px
+    margin: 1em auto
+
+  .next
+    display: block
+    width: 30px
+    margin: 3em auto 1em
+    text-align: center
+
 
 @include mq($until: $sm)
   .slides li .content .teaser, .signup p
     font-size: 16px
-    line-height: 26px
+    line-height: 22px
 
   .slides li.hero img.wghh-logo
     left: 10vw
 
 @include mq($until: $lg)
   .slides li
-    background-attachment: scroll
+    display: initial
 
 .logos
   display: flex
@@ -159,13 +233,16 @@ main
 
 .signup
   max-width: $breakout-width
-  margin: 100px auto 0 auto
-  background: $brand
+  margin: 0 auto
   color: white
   display: flex
   justify-content: center
   text-align: center
-  padding: 2em
+  padding: 50px 0 0
+
+  .content
+    background: $brand
+    padding: 2em
 
   p
     line-height: 1.6em !important
@@ -190,7 +267,7 @@ main
   input[type=email]
     padding: 10px
     outline: none
-    width: 230px
+    width: 40%
     max-width: 100%
     margin: 0 0 20px
     font-size: 13px
@@ -267,30 +344,6 @@ main
       width: 100% !important
       padding-left: 0
 
-.social-share
-  margin: 2em auto
-
-  ul
-    display: flex
-    justify-content: center
-
-    li
-      list-style-type: none
-      margin-right: 25px
-
-  a
-    width: 50px
-    height: 50px
-    display: block
-    background-repeat: no-repeat
-    background-size: contain
-
-  #twitter
-    background-image: url(../../assets/images/twitter.png)
-
-  #facebook
-    background-image: url(../../assets/images/facebook.png)
-
 .nachbarschaft-page
 
   .main
@@ -305,16 +358,6 @@ main
       margin-top: 90px
       align-items: normal
       background-size: initial
-
-  .social-share
-    margin-bottom: 0
-
-    li
-      margin-right: 12px
-
-    a
-      width: 25px
-      height: 25px
 
 .partners
   max-width: 500px
