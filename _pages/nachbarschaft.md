@@ -16,7 +16,10 @@ hero:
     veraltet. Außerdem wurden, um die Anonymität zu gewährleisten, manche Daten etwas
     verfremdet und sind daher ungenau. Doch es gibt derzeit keine aktuelleren und
     besseren Daten. Auch deshalb machen wir diese Recherche.'
-  error: Für einige Gegenden haben wir Daten aus dem Zensus 2011, die grob Auskunft über die Eigentumsverhältnisse geben. Im Umkreis Ihrer Adresse haben wir allerdings leider keine Daten. Deshalb ist es um so wichtiger, dass Sie gerade zu unserer Recherche beigetragen haben. Vielen Dank!
+  error: Für einige Gegenden haben wir Daten aus dem Zensus 2011, die grob Auskunft
+    über die Eigentumsverhältnisse geben. Im Umkreis Ihrer Adresse haben wir allerdings
+    leider keine Daten. Deshalb ist es um so wichtiger, dass Sie gerade zu unserer
+    Recherche beigetragen haben. Vielen Dank!
 twitter_text: 'Wir wollen herausfinden, welche Eigentümer die Wohnungskrise in Hamburg
   verschärfen. Jeder kann sich beteiligen auf https://wem-gehoert-hamburg.de #WemGehoertHamburg'
 layout: nachbarschaft
