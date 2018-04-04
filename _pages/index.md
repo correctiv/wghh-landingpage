@@ -10,15 +10,6 @@ image: "/assets/images/wghh-teaser.jpg"
 blog:
 - title: 'Event: Auftakt zur gemeinsamen Eigentümer-Recherche'
   date: 2018-04-05 19:00:00 Z
-  publisher: "@ABENDBLATT"
-  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F42304637%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C1200%2C600&s=d3ca78e6e659d426de46754c185de9ea
-  text: Vorstellung des Projekts. Anschließend können Sie unsere Plattform für die
-    Bürgerrecherche ausprobieren. Kommen Sie vorbei! Die Online-Anmeldung schließt
-    am 5. April um 16 Uhr.
-  link: https://www.eventbrite.de/e/wem-gehort-hamburg-auftakt-zur-gemeinsamen-eigentumer-recherche-tickets-44250350991
-  hidden: false
-- title: 'Event: Auftakt zur gemeinsamen Eigentümer-Recherche'
-  date: 2018-04-05 19:00:00 Z
   publisher: CORRECTIV
   image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F42304637%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C1200%2C600&s=d3ca78e6e659d426de46754c185de9ea
   text: 'Besuchen Sie unsere „Wem gehört Hamburg?“ Auftaktveranstaltung beim Hamburger
