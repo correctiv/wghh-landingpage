@@ -24,10 +24,11 @@ layout: compress
     <li id="slide">
         <div class="content">
             <h2>{{page.hero.title}}</h2>
-            <div class="main">{{page.hero.lead}}</div>
+            <div class="main"><span id="lead">{{page.hero.lead}}</span></div>
             <h3 id="table-header">Im Umkreis von <span id="address"></span>:</h3>
             <div id="main" class="main">
-              <p class="results-description">Anzahl der Wohnungen...</p>
+              <p class="results-description">In Ihrer Nachbarschaft haben wir Daten für
+                <span id="flats_total"></span> Wohnungen gefunden. Darunter befinden sich:</p>
                 <table class="results">
                   <tr><td>in Privatbesitz</td><td id="flats_private_owned"></td></tr>
                   <tr><td>im Besitz von Wohnungsunternehmen</td><td id="flats_private_company_owned"></td></tr>
@@ -36,7 +37,6 @@ layout: compress
                   <tr><td>in städtischem Besitz</td><td id="flats_public_body_owned"></td></tr>
                   <tr><td>im Besitz von NGOs oder Kirchen</td><td id="flats_ngo_church_owned"></td></tr>
                   <tr><td>in Staatseigentum</td><td id="flats_state_owned"></td></tr>
-                  <tr><td>Insgesamt</td><td id="flats_total"></td></tr>
                 </table>
                 <div class="footnote"><small>{{page.hero.footnote}}</small></div>
                 {% include components/sharing.html %}
@@ -49,28 +49,34 @@ layout: compress
     {% include components/footer.html %}
 
 <script>
+function handleResponse(request, street, number) {
+      if (request.readyState == 4) {
+        if (request.status == 200) {
+          var response = JSON.parse(request.responseText);
+          if (response.data != null) {
+            for (var stat in response.data) {
+              var element = document.getElementById(stat);
+              if (element) element.innerText = response.data[stat];
+            }
+            document.getElementById("address").innerText = (street +" "+number);
+            return streetview = "https://maps.googleapis.com/maps/api/staticmap?maptype=satellite&size=640x640&scale=2&zoom=17&center="+street+number+"HamburgGermany&key=AIzaSyCdGzleqAIZ5HK5ePdemM6MnPz2h-21oCk";
+          }
+        }
+        document.getElementById("lead").style.display = "none";
+        document.getElementById("main").innerText = "{{page.hero.error}}";
+        document.getElementById("table-header").style.display = "none";
+        return "assets/images/Bild2.jpg";
+      }
+};
+
 function wem() {
     var street = getQueryVariable("street");
     var number = getQueryVariable("nr");
-    var streetview = "https://maps.googleapis.com/maps/api/staticmap?maptype=satellite&size=640x640&scale=2&zoom=17&center="+street+number+"HamburgGermany&key=AIzaSyCdGzleqAIZ5HK5ePdemM6MnPz2h-21oCk";
     var wghhXhttp = new XMLHttpRequest();
     wghhXhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            var response = JSON.parse(this.responseText);
-            if (response.data == null){
-                document.getElementById("main").innerText = "{{page.hero.error}}";
-                document.getElementById("table-header").style.display = "none";
-                streetview = "assets/images/Bild2.jpg";
-            }
-            else {
-                for (var stat in response.data) {
-                  var element = document.getElementById(stat);
-                  if (element) element.innerText = response.data[stat];
-                }
-                document.getElementById("address").innerText = (street +" "+number);
-            }
-        }
-        document.getElementById("slide").style.backgroundImage = "url('"+streetview+"')";
+      var request = this;
+      var streetview = handleResponse(request, street, number);
+      document.getElementById("slide").style.backgroundImage = "url('"+streetview+"')";
     };
     wghhXhttp.open("GET", "https://wghh-census-api.apps.correctiv.org/"+window.location.search, true);
     wghhXhttp.send();
