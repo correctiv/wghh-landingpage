@@ -9,13 +9,14 @@ main-classes: spaced
 layout: general
 ---
 
-## **Datenschutzerklärung**
+## Datenschutzerklärung
 
 Die Webseiten wem-gehoert-hamburg.de und forms.crowdnewsroom.org werden betrieben von der CORRECTIV – Recherchen für die Gesellschaft gGmbH.
 
 Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir tun alles, um Ihre persönlichen Daten vor unbefugtem Zugriff zu schützen. Die Anforderungen des Bundesdatenschutzgesetzes (BDSG), Telemediengesetzes (TMG) sowie alle weiteren datenschutzrechtlichen Vorschriften werden von uns eingehalten. Wenn Sie es wünschen, können Sie unsere Seite besuchen, ohne Angaben zu Ihrer Person (wie Name, Geburtsdatum etc.) zu machen.
 
 Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden.
+
 
 **1. Diese Daten erheben wir**
 
@@ -52,9 +53,11 @@ Cookies: Diese Website verwendet an mehreren Stellen Cookies. Cookies sind klein
 
 Die Erhebung von personenbezogenen Informationen kann nahezu vollständig vermieden werden. Eine Rückführung dieser Daten auf einzelne Personen ist in einzelfällen Fällen jedoch zumindest theoretisch nicht ganz auszuschließen.
 
+
 **2. Zweck der Datenerhebung: Nutzung von wem-gehoert-hamburg.de und forms.crowdnewsroom.org als Archivplattform für weitere Recherchen**
 
 CORRECTIV speichert erst Daten, wenn Sie die Eigentümer-Umfrage auf wem-gehoert-hamburg.de und forms.crowdnewsroom.org vollständig bis zum Ende durchführen und die Ergebnisse abschließend bestätigen. Dann erfassen wir die Daten, die Sie im Fortlauf eingetragen haben. Darunter fallen Daten wie die Adresse Ihrer Mietwohnung und der Name des Eigentümers Ihrer Mietwohnung. Um die von Ihnen eingetragenen Daten verifizieren zu können, fragt CORRECTIV zudem nach einen Beleg (Mietvertrag, Schreiben Mieterhöhung etc.). Diese erfassten Daten wird CORRECTIV in einer internen Datenbank erfassen und dienst als Anhaltspunkt für weitere Recherchen zum Wohnungsmarkt in Hamburg.
+
 
 **3. Übermittlung von Daten an Dritte**
 
@@ -72,13 +75,16 @@ Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt grundsätzlich n
 
 Auf Anordnung der zuständigen Stellen müssen und dürfen wir im Einzelfall Auskunft über diese Daten erteilen, soweit dies für Zwecke der Strafverfolgung, zur Gefahrenabwehr, zur Erfüllung der gesetzlichen Aufgaben der Verfassungsschutzbehörden oder des Militärischen Abschirmdienstes oder zur Durchsetzung der Rechte am geistigen Eigentum erforderlich ist.
 
+
 **4. Newsletter**
 
 Bei Anmeldung zum „Wem gehört Hamburg?“ E-Mail-Newsletter wird Ihre E-Mailadresse mit Ihrer Einwilligung für eigene Zwecke genutzt, bis Sie sich vom Newsletter abmelden. Eine Abmeldung ist jederzeit über den dafür vorgesehenen Link im Newsletter oder eine entsprechende Mitteilung an uns möglich.
 
+
 **5. Abrufbarkeit der Datenschutzerklärung**
 
 Sie können die Datenschutzerklärung jederzeit von jeder Seite dieses Internetangebots unter dem Link „Datenschutzbestimmung“ abrufen. Bitte nehmen Sie zur Kenntnis, dass Änderungen des Angebots, gesetzliche und rechtliche Neuerungen sowie ggf. nachträglich erkannte Regelungslücken Änderungen dieser Datenschutzerklärung erforderlich werden lassen können.
+
 
 **6. Fragen und Auskunftsrecht**
 
@@ -88,16 +94,20 @@ Sollten Sie Fragen oder Anmerkungen zum Datenschutz bei wem-gehoert-hamburg.de o
 
 Betroffene können zudem jederzeit ihre Auskunftsansprüche sowie Korrektur- und Löschansprüche bei unserer Datenschutzbeauftragte Beata Hubrig geltend machen.
 
+
 **7. Sicherheitshinweis**
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+
 
 **8. Rechtsgrundlage**
 
 Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO.
 
+
 **9. Recht auf Beschwerde bei einer Aufsichtsbehörde**
 
 Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+
 
 Stand 4. April 2018
