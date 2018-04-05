@@ -23,15 +23,14 @@ Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten 
 
 Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektronische Datenübermittlung genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind z.B.:
 
-- der Rechneradresse (IP-Adresse) in gekürzter Form
- der Seite, von der aus die Datei angefordert wurde,
-- dem Namen der übertragenen Datei,
-- Adresse der Mietwohnung,
-- Name des Eigentümers der Mietwohnung
-- dem Datum und der Uhrzeit der Abfrage,
-- der übertragenen Datenmenge,
-- dem Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
-- ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen
+* die Rechneradresse (IP-Adresse) in gekürzter Form der Seite, von der aus die Datei angefordert wurde,
+* die Namen der übertragenen Datei,
+* Adresse der Mietwohnung,
+* Name des Eigentümers der Mietwohnung
+* das Datum und der Uhrzeit der Abfrage,
+* die übertragenen Datenmenge,
+* der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
+ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen
 
 **1.2 Auswertung mittels Log-Files**
 
