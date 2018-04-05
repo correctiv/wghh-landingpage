@@ -37,6 +37,8 @@ Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektroni
 
 Personenbezogene Daten werden auf dieser Webseite im technisch notwendigen und zweckmäßigen Umfang erhoben. In keinem Fall werden die erhobenen Daten verkauft oder an Dritte weitergegeben. Im Folgenden erhalten Sie einen Überblick über die von uns im Rahmen dieser Website erhobenen Nutzungsdaten.
 
+CORRECTIV verwendet ein selbst gehostetes Piwik. Andere Web-Tracker oder Social Media Tracker sind nicht eingebunden.
+
 Log-Files: Bei der Nutzung dieses Angebots werden die von Ihrem Browser an den Server übermittelten Daten erfasst und gespeichert. Dies umfasst üblicherweise Informationen über den Typ und die Version des von Ihnen verwendeten Browsers, das verwendete Betriebssystem, die Referrer URL (die Webseite, von der aus Sie zu dieser Website gelangt sind), den Hostnamen des zugreifenden Rechners (die IP-Adresse) sowie die Uhrzeit der Serveranfrage. Als Daten werden diese Informationen ausschließlich für statistische Zwecke und zur Optimierung unseres Internet-Angebots verwendet. Sie können der Nutzung dieser Daten per Email, Fax, Brief oder Telefon widersprechen.
 
 Cookies: Diese Website verwendet an mehreren Stellen Cookies. Cookies sind kleine Textdateien, die Ihr Browser speichert und die dazu dienen, die Benutzung einer Website einfacher, effektiver und sicherer zu machen. Cookies richten auf Ihrem Rechner keinen Schaden an, nehmen minimalen Speicherplatz in Anspruch und enthalten keine Viren.
