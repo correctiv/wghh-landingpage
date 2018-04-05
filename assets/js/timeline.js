@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", loadProgressBar);
 
-var startDate = new Date("April 5, 2018");
+var startDate = new Date("April 3, 2018");
 var endDate = new Date("June 16, 2018");
 var milestone = new Date("May 4, 2018");
 
