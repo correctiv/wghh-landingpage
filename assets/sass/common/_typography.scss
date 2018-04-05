@@ -74,6 +74,7 @@ body {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   transform: skewX(-5deg);
+  word-break: break-word;
 }
 
 @mixin margin-helpers {
