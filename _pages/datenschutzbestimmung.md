@@ -9,13 +9,13 @@ main-classes: spaced
 layout: general
 ---
 
-**Datenschutzerklärung**
+## **Datenschutzerklärung**
 
 Die Webseiten wem-gehoert-hamburg.de und forms.crowdnewsroom.org werden betrieben von der CORRECTIV – Recherchen für die Gesellschaft gGmbH.
 
-Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir tun alles, um Ihre persönlichen Daten vor unbefugtem Zugriff zu schützen. Die Anforderungen des Bundesdatenschutzgesetzes (BDSG), Telemediengesetzes (TMG) sowie alle weiteren datenschutzrechtlichen Vorschriften werden von uns eingehalten. Wenn Sie es wünschen, können Sie unsere Seite besuchen, ohne Angaben zu Ihrer Person (wie Name, Geburtsdatum etc.) zu machen. 
+Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir tun alles, um Ihre persönlichen Daten vor unbefugtem Zugriff zu schützen. Die Anforderungen des Bundesdatenschutzgesetzes (BDSG), Telemediengesetzes (TMG) sowie alle weiteren datenschutzrechtlichen Vorschriften werden von uns eingehalten. Wenn Sie es wünschen, können Sie unsere Seite besuchen, ohne Angaben zu Ihrer Person (wie Name, Geburtsdatum etc.) zu machen.
 
-Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden. 
+Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden.
 
 **1. Diese Daten erheben wir**
 
@@ -24,13 +24,19 @@ Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten 
 Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektronische Datenübermittlung genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind z.B.:
 
 * die Rechneradresse (IP-Adresse) in gekürzter Form der Seite, von der aus die Datei angefordert wurde,
+
 * die Namen der übertragenen Datei,
+
 * Adresse der Mietwohnung,
+
 * Name des Eigentümers der Mietwohnung
+
 * das Datum und der Uhrzeit der Abfrage,
+
 * die übertragenen Datenmenge,
+
 * der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
-ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen
+  ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen
 
 **1.2 Auswertung mittels Log-Files**
 
@@ -60,7 +66,7 @@ Wenn Sie über unserer Webseite beim Grundbuchamt erfragen möchten, wer der Eig
 
 **3.2. Keine Übermittlung an Dritte zu Werbezwecken ohne ausdrückliche Einwilligung**
 
-Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt grundsätzlich nur, sofern Sie ausdrücklich eingewilligt haben. 
+Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt grundsätzlich nur, sofern Sie ausdrücklich eingewilligt haben.
 
 **3.3 Auskunftsanordnungen**
 
@@ -78,7 +84,7 @@ Sie können die Datenschutzerklärung jederzeit von jeder Seite dieses Interneta
 
 Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit und kostenlos Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Auch haben Sie nach dem Bundesdatenschutzgesetz ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Sie können außerdem jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen.
 
-Sollten Sie Fragen oder Anmerkungen zum Datenschutz bei wem-gehoert-hamburg.de oder forms.crowdnewsroom.org haben, wenden Sie sich bitte mit Ihrem Anliegen per E-Mail an datenschutz [at] correctiv.org.
+Sollten Sie Fragen oder Anmerkungen zum Datenschutz bei wem-gehoert-hamburg.de oder forms.crowdnewsroom.org haben, wenden Sie sich bitte mit Ihrem Anliegen per E-Mail an datenschutz \[at\] correctiv.org.
 
 Betroffene können zudem jederzeit ihre Auskunftsansprüche sowie Korrektur- und Löschansprüche bei unserer Datenschutzbeauftragte Beata Hubrig geltend machen.
 
@@ -92,7 +98,6 @@ Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilli
 
 **9. Recht auf Beschwerde bei einer Aufsichtsbehörde**
 
-Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt. 
-
+Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
 
 Stand 4. April 2018
