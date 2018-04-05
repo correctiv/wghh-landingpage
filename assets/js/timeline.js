@@ -1,54 +1,46 @@
 document.addEventListener("DOMContentLoaded", loadProgressBar);
 
 var startDate = new Date("April 3, 2018");
-var endDate = new Date("June 16, 2018");
-var milestone = new Date("May 4, 2018");
+var endDate = new Date("June 18, 2018");
+var milestones = [new Date("April 5, 2018"),new Date("May 4, 2018"),new Date("June 16, 2018")];
+var segments = ["Eigentümer erheben", "Daten auswerten"];
 
 function loadProgressBar(){
   var entirePeriod = endDate.getTime() - startDate.getTime();
 
-  // set progress
+  // set progress bar
   var today = new Date();
   var timeElapsed = today.getTime() - startDate.getTime();
   var timeElapsedPercentage = Math.round(timeElapsed / entirePeriod * 100);
   var progressElem = document.getElementById("progressContainer");
   progressElem.style.width = timeElapsedPercentage + '%';
 
-  // set start point (with label)
-  var startElem = document.getElementById('start');
-  startElem.style.left = "2.5%"; //start of progressbar, since it's container takes 95% of width and it's centered
+  milestones.forEach( function(milestone) {
 
-  var startLabelElem = document.getElementById("start__label");
-  startLabelElem.innerHTML = startDate.toLocaleDateString("de");
-  startLabelElem.style.left = '0.5%';
+    // milestone
+    var milestoneElem = document.createElement('div');
+    var milestonePeriod = milestone.getTime() - startDate.getTime();
+    var milestonePosition = Math.round((1 - milestonePeriod / entirePeriod) * 100);
+    milestoneElem.className = "milestone";
+    document.getElementById('progressContainer').appendChild(milestoneElem);
+    milestoneElem.style.right = milestonePosition + '%';
 
-  // set end point (with label)
-  var endElem = document.getElementById('end');
-  var outerElem = document.getElementById('outerContainer');
-  endElem.style.right = "2.5%"; //same as start
+    // label
+    var milestoneLabelElem = document.createElement('div');
+    var milestoneLabelPosition = 2;
+    milestoneLabelElem.className = "label";
+    milestoneLabelElem.innerHTML = milestone.toLocaleDateString("de");
+    document.getElementById('label-container').appendChild(milestoneLabelElem);
+    milestoneLabelElem.style.right = milestonePosition + '%';
+  });
 
-  var endLabelElem = document.getElementById("end__label");
-  //endLabelElem.innerHTML = endDate.toLocaleDateString("de");
-  endLabelElem.innerHTML = "Juni 2018";
-  endLabelElem.style.right = '0.5%';
-
-  // set milestone
-  var milestoneElem = document.getElementById('milestone');
-  var milestonePeriod = milestone.getTime() - startDate.getTime();
-  var milestonePosition = Math.round(milestonePeriod / entirePeriod * 95);
-  var milestoneRight = Math.round((1 - milestonePeriod / entirePeriod) * 95);
-  milestoneElem.style.left = milestonePosition + 2.5 + '%';
-  milestoneElem.style.right = milestoneRight + 2.5 + '%';
-
-  // set milestone label
-  var milestoneLabelElem = document.getElementById("milestone__label");
-  milestoneLabelElem.innerHTML = milestone.toLocaleDateString("de");
-  var milestoneLabelPosition = Math.round(milestonePeriod / entirePeriod * 100);
-  milestoneLabelElem.style.left = milestoneLabelPosition - 3.5 + '%';
-
-  // set segment label positions
-  var leftLabelElem = document.getElementsByClassName('segment__label--left')[0];
-  var rightLabelElem = document.getElementsByClassName('segment__label--right')[0];
-  leftLabelElem.style.width = milestonePosition / 0.95 + '%';
-  rightLabelElem.style.width = (100 - milestonePosition / 0.95) + '%';
+  // set segments
+  segments.forEach( function(segment) {
+    var segmentElem = document.createElement('div');
+    var segmentElemPosition = 100/(milestones.length - 1);
+    segmentElem.className = "segment";
+    document.getElementById('label-segments').appendChild(segmentElem);
+    segmentElem.innerHTML = segment;
+    segmentElem.style.width = segmentElemPosition + '%';
+  });
 }

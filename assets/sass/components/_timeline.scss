@@ -40,6 +40,15 @@
     display: flex;
     justify-content: space-around;
     align-items: baseline;
+    flex-flow: row;
+  }
+
+  .timeline .segment {
+    float: right;
+    padding-top: 10px;
+    text-align: center;
+    color: #666666;
+    flex-basis: content;
   }
 
   .timeline .label {
@@ -48,22 +57,5 @@
     display: inline-block;
     flex-basis: content;
     z-index: 2;
-  }
-
-  .timeline .segment__label--left {
-    width: 50%;
-    float: left;
-    padding-top: 10px;
-    text-align: center;
-    color: #666666;
-    flex-basis: content;
-  }
-
-  .timeline .segment__label--right {
-    width: 50%;
-    float: right;
-    padding-top: 10px;
-    text-align: center;
-    color: #666666;
-    flex-basis: content;
+    margin-right: -2.2em;
   }
