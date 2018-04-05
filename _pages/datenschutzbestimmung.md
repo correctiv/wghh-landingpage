@@ -52,7 +52,7 @@ CORRECTIV speichert erst Daten, wenn Sie die Eigentümer-Umfrage auf wem-gehoert
 
 **3. Übermittlung von Daten an Dritte**
 
-**3.1. Grundsätzlich gilt: Es werden ohne Ihre Einwilligung keine Daten an Dritte weitergegeben. **
+**3.1. Grundsätzlich gilt: Es werden ohne Ihre Einwilligung keine Daten an Dritte weitergegeben.**
 
 **3.2. Übermittlung im Rahmen der Versendung von Anfragen an das Grundbuchamt**
 
