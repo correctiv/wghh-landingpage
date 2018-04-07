@@ -69,7 +69,7 @@ Die Erhebung von personenbezogenen Informationen kann nahezu vollständig vermie
 
 CORRECTIV speichert erst Daten, wenn Sie die Eigentümer-Umfrage auf wem-gehoert-hamburg.de und forms.crowdnewsroom.org vollständig bis zum Ende durchführen und die Ergebnisse abschließend bestätigen. Dann erfassen wir die Daten, die Sie im Fortlauf eingetragen haben. Darunter fallen Daten wie die Adresse Ihrer Mietwohnung und der Name des Eigentümers Ihrer Mietwohnung. Um die von Ihnen eingetragenen Daten verifizieren zu können, fragt CORRECTIV zudem nach einen Beleg (Mietvertrag, Schreiben Mieterhöhung etc.). Diese erfassten Daten wird CORRECTIV in einer internen Datenbank erfassen und dienst als Anhaltspunkt für weitere Recherchen zum Wohnungsmarkt in Hamburg.
 
-CORRECTIV speichert nur Daten, die für die Recherche notwendig sind und löscht alle Daten, die für die Recherche oder Anfragen beim Grundbuchamt notwendig. Nach Abschluss von Recherchen zum Wohnungsmarkt in Hamburg werden die Daten gelöscht.
+CORRECTIV speichert nur Daten, die für die Recherche notwendig sind und löscht alle Daten, die nicht mehr für die Recherche oder Anfragen beim Grundbuchamt benötigt werden. Nach Abschluss von Recherchen zum Wohnungsmarkt werden die Daten gelöscht.
 
 
 **3. Übermittlung von Daten an Dritte**
