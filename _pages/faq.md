@@ -2,11 +2,9 @@
 title: FAQ
 permalink: "/faq"
 page-hidden: false
-page-name: main
 type: header
 nav-name: FAQ
 nav-order: 5
-main-classes: spaced
 faq:
 - title: Was wollen wir erreichen?
   anchor: 1
@@ -128,6 +126,21 @@ faq:
     kommen Sie vorbei!</p> <p><a style="color:#e5007d" href="/kontakt">Und Sie können
     uns auch direkt kontaktieren</a>. Erzählen Sie uns ihre Mietergeschichte, geben
     Sie uns gerne Hinweise.</p>
-layout: faq
+layout: default
+wrapped: true
 ---
+<div>
+    <h1>FAQ</h1>
+    <nav class="faqlist">
+        <ol>
+    {% for question in page.faq %}
+        <li><a href="#{{ question.anchor }}">{{ question.title }}</a></li>
+    {% endfor %}
+        </ol>
+    </nav>
 
+    {% for question in page.faq %}
+        <h1><a name="{{ question.title }}" id="{{ question.anchor }}">{{ question.title }}</a></h1>
+        {{ question.text }}
+    {% endfor %}
+</div>

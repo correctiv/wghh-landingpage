@@ -5,9 +5,10 @@ nav-name: Impressum
 type: footer
 page-hidden: false
 page-name: main
-main-classes: spaced
-layout: general
+layout: default
 ---
+
+# Impressum
 
 CORRECTIV – Recherchen für die Gesellschaft
 
