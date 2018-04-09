@@ -4,16 +4,14 @@ date: 2018-02-15 10:08:00 Z
 permalink: "/kontakt"
 type: header
 nav-name: Kontakt
-main-classes: spaced
 nav-order: 6
-layout: general
+layout: default
 ---
-
 # KONTAKT
 <br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns Ihre Geschichte, die Sie mit Ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
 
-Schreiben Sie uns: 
+Schreiben Sie uns:
 
 Redaktionelle Anfragen: <a style="color: #e5007d" href="mailto:hamburg@correctiv.org">hamburg(at)correctiv.org</a><br>
 Technische Fragen: <a style="color: #e5007d" href="mailto:hilfe@correctiv.org">hilfe(at)correctiv.org</a><br>
@@ -24,11 +22,11 @@ Für die Recherche zieht ein Teil der CORRECTIV-Redaktion ab Mitte März nach Ha
 
 # Vertraulich kontaktieren
 
-Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? <a style="color: #e5007d" href="https://correctiv-upload.org" target="blank">Hier</a> können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden. 
+Sie wollen uns einen anonymen Hinweis geben, dem wir nachgehen sollen? <a style="color: #e5007d" href="https://correctiv-upload.org" target="blank">Hier</a> können Sie sensible Dokumente und Dateien hochladen oder uns eine anonyme Nachricht senden.
 
 Die Übertragung erfolgt verschlüsselt: es ist in den meisten Fällen sinnvoll, eine Kontaktmöglichkeit für Rückfragen anzugeben. So können wir Hinweise besser bearbeiten.
 
-Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor: 
+Hier stellt sich das Team hinter „Wem gehört Hamburg“ vor:
 
 <img src="/assets/images/margherita-bettoni.png">
 
@@ -41,7 +39,7 @@ PGP Fingerabdruck: 05C8 76F0 B447 D7B9 863A  52A9 BEE8 3331 DF0A EC51
 
 <img src="/assets/images/justus-von-daniels.png">
 
-**Reporter Justus von Daniels** 
+**Reporter Justus von Daniels**
 
 Justus von Daniels ist seit 2015 im Team von CORRECTIV. Er berichtete als einziger Journalist von vor Ort über die  geschlossenen Verhandlungsrunden über das Freihandelsabkommen TTIP. Intensiv recherchierte er zu dem umstrittenen Handelspakt, um Transparenz für die Bürgerinnen und Bürger Europas zu schaffen. Der promovierte Volljurist will wissen, wer sinnvolle Lösungen blockiert. Deshalb recherchiert er viel über Lobbyinteressen in der EU und auf lokaler Ebene.
 
