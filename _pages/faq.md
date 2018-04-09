@@ -128,6 +128,7 @@ faq:
     Sie uns gerne Hinweise.</p>
 layout: default
 wrapped: true
+main-classes: faq
 ---
 <div>
     <h1>FAQ</h1>
