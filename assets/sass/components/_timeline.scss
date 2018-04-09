@@ -57,3 +57,9 @@
     color: #666666;
     z-index: 2;
   }
+
+  @media (max-width: 48em) {
+    .timeline .label {
+      font-size: 14px;
+    }
+  }

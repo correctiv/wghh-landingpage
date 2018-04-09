@@ -26,15 +26,6 @@ function loadProgressBar(){
     document.getElementById('progressContainer').appendChild(milestoneElem);
     milestoneElem.style.left = milestonePosition + '%';
     segmentWidth.push(milestonePosition);
-
-    // label
-    var milestoneLabelElem = document.createElement('div');
-    var milestoneLabelPosition = 2;
-    milestoneLabelElem.className = "label";
-    milestoneLabelElem.innerHTML = milestone.toLocaleDateString("de");
-    document.getElementById('label-container').appendChild(milestoneLabelElem);
-    milestoneLabelElem.style.left = milestonePosition + '%';
-    milestoneLabelElem.style.marginLeft = milestoneLabelElem.offsetWidth/2*-1 + 'px';
   });
 
 
