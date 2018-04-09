@@ -2,7 +2,6 @@ body.default{
   main{
     background: $white;
     color: $black;
-    padding: 0 g(2);
     h1{
       @include heading--spacing('h1-content', 56px, 64px);
     }
