@@ -54,8 +54,9 @@ Cookies: Diese Website verwendet an mehreren Stellen Cookies. Cookies sind klein
 
 Es handelt sich dabei nur um eigene Cookies. Wir setzen Cookies ein, um unsere Website nutzerfreundlicher zu gestalten. Einige Elemente unserer Internetseite erfordern es, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. 
 In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
-- Log-In-Informationen
-- Aufgerufene Seiten
+
+* - Log-In-Informationen
+* - Aufgerufene Seiten
 
 Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit:
 Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem an unserer Seite übermittelt. Daher haben Sie als Nutzer auch die volle Kontrolle über die Verwendung von Cookies. Durch eine Änderung der Einstellungen in Ihrem Internetbrowser können Sie die Übertragung von Cookies deaktivieren oder einschränken. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Werden Cookies für unsere Website deaktiviert, können möglicherweise nicht mehr alle Funktionen der Website vollumfänglich genutzt werden.
