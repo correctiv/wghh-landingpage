@@ -29,17 +29,17 @@ Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektroni
 
 * die Rechneradresse (IP-Adresse) in gekürzter Form der Seite, von der aus die Datei angefordert wurde,
 
-* die Namen der übertragenen Datei,
+* - die Namen der übertragenen Datei,
 
-* Adresse der Mietwohnung,
+* - Adresse der Mietwohnung,
 
-* Name des Eigentümers der Mietwohnung
+* - Name des Eigentümers der Mietwohnung
 
-* das Datum und der Uhrzeit der Abfrage,
+* - das Datum und der Uhrzeit der Abfrage,
 
-* die übertragenen Datenmenge,
+* - die übertragenen Datenmenge,
 
-* der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
+* - der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
   ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen
 
 **1.2 Auswertung mittels Log-Files**
