@@ -1,5 +1,5 @@
   #outerContainer {
-    width: 95%;
+    width: 100%;
     height: 50px;
     margin: auto;
     display: flex;
@@ -22,6 +22,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    transition: width 1.0s 1.0s;
   }
 
   .timeline .milestone {
@@ -54,8 +55,5 @@
   .timeline .label {
     position: absolute;
     color: #666666;
-    display: inline-block;
-    flex-basis: content;
     z-index: 2;
-    margin-left: -1.2em;
   }

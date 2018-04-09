@@ -27,6 +27,12 @@ body{
   width:100%;
   height: 100%;
   overflow-y:scroll;
+
+  @include mq($until: $sm) {
+    max-width: 100%;
+    overflow-x: hidden;
+
+  }
 }
 
 .spaced {
