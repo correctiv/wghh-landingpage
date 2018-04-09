@@ -29,17 +29,17 @@ Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektroni
 
 * die Rechneradresse (IP-Adresse) in gekürzter Form der Seite, von der aus die Datei angefordert wurde,
 
-* - die Namen der übertragenen Datei,
+* die Namen der übertragenen Datei,
 
-* - Adresse der Mietwohnung,
+* Adresse der Mietwohnung,
 
-* - Name des Eigentümers der Mietwohnung
+* Name des Eigentümers der Mietwohnung
 
-* - das Datum und der Uhrzeit der Abfrage,
+* das Datum und der Uhrzeit der Abfrage,
 
-* - die übertragenen Datenmenge,
+* die übertragenen Datenmenge,
 
-* - der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
+* der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
   ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen
 
 **1.2 Auswertung mittels Log-Files**
@@ -55,8 +55,8 @@ Cookies: Diese Website verwendet an mehreren Stellen Cookies. Cookies sind klein
 Es handelt sich dabei nur um eigene Cookies. Wir setzen Cookies ein, um unsere Website nutzerfreundlicher zu gestalten. Einige Elemente unserer Internetseite erfordern es, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. 
 In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
 
-* - Log-In-Informationen
-* - Aufgerufene Seiten
+* Log-In-Informationen
+* Aufgerufene Seiten
 
 Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit:
 Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem an unserer Seite übermittelt. Daher haben Sie als Nutzer auch die volle Kontrolle über die Verwendung von Cookies. Durch eine Änderung der Einstellungen in Ihrem Internetbrowser können Sie die Übertragung von Cookies deaktivieren oder einschränken. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Werden Cookies für unsere Website deaktiviert, können möglicherweise nicht mehr alle Funktionen der Website vollumfänglich genutzt werden.
@@ -93,8 +93,9 @@ Auf Anordnung der zuständigen Stellen müssen und dürfen wir im Einzelfall Aus
 **4. Newsletter**
 
 Bei Anmeldung zum „Wem gehört Hamburg?“ E-Mail-Newsletter wird Ihre E-Mailadresse mit Ihrer Einwilligung für eigene Zwecke genutzt, bis Sie sich vom Newsletter abmelden. Eine Abmeldung ist jederzeit über den dafür vorgesehenen Link im Newsletter oder eine entsprechende Mitteilung an uns möglich. Die dabei erhobenen Daten sind:
-- E-Mail
-- Datum und Uhrzeit der Registrierung
+
+* E-Mail
+* Datum und Uhrzeit der Registrierung
 
 
 **5. Abrufbarkeit der Datenschutzerklärung**
