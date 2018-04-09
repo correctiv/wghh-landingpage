@@ -34,6 +34,7 @@ function loadProgressBar(){
     milestoneLabelElem.innerHTML = milestone.toLocaleDateString("de");
     document.getElementById('label-container').appendChild(milestoneLabelElem);
     milestoneLabelElem.style.left = milestonePosition + '%';
+    milestoneLabelElem.style.marginLeft = milestoneLabelElem.offsetWidth/2*-1 + 'px';
   });
 
 
@@ -44,7 +45,7 @@ function loadProgressBar(){
     var segmentEnd = (segmentWidth[0]);
     var segmentElemWidth = segmentEnd - segmentStart;
     segmentElem.className = "segment";
-    document.getElementById('label-segments').appendChild(segmentElem);
+    document.getElementById('segments-container').appendChild(segmentElem);
     segmentElem.innerHTML = segment;
     segmentElem.style.width = segmentElemWidth + '%';
   });
