@@ -4,6 +4,7 @@ permalink: "/datenschutzbestimmung"
 nav-name: Datenschutzbestimmung
 page-hidden: false
 layout: default
+main-classes: bulleted-lists
 ---
 
 ## Datenschutzerklärung

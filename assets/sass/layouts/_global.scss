@@ -66,14 +66,15 @@ body{
 }
 
 
-.faq {
-  ol {
+
+.bulleted-lists {
+  ul {
     padding-left: 1em;
-    list-style-type: decimal;
-    color: $brand;
 
     li {
+      list-style-type: disc;
       display: list-item;
+      padding: .4em;
     }
   }
 }

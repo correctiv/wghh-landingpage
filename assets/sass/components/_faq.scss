@@ -1,14 +1,14 @@
+.faq {
+  ol {
+    padding-left: 1em;
+    list-style-type: decimal;
+    color: $brand;
 
-.faqlist {}
-
-.faqlist ol {
-    margin-left: 1em;
-}
-
-.faqlist li {
-    display: list-item;
-    font-size: 16px;
-    line-height: 26px;
-    color: #e5007d;
-    text-decoration: underline;
+    li {
+      display: list-item;
+      text-decoration: underline;
+      font-size: 16px;
+      line-height: 26px;
+    }
+  }
 }
