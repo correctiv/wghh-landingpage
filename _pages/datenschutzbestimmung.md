@@ -7,7 +7,7 @@ main-classes: bulleted-lists
 layout: default
 ---
 
-## Datenschutzerklärung
+### Datenschutzerklärung
 
 Die Webseiten wem-gehoert-hamburg.de und forms.crowdnewsroom.org werden betrieben von der CORRECTIV – Recherchen für die Gesellschaft gGmbH.
 
