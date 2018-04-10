@@ -19,7 +19,7 @@ Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir tun alles, um Ih
 
 Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden.
 
-### 1. Diese Daten erheben wir
+#### 1. Diese Daten erheben wir
 
 **1.1 Datenarten**
 
