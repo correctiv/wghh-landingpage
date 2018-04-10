@@ -127,6 +127,11 @@ faq:
     kommen Sie vorbei!</p> <p><a style="color:#e5007d" href="/kontakt">Und Sie können
     uns auch direkt kontaktieren</a>. Erzählen Sie uns ihre Mietergeschichte, geben
     Sie uns gerne Hinweise.</p>
+newsletter:
+  title: Bleiben Sie informiert!
+  copy: Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren
+    Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie
+    Einladungen zu Veranstaltungen zum Thema.
 layout: default
 wrapped: true
 main-classes: faq
