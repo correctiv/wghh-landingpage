@@ -3,6 +3,7 @@ title: Wem gehört Hamburg?
 permalink: "/"
 page-hidden: false
 nav-name: Start
+page-name: main
 type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
@@ -59,6 +60,12 @@ newsletter:
   copy: Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren
     Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie
     Einladungen zu  Veranstaltungen zum Thema.
+question:
+  title: Warum betrifft mich diese Recherche?
+  copy: <p>Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu erreichen.</p>
+    <p>Große Investoren drängen zunehmend auf den Markt und handeln mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze des Erlaubten gehen und manchmal darüber hinaus.</p>
+    <p>Von mehr Transparenz profitieren alle&#58; Die Bewohner wissen, in welchen Händen ihre Wohnung ist. Journalisten können mit den Infos Missstände herausfinden. Das wiederum bringt Aufklärung. Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt gelingen kann.</p>
+  linktext: Hier finden Sie weitere Antworten
 hero:
   lead: Die Mieten in Hamburg gehen durch die Decke. Investoren fahren hohe Renditen
     ein. Der Immobilienmarkt aber ist intransparent. Wir wollen das ändern und den
@@ -68,7 +75,7 @@ hero:
   section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist – oder wir finden
     es gemeinsam heraus.  Als erstes Dankeschön bekommen Sie eine Übersicht mit den
     Eigentumsverhältnissen in Ihrer Nachbarschaft.
-  section2: 
+  section2:
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: default
@@ -84,32 +91,24 @@ nowrap: true
           <p>{{page.hero.section1}}</p>
           <p>{{page.hero.section2}}</p>
           <a class="btn" href="https://forms.crowdnewsroom.org/wem-gehoert-hamburg/eigentuemer">Jetzt mitmachen!</a>
-          <a class="info" href="faq">Warum betrifft mich diese Recherche?</a>
+          <div class="faq">
+            <div class="toggle">
+                <div class="toggle-title">
+                    <p class="info"><i></i><span class="title-name">{{ page.question.title }}</span></p>
+                </div>
+                <div id="antwort" class="toggle-inner">
+                    {{ page.question.copy }}
+                    <p class="info"><a href="faq">{{ page.question.linktext }}</a></p>
+                </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
     {% include components/timeline.html %}
     <a class="next" href="#signup"><img src="assets/images/pfeil.svg"></a>
   </div>
-  <div class="signup" id="signup">
-    <div class="content">
-      <div class="text">
-        <div id="mc_embed_signup">
-          <form action="https://correctiv.us12.list-manage.com/subscribe/post?u=74b23e1b0af8c36eb217e01c1&amp;id=b83e0dbdcd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <div id="mc_embed_signup_scroll">
-              <h2>{{page.newsletter.title}}</h2>
-              <p>{{page.newsletter.copy}}</p>
-              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_74b23e1b0af8c36eb217e01c1_b83e0dbdcd" tabindex="-1" value=""></div>
-              <div>
-                <input type="email" value="" name="EMAIL" placeholder="deine.email@example.com" class="required email" id="mce-EMAIL">
-                <input type="submit" value="Abonnieren" name="suscribe" id="mc-embedded-subscribe">
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include components/signup.html %}
   {% include components/sharing.html %}
 
 {% include blog.html %}
