@@ -19,7 +19,7 @@ Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir tun alles, um Ih
 
 Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden.<br><br>
 
-**1. Diese Daten erheben wir**
+**1. Diese Daten erheben wir**<br><br>
 
 **1.1 Datenarten**
 
@@ -70,21 +70,21 @@ CORRECTIV speichert erst Daten, wenn Sie die Eigentümer-Umfrage auf wem-gehoert
 
 CORRECTIV speichert nur Daten, die für die Recherche notwendig sind und löscht alle Daten, die nicht mehr für die Recherche oder Anfragen beim Grundbuchamt benötigt werden. Nach Abschluss von Recherchen zum Wohnungsmarkt werden die Daten gelöscht.<br><br>
 
-**3. Übermittlung von Daten an Dritte**
+**3. Übermittlung von Daten an Dritte**<br><br>
 
-**3.1. Grundsätzlich gilt: Es werden ohne Ihre Einwilligung keine Daten an Dritte weitergegeben.**
+**3.1. Grundsätzlich gilt: Es werden ohne Ihre Einwilligung keine Daten an Dritte weitergegeben.**<br><br>
 
 **3.2. Übermittlung im Rahmen der Versendung von Anfragen an das Grundbuchamt**
 
-Wenn Sie über unserer Webseite beim Grundbuchamt erfragen möchten, wer der Eigentümer Ihrer Mietwohnung ist, können Sie CORRECTIV eine Vollmacht geben, die Anfrage in Ihrem Namen zu stellen. Dafür ist es notwendig, dass CORRECTIV dem Grundbuchamt Ihren Mietvertrag sendet und eine Vollmacht mit Ihrem Namen, dem Geburtsort- und datum und Ihrer Wohnadresse. Wenn Sie es wünschen, wird CORRECTIV die Antwort des Grundbuchamtes an Sie übermitteln.
+Wenn Sie über unserer Webseite beim Grundbuchamt erfragen möchten, wer der Eigentümer Ihrer Mietwohnung ist, können Sie CORRECTIV eine Vollmacht geben, die Anfrage in Ihrem Namen zu stellen. Dafür ist es notwendig, dass CORRECTIV dem Grundbuchamt Ihren Mietvertrag sendet und eine Vollmacht mit Ihrem Namen, dem Geburtsort- und datum und Ihrer Wohnadresse. Wenn Sie es wünschen, wird CORRECTIV die Antwort des Grundbuchamtes an Sie übermitteln.<br><br>
 
 **3.2. Keine Übermittlung an Dritte zu Werbezwecken ohne ausdrückliche Einwilligung**
 
-Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt grundsätzlich nur, sofern Sie ausdrücklich eingewilligt haben.
+Eine Weitergabe Ihrer personenbezogenen Daten an Dritte erfolgt grundsätzlich nur, sofern Sie ausdrücklich eingewilligt haben.<br><br>
 
 **3.3 Auskunftsanordnungen**
 
-Auf Anordnung der zuständigen Stellen müssen und dürfen wir im Einzelfall Auskunft über diese Daten erteilen, soweit dies für Zwecke der Strafverfolgung, zur Gefahrenabwehr, zur Erfüllung der gesetzlichen Aufgaben der Verfassungsschutzbehörden oder des Militärischen Abschirmdienstes oder zur Durchsetzung der Rechte am geistigen Eigentum erforderlich ist.
+Auf Anordnung der zuständigen Stellen müssen und dürfen wir im Einzelfall Auskunft über diese Daten erteilen, soweit dies für Zwecke der Strafverfolgung, zur Gefahrenabwehr, zur Erfüllung der gesetzlichen Aufgaben der Verfassungsschutzbehörden oder des Militärischen Abschirmdienstes oder zur Durchsetzung der Rechte am geistigen Eigentum erforderlich ist.<br><br>
 
 **4. Newsletter**
 
@@ -93,14 +93,14 @@ Bei Anmeldung zum „Wem gehört Hamburg?“ E-Mail-Newsletter wird Ihre E-Maila
 * E-Mail
 
 * Datum und Uhrzeit der Registrierung
-
+<br><br>
 **5. Abrufbarkeit der Datenschutzerklärung**
 
-Sie können die Datenschutzerklärung jederzeit von jeder Seite dieses Internetangebots unter dem Link „Datenschutzbestimmung“ abrufen. Bitte nehmen Sie zur Kenntnis, dass Änderungen des Angebots, gesetzliche und rechtliche Neuerungen sowie ggf. nachträglich erkannte Regelungslücken Änderungen dieser Datenschutzerklärung erforderlich werden lassen können.
+Sie können die Datenschutzerklärung jederzeit von jeder Seite dieses Internetangebots unter dem Link „Datenschutzbestimmung“ abrufen. Bitte nehmen Sie zur Kenntnis, dass Änderungen des Angebots, gesetzliche und rechtliche Neuerungen sowie ggf. nachträglich erkannte Regelungslücken Änderungen dieser Datenschutzerklärung erforderlich werden lassen können.<br><br>
 
 **6. Widerrufssrecht zur Datenverarbeitung**
 
-Sie haben das Recht, Ihre datenschutzrechtliche Einwilligungserklärung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. Für den Widerruf können Sie gerne folgende E-Mail-Adresse verwenden: datenschutz (at) correctiv.org
+Sie haben das Recht, Ihre datenschutzrechtliche Einwilligungserklärung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. Für den Widerruf können Sie gerne folgende E-Mail-Adresse verwenden: datenschutz (at) correctiv.org<br><br>
 
 **7. Fragen und Auskunftsrecht**
 
@@ -108,15 +108,15 @@ Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit und kostenlos 
 
 Sollten Sie Fragen oder Anmerkungen zum Datenschutz bei wem-gehoert-hamburg.de oder forms.crowdnewsroom.org haben, wenden Sie sich bitte mit Ihrem Anliegen per E-Mail an datenschutz \[at\] correctiv.org.
 
-Betroffene können zudem jederzeit ihre Auskunftsansprüche sowie Korrektur- und Löschansprüche bei unserer Datenschutzbeauftragte Beata Hubrig geltend machen. Auf diesen Weg könne Sie Frau Hubrig erreichen. Per E-Mail mail \[at\] kanzlei-hubrig.de oder per Post: Rechtsanwaltskanzlei Hubrig/ Gaudystraße 6/ 10437 Berlin
+Betroffene können zudem jederzeit ihre Auskunftsansprüche sowie Korrektur- und Löschansprüche bei unserer Datenschutzbeauftragte Beata Hubrig geltend machen. Auf diesen Weg könne Sie Frau Hubrig erreichen. Per E-Mail mail \[at\] kanzlei-hubrig.de oder per Post: Rechtsanwaltskanzlei Hubrig/ Gaudystraße 6/ 10437 Berlin<br><br>
 
 **8. Sicherheitshinweis**
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.<br><br>
 
 **9. Rechtsgrundlage**
 
-Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO.
+Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO.<br><br>
 
 **10. Recht auf Beschwerde bei einer Aufsichtsbehörde**
 
