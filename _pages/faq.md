@@ -98,7 +98,7 @@ faq:
   anchor: 7
   text: <p>In der Startphase wollen wir die Bürgerinnen und Bürger über das Projekt
     infomieren. Dazu haben wir diese Seite eingerichtet, auf der man sich
-    <a href='#signup'>in den Newsletter</a> eintragen kann. In dem Newsletter informiert CORRECTIV über
+    <a href='/#signup'>in den Newsletter</a> eintragen kann. In dem Newsletter informiert CORRECTIV über
     den Fortgang des Projektes und unsere ersten Veröffentlichungen gemeinsam mit
     dem Hamburger Abendblatt über den Wohnungsmarkt in Hamburg.</p> <p>Ab April beginnen
     wir die Bürgerrecherche. Einen Monat lang arbeiten wir mit Bürgern zusammen, um
@@ -150,5 +150,3 @@ main-classes: faq
     </div>
     {% endfor %}
 </div>
-
-  {% include components/signup.html %}
