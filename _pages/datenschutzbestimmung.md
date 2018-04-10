@@ -17,11 +17,11 @@ Postalisch erreichen Sie CORRECTIV unter: CORRECTIV – Recherchen für die Gese
 
 Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir tun alles, um Ihre persönlichen Daten vor unbefugtem Zugriff zu schützen. Die Anforderungen des Bundesdatenschutzgesetzes (BDSG), Telemediengesetzes (TMG) sowie alle weiteren datenschutzrechtlichen Vorschriften werden von uns eingehalten. Wenn Sie es wünschen, können Sie unsere Seite besuchen, ohne Angaben zu Ihrer Person (wie Name, Geburtsdatum etc.) zu machen.
 
-Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden.
+Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden.<br><br>
 
-#### 1. Diese Daten erheben wir
+**1. Diese Daten erheben wir
 
-#### 1.1 Datenarten
+**1.1 Datenarten
 
 Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektronische Datenübermittlung genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind z.B.:
 
