@@ -74,6 +74,7 @@ twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transpare
 layout: default
 nowrap: true
 ---
+
   <div class="hero">
     <div class="background" style="background-image: url('assets/images/Bild1.jpg')">
       <div class="content">

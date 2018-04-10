@@ -26,6 +26,7 @@ twitter_text: 'Wir wollen herausfinden, welche Eigentümer die Wohnungskrise in 
 layout: default
 nowrap: true
 ---
+
 <ul class="slides" id="slides-container">
   <li id="slide">
       <div class="content">

@@ -7,6 +7,7 @@ nav-name: Kontakt
 nav-order: 6
 layout: default
 ---
+
 # KONTAKT
 <br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns Ihre Geschichte, die Sie mit Ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.

@@ -130,6 +130,7 @@ layout: default
 wrapped: true
 main-classes: faq
 ---
+
 <div>
     <h1>FAQ</h1>
     <nav class="faqlist">
