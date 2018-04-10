@@ -93,8 +93,8 @@ Bei Anmeldung zum „Wem gehört Hamburg?“ E-Mail-Newsletter wird Ihre E-Maila
 * E-Mail
 
 * Datum und Uhrzeit der Registrierung
-<br><br>
-**5. Abrufbarkeit der Datenschutzerklärung**
+
+<br><br>**5. Abrufbarkeit der Datenschutzerklärung**
 
 Sie können die Datenschutzerklärung jederzeit von jeder Seite dieses Internetangebots unter dem Link „Datenschutzbestimmung“ abrufen. Bitte nehmen Sie zur Kenntnis, dass Änderungen des Angebots, gesetzliche und rechtliche Neuerungen sowie ggf. nachträglich erkannte Regelungslücken Änderungen dieser Datenschutzerklärung erforderlich werden lassen können.<br><br>
 
