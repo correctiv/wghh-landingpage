@@ -5,6 +5,10 @@ jQuery(".toggle .toggle-title").click(function(){
   if( jQuery(this).hasClass('active') ){
     jQuery(this).removeClass("active").closest('.toggle').find('.toggle-inner').slideUp(200);
   }
-  else{ jQuery(this).addClass("active").closest('.toggle').find('.toggle-inner').slideDown(200);
+  else {
+    jQuery(this).addClass("active").closest('.toggle').find('.toggle-inner').slideDown(200);
+    jQuery('html, body').animate({
+        scrollTop: $(this).offset().top - 50
+    }, 1000);
   }
 });

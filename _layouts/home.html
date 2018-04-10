@@ -30,11 +30,11 @@ layout: compress
               <div class="faq">
                 <div class="toggle">
                     <div class="toggle-title">
-                        <p><i></i><span class="title-name">{{ page.question.title }}</span></p>
+                        <p class="info"><i></i><span class="title-name">{{ page.question.title }}</span></p>
                     </div>
-                    <div class="toggle-inner">
-                        <p>{{ page.question.copy }}</p>
-                        <p><a class="info" href="faq">{{ page.question.linktext }}</a></p>
+                    <div id="antwort" class="toggle-inner">
+                        {{ page.question.copy }}
+                        <p class="info"><a href="faq">{{ page.question.linktext }}</a></p>
                     </div>
                 </div>
               </div>
