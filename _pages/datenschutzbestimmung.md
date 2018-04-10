@@ -21,7 +21,7 @@ Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten 
 
 #### 1. Diese Daten erheben wir
 
-##### 1.1 Datenarten
+#### 1.1 Datenarten
 
 Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektronische Datenübermittlung genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind z.B.:
 
