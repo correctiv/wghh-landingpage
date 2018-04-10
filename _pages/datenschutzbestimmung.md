@@ -19,9 +19,9 @@ Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir tun alles, um Ih
 
 Im Rahmen des Projektes „Wem gehört Hamburg?“ können Sie die Journalisten des gemeinnützigen Recherchezentrums CORRECTIV unterstützen mehr über Eigentümer auf dem Hamburger Wohnungsmarkt zu erfahren. Gleichzeitig bietet Ihnen CORRECTIV Unterstützung an, wenn Sie den Namen des Eigentümers Ihrer Mietwohnung nicht kennen. Sie können Informationen über Ihren Eigtümer mit CORRECTIV teilen, die Journalisten für Auskunftsanfragen beim Grundbuchamt bevollmächtigen und auf Wunsch per E-Mail über den Fortlauf der Recherche informiert werden.<br><br>
 
-**1. Diese Daten erheben wir
+**1. Diese Daten erheben wir**
 
-**1.1 Datenarten
+**1.1 Datenarten**
 
 Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektronische Datenübermittlung genutzt werden kann. Nimmt ein Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Diese Daten sind z.B.:
 
@@ -38,7 +38,7 @@ Auf unserer Internetseite ist ein Formular vorhanden, welches für die elektroni
 * die übertragenen Datenmenge,
 
 * der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.)
-  ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen
+  ggf. weitere personenbezogene Daten, wenn wir für den Nutzer eine Anfrage beim Grundbuchamt stellen sollen<br><br>
 
 **1.2 Auswertung mittels Log-Files**
 
@@ -58,17 +58,17 @@ In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
 * Aufgerufene Seiten
 
 Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit:
-Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem an unserer Seite übermittelt. Daher haben Sie als Nutzer auch die volle Kontrolle über die Verwendung von Cookies. Durch eine Änderung der Einstellungen in Ihrem Internetbrowser können Sie die Übertragung von Cookies deaktivieren oder einschränken. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Werden Cookies für unsere Website deaktiviert, können möglicherweise nicht mehr alle Funktionen der Website vollumfänglich genutzt werden.
+Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem an unserer Seite übermittelt. Daher haben Sie als Nutzer auch die volle Kontrolle über die Verwendung von Cookies. Durch eine Änderung der Einstellungen in Ihrem Internetbrowser können Sie die Übertragung von Cookies deaktivieren oder einschränken. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Werden Cookies für unsere Website deaktiviert, können möglicherweise nicht mehr alle Funktionen der Website vollumfänglich genutzt werden.<br><br>
 
 **1.3 Personenbezug kann in Einzelfällen nicht vollständig ausgeschlossen werden.**
 
-Die Erhebung von personenbezogenen Informationen kann nahezu vollständig vermieden werden. Eine Rückführung dieser Daten auf einzelne Personen ist in einzelfällen Fällen jedoch zumindest theoretisch nicht ganz auszuschließen.
+Die Erhebung von personenbezogenen Informationen kann nahezu vollständig vermieden werden. Eine Rückführung dieser Daten auf einzelne Personen ist in einzelfällen Fällen jedoch zumindest theoretisch nicht ganz auszuschließen.<br><br>
 
 **2. Zweck der Datenerhebung: Nutzung von wem-gehoert-hamburg.de und forms.crowdnewsroom.org als Archivplattform für weitere Recherchen**
 
 CORRECTIV speichert erst Daten, wenn Sie die Eigentümer-Umfrage auf wem-gehoert-hamburg.de und forms.crowdnewsroom.org vollständig bis zum Ende durchführen und die Ergebnisse abschließend bestätigen. Dann erfassen wir die Daten, die Sie im Fortlauf eingetragen haben. Darunter fallen Daten wie die Adresse Ihrer Mietwohnung und der Name des Eigentümers Ihrer Mietwohnung. Um die von Ihnen eingetragenen Daten verifizieren zu können, fragt CORRECTIV zudem nach einen Beleg (Mietvertrag, Schreiben Mieterhöhung etc.). Diese erfassten Daten wird CORRECTIV in einer internen Datenbank erfassen und dienst als Anhaltspunkt für weitere Recherchen zum Wohnungsmarkt in Hamburg.
 
-CORRECTIV speichert nur Daten, die für die Recherche notwendig sind und löscht alle Daten, die nicht mehr für die Recherche oder Anfragen beim Grundbuchamt benötigt werden. Nach Abschluss von Recherchen zum Wohnungsmarkt werden die Daten gelöscht.
+CORRECTIV speichert nur Daten, die für die Recherche notwendig sind und löscht alle Daten, die nicht mehr für die Recherche oder Anfragen beim Grundbuchamt benötigt werden. Nach Abschluss von Recherchen zum Wohnungsmarkt werden die Daten gelöscht.<br><br>
 
 **3. Übermittlung von Daten an Dritte**
 
