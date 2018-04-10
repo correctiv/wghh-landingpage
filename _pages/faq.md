@@ -5,6 +5,7 @@ page-hidden: false
 type: header
 nav-name: FAQ
 nav-order: 5
+page-name: faq
 faq:
 - title: Was wollen wir erreichen?
   anchor: 1
@@ -131,18 +132,16 @@ wrapped: true
 main-classes: faq
 ---
 
-<div>
+<div class="faq">
     <h1>FAQ</h1>
-    <nav class="faqlist">
-        <ol>
-    {% for question in page.faq %}
-        <li><a href="#{{ question.anchor }}">{{ question.title }}</a></li>
-    {% endfor %}
-        </ol>
-    </nav>
-
-    {% for question in page.faq %}
-        <h1><a name="{{ question.title }}" id="{{ question.anchor }}">{{ question.title }}</a></h1>
-        {{ question.text }}
+    {% for faq in page.faq %}
+    <div class="toggle">
+        <div class="toggle-title" id="{{ faq.anchor }}">
+            <p><i></i><span class="title-name">{{ faq.title }}</span></p>
+        </div>
+        <div class="toggle-inner">
+            {{ faq.text }}
+        </div>
+    </div>
     {% endfor %}
 </div>
