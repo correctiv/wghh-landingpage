@@ -66,6 +66,12 @@ blog:
 newsletter:
   title: Bleiben Sie informiert!
   copy: "Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie Einladungen zu  Veranstaltungen zum Thema."
+question:
+  title: Warum betrifft mich diese Recherche?
+  copy: Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu erreichen.
+    Große Investoren drängen zunehmend auf den Markt und handeln mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze des Erlaubten gehen und manchmal darüber hinaus.
+    Von mehr Transparenz profitieren alle&#58; Die Bewohner wissen, in welchen Händen ihre Wohnung ist. Journalisten können mit den Infos Missstände herausfinden. Das wiederum bringt Aufklärung. Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt gelingen kann.
+  linktext: Hier finden Sie weitere Antworten
 hero:
   lead: Gemeinsam mit den Mieterinnen und Mietern wollen wir den Hamburger Wohnungsmarkt transparenter machen. Und herausfinden, welche Eigentümer die Wohnungskrise verschärfen.
   section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist. Mit Ihrem Puzzleteil vervollständigen wir ein großes Bild der Stadt. Davon profitieren alle.
