@@ -9,7 +9,7 @@ page-name: faq
 faq:
 - title: Was wollen wir erreichen?
   anchor: 1
-  text: <p>Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie
+  text: "<p>Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie
     die Wohnsituation in Hamburg erschwinglich bleiben kann.</p> <p>Viele Eigentümer
     von Mietwohnungen sind nicht öffentlich. Das betrifft Mieter, die den wahren Eigentümer
     ihrer Wohnung nicht kennen. Von der Intransparenz profitieren auch Firmen, die
@@ -24,7 +24,7 @@ faq:
     dass Transparenz den Bürgern hilft, die Stadt mitzugestalten. Wenn wir wissen,
     wie der Immobilienmarkt funktioniert, können Bürger und Politik besser diskutieren,
     was sich ändern muss, damit Wohnen in Hamburg erschwinglich bleibt und letztlich
-    in allen Städten in Deutschland.</p>
+    in allen Städten in Deutschland.</p>"
 - title: Wie wollen wir das erreichen?
   anchor: 2
   text: <p>Wir gehen einen neuen Weg&#58; gemeinsam mit den Mietern. Denn Sie kennen
@@ -47,7 +47,7 @@ faq:
     und veröffentlichen das, was relevant ist.</p>
 - title: Warum betrifft diese Recherche die Mieter?
   anchor: 3
-  text: <p>Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist.
+  text: "<p>Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist.
     Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern
     Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt
     sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung
@@ -61,16 +61,16 @@ faq:
     können mit den Infos Missstände herausfinden. Das wiederum bringt Aufklärung.
     Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger
     und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt
-    gelingen kann.</p>
+    gelingen kann.</p>"
 - title: Wer kann sich beteiligen?
   anchor: 4
-  text: <p>Neben den Mietern können sich natürlich auch die Eigentümer beteiligen.
+  text: "<p>Neben den Mietern können sich natürlich auch die Eigentümer beteiligen.
     Kleine, private Eigentümer wollen wir mit dieser Recherche nicht an den Pranger
     stellen. Wir veröffentlichen nur Auswertungen der Daten, die relevant sind, um
-    Missstände zu benennen.</p>
+    Missstände zu benennen.</p>"
 - title: Wie kann ich mitmachen?
   anchor: 5
-  text: <p>Die zentrale Frage ist&#58; Wer ist der Eigentümer meiner Wohnung? Sind
+  text: "<p>Die zentrale Frage ist&#58; Wer ist der Eigentümer meiner Wohnung? Sind
     sie selbst Eigentümer, können Sie uns die Frage leicht beantworten. Für die Mieter
     selbst ist die Antwort nicht so einfach.</p> <p>Nicht selten ist der Vermieter
     im Mietvertrag nicht gleich der Eigentümer. Denn oft ist der Vertragspartner eine
@@ -79,10 +79,10 @@ faq:
     <p>Wichtig ist, das viele Bürgerinnen und Bürger mitmachen&#58; je mehr sich beteiligen,
     desto mehr Schlüsse über den Immobilienmarkt lassen sich ziehen. Erzählen Sie
     Ihren Freunden und Nachbarn von dem Projekt. Teilen Sie diese Seite auf Facebook,
-    Twitter oder Instagram.</p>
+    Twitter oder Instagram.</p>"
 - title: Was machen wir mit den Daten?
   anchor: 6
-  text: <p>Wir behandeln die Daten mit großer Sorgfalt. Wir tragen alle öffentlich
+  text: "<p>Wir behandeln die Daten mit großer Sorgfalt. Wir tragen alle öffentlich
     verfügbaren Daten zusammen und kombinieren diese mit den Einträgen, die Mieter
     und Eigentümer hochladen. Diese Daten werten wir intern aus.</p> <p>Später werden
     wir ausgewählte Daten veröffentlichen. Dabei liegt unser Fokus auf den großen
@@ -92,21 +92,21 @@ faq:
     entstehen, aber auch Übersichtskarten mit den Eigentumsverhältnissen eines Stadtteils.</p>
     <p>Was wir keinesfalls veröffentlichen, sind Mietverträge, Nebenkostenabrechnungen
     oder andere private Dokumente, die Sie uns anvertrauen. Wir werden keine Informationen
-    veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen &mdash; es sei
-    denn dieser erteilt nach Rückfrage seine Zustimmung.</p>
+    veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen &mdash; es
+    sei denn dieser erteilt nach Rückfrage seine Zustimmung.</p>"
 - title: Was passiert wann?
   anchor: 7
-  text: <p>In der Startphase wollen wir die Bürgerinnen und Bürger über das Projekt
-    infomieren. Dazu haben wir diese Seite eingerichtet, auf der man sich
-    <a href='/#signup'>in den Newsletter</a> eintragen kann. In dem Newsletter informiert CORRECTIV über
+  text: "<p>In der Startphase wollen wir die Bürgerinnen und Bürger über das Projekt
+    infomieren. Dazu haben wir diese Seite eingerichtet, auf der man sich <a href='/#signup'>in
+    den Newsletter</a> eintragen kann. In dem Newsletter informiert CORRECTIV über
     den Fortgang des Projektes und unsere ersten Veröffentlichungen gemeinsam mit
     dem Hamburger Abendblatt über den Wohnungsmarkt in Hamburg.</p> <p>Ab April beginnen
     wir die Bürgerrecherche. Einen Monat lang arbeiten wir mit Bürgern zusammen, um
     mehr über die Wohnungsinhaber zu erfahren.</p> <p>Die gewonnenen Daten werten
-    wir für unsere Recherchen aus.</p>
+    wir für unsere Recherchen aus.</p>"
 - title: Wer sind wir?
   anchor: 8
-  text: <p><a href='https://correctiv.org'>CORRECTIV</a> ist das erste gemeinnützige
+  text: "<p><a href='https://correctiv.org'>CORRECTIV</a> ist das erste gemeinnützige
     Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht&ndash;gewinnorientiert.
     Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge
     von Unterstützern. Wenn Sie mehr über uns erfahren und uns unterstützen möchten&#58;
@@ -117,7 +117,7 @@ faq:
     beteiligt sich auch an dem Projekt und unterstützt die Mieter dabei, mehr über
     die Eigentümer herauszufinden.</p> <p>Der <a href='https://fink.hamburg/'>Blog
     FINK</a>, die Studentenredaktion der HAW Hamburg, wird ab April ebenfalls über
-    die Wohnungsmarkt in Hamburg berichten.</p>
+    die Wohnungsmarkt in Hamburg berichten.</p>"
 - title: Wie können Sie uns kontaktieren?
   anchor: 9
   text: <p>Wir werden auch vor Ort sein, um mit Ihnen ins Gespräch zu kommen. Dazu

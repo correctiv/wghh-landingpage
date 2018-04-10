@@ -62,9 +62,21 @@ newsletter:
     Einladungen zu  Veranstaltungen zum Thema.
 question:
   title: Warum betrifft mich diese Recherche?
-  copy: <p>Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist. Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu erreichen.</p>
-    <p>Große Investoren drängen zunehmend auf den Markt und handeln mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze des Erlaubten gehen und manchmal darüber hinaus.</p>
-    <p>Von mehr Transparenz profitieren alle&#58; Die Bewohner wissen, in welchen Händen ihre Wohnung ist. Journalisten können mit den Infos Missstände herausfinden. Das wiederum bringt Aufklärung. Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt gelingen kann.</p>
+  copy: "<p>Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist.
+    Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern
+    Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt
+    sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung
+    ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu
+    erreichen.</p> <p>Große Investoren drängen zunehmend auf den Markt und handeln
+    mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie
+    auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten
+    Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze
+    des Erlaubten gehen und manchmal darüber hinaus.</p> <p>Von mehr Transparenz profitieren
+    alle&#58; Die Bewohner wissen, in welchen Händen ihre Wohnung ist. Journalisten
+    können mit den Infos Missstände herausfinden. Das wiederum bringt Aufklärung.
+    Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger
+    und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt
+    gelingen kann.</p>"
   linktext: Hier finden Sie weitere Antworten
 hero:
   lead: Die Mieten in Hamburg gehen durch die Decke. Investoren fahren hohe Renditen
@@ -75,7 +87,7 @@ hero:
   section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist – oder wir finden
     es gemeinsam heraus.  Als erstes Dankeschön bekommen Sie eine Übersicht mit den
     Eigentumsverhältnissen in Ihrer Nachbarschaft.
-  section2:
+  section2: 
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 layout: default
