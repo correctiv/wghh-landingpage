@@ -119,7 +119,7 @@ faq:
     die Wohnungsmarkt in Hamburg berichten.</p>"
 - title: Wie können Sie uns kontaktieren?
   anchor: 9
-  text: <p>Wir werden auch vor Ort sein, um mit Ihnen ins Gespräch zu kommen. Dazu
+  text: <p>Wir sind in Hamburg vor Ort, um mit Ihnen ins Gespräch zu kommen. Dazu
     haben wir seit Mitte März einen Teil der CORRECTIV&ndash;Redaktion ins Herz der
     Stadt, nach St. Pauli, verlegt. Wir bieten dort Veranstaltungen mit Mietern, Stadtexperten
     und Politikern an. Alle sind herzlich eingeladen&#58; kommen Sie vorbei!</p> <p><a
