@@ -37,14 +37,12 @@ faq:
     an ihrer Schule. Mit der Recherche zum Wohnungsmarkt in Hamburg führen wir die
     Idee des CrowdNewsroom fort. Interessierte Bürger lernen journalistische Methoden
     kennen und helfen gleichzeitig bei großen Recherchen, die mit einem kleinen Team
-    nicht umsetzbar wären.</p> <p>Das bedeutet konkret&#58; Ab April wird die Seite
-    <a href="https://wem-gehoert-hamburg.de/">wem-gehoert-hamburg.de</a> um neue Funktionen
-    aus dem CrowdNewsroom erweitert. Dann können sich Bürger hier an der Recherche
-    beteiligen, indem sie Informationen aus ihrem Mietvertrag hochladen, die dann
-    verifiziert werden.</p> <p>Im Team werten <a href="https://correctiv.org">CORRECTIV</a>
-    und das <a href="https://www.abendblatt.de/">Hamburger Abendblatt</a> die Daten
-    anschließend aus, recherchieren zu den Hintergründen von fragwürdigen Eigentümern
-    und veröffentlichen das, was relevant ist.</p>
+    nicht umsetzbar wären.</p> <p>Das bedeutet konkret&#58; Seit April können sich
+    Bürger <a href="https://wem-gehoert-hamburg.de/">hier</a> an der Recherche beteiligen,
+    indem sie Informationen aus ihrem Mietvertrag hochladen, die dann von CORRECTIV-Journalisten
+    verifiziert werden. Die Journalisten werten die Daten anschließend aus, recherchieren
+    zu den Hintergründen von fragwürdigen Eigentümern und veröffentlichen Geschichten
+    zum Wohnungsmarkt, die für die Öffentlichkeit relevant ist.</p>
 - title: Warum betrifft diese Recherche die Mieter?
   anchor: 3
   text: "<p>Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist.
@@ -132,9 +130,9 @@ newsletter:
   copy: Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren
     Sie über neue Veröffentlichungen zum Wohnungsmarkt in Hamburg. Dazu erhalten Sie
     Einladungen zu Veranstaltungen zum Thema.
-layout: default
 wrapped: true
 main-classes: faq
+layout: default
 ---
 
 <div class="faq">
