@@ -60,7 +60,7 @@ faq:
     Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger
     und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt
     gelingen kann.</p>"
-- title: Können sich neben den Mietern auch Eigentümer beteiligen?
+- title: Können sich neben Mietern auch Eigentümer beteiligen?
   anchor: 4
   text: "<p>Neben den Mietern können sich natürlich auch die Eigentümer beteiligen
     und uns mitteilen, wo Sie Wohnungen besitzen. Wenn Sie mehrere Wohnungen auf einmal
