@@ -64,7 +64,7 @@ faq:
   anchor: 4
   text: "<p>Neben den Mietern können sich natürlich auch die Eigentümer beteiligen
     und uns mitteilen, wo Sie Wohnungen besitzen. Wenn Sie mehrere Wohnungen auf einmal
-    mitteilen möchten, kontaktieren Sie uns am besten per E-Mail an [hamburg(at)correctiv.org](mailto:hamburg@correctiv.org).
+    mitteilen möchten, kontaktieren Sie uns am besten per E-Mail an hamburg(at)correctiv.org.
     Ohnehin wollen wir nicht Eigentümer an den Pranger stellen, sondern nur die benennen,
     die fragwürdig handeln oder den Hamburger Wohnungsmarkt wesentlich beeinflussen.
     Wir veröffentlichen nur Auswertungen der Daten, die relevant sind, um Missstände
