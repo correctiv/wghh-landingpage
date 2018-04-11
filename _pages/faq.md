@@ -79,8 +79,8 @@ faq:
     herauszufinden.</p> <p>Dazu setzen wir den CrowdNewsroom ein.</p> <p>Wichtig ist,
     das viele Bürgerinnen und Bürger mitmachen&#58; je mehr sich beteiligen, desto
     mehr Schlüsse über den Immobilienmarkt lassen sich ziehen. Erzählen Sie Ihren
-    Freunden und Nachbarn von dem Projekt. Teilen Sie [wem-gehoert-hamburg.de](https://wem-gehoert-hamburg.de/)
-    per E-Mail oder auf Facebook, Twitter oder Instagram.</p>"
+    Freunden und Nachbarn von dem Projekt. Teilen Sie wem-gehoert-hamburg.de per E-Mail
+    oder auf Facebook, Twitter oder Instagram.</p>"
 - title: Was machen wir mit den Daten?
   anchor: 6
   text: "<p>Wir behandeln die Daten mit großer Sorgfalt. Wir werden keine Informationen
