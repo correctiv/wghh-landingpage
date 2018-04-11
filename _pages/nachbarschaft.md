@@ -25,33 +25,31 @@ twitter_text: 'Wir wollen herausfinden, welche Eigentümer die Wohnungskrise in 
   verschärfen. Jeder kann sich beteiligen auf https://wem-gehoert-hamburg.de #WemGehoertHamburg'
 nowrap: true
 layout: default
+main-classes: top-padded
 ---
 
-<ul class="slides" id="slides-container">
-  <li id="slide">
-      <div class="content">
-          <h2>{{page.hero.title}}</h2>
-          <div class="main"><span id="lead">{{page.hero.lead}}</span></div>
-          <h3 id="table-header">Im Umkreis von <span id="address"></span>:</h3>
-          <div id="main" class="main">
-            <p class="results-description">In Ihrer Nachbarschaft haben wir Daten für
-              <span id="flats_total"></span> Wohnungen gefunden. Darunter befinden sich:</p>
-              <table class="results">
-                <tr><td>in Privatbesitz</td><td id="flats_private_owned"></td></tr>
-                <tr><td>im Besitz von Wohnungsunternehmen</td><td id="flats_private_company_owned"></td></tr>
-                <tr><td>im Besitz von anderen Unternehmen</td><td id="flats_other_private_company_owned"></td></tr>
-                <tr><td>im Besitz von Genossenschaften</td><td id="flats_cooperative_owned"></td></tr>
-                <tr><td>in städtischem Besitz</td><td id="flats_public_body_owned"></td></tr>
-                <tr><td>im Besitz von NGOs oder Kirchen</td><td id="flats_ngo_church_owned"></td></tr>
-                <tr><td>in Staatseigentum</td><td id="flats_state_owned"></td></tr>
-              </table>
-              <div class="footnote"><small>{{page.hero.footnote}}</small></div>
-             {% include components/sharing.html %}
-              <p><small>Bitte verbreiten Sie dieses Projekt, damit der Wohnungsmarkt transparenter wird</small></p>
-          </div>
+  <div class="hero">
+    <div id="background" class="background" style="background-image: url('assets/images/Bild1.jpg')">
+      <div id="main" class="main results-content">
+        <h2>{{page.hero.title}}</h2>
+        <p id="lead">{{page.hero.lead}}</p>
+        <h3 id="table-header">Im Umkreis von <span id="address"></span>:</h3>
+        <p class="results-description">In Ihrer Nachbarschaft haben wir Daten für
+          <span id="flats_total"></span> Wohnungen gefunden. Darunter befinden sich:</p>
+          <table class="results">
+            <tr><td>in Privatbesitz</td><td id="flats_private_owned"></td></tr>
+            <tr><td>im Besitz von Wohnungsunternehmen</td><td id="flats_private_company_owned"></td></tr>
+            <tr><td>im Besitz von anderen Unternehmen</td><td id="flats_other_private_company_owned"></td></tr>
+            <tr><td>im Besitz von Genossenschaften</td><td id="flats_cooperative_owned"></td></tr>
+            <tr><td>in städtischem Besitz</td><td id="flats_public_body_owned"></td></tr>
+            <tr><td>im Besitz von NGOs oder Kirchen</td><td id="flats_ngo_church_owned"></td></tr>
+            <tr><td>in Staatseigentum</td><td id="flats_state_owned"></td></tr>
+          </table>
+          <div class="footnote"><small>{{page.hero.footnote}}</small></div>
+         {% include components/sharing.html %}
+          <p><small>Bitte verbreiten Sie dieses Projekt, damit der Wohnungsmarkt transparenter wird</small></p>
       </div>
-  </li>
-</ul>
+    </div>
 
 <script>
 function handleResponse(request, street, number) {
@@ -81,7 +79,7 @@ function wem() {
     wghhXhttp.onreadystatechange = function() {
       var request = this;
       var streetview = handleResponse(request, street, number);
-      document.getElementById("slides-container").style.backgroundImage = "url('"+streetview+"')";
+      document.getElementById("background").style.backgroundImage = "url('"+streetview+"')";
     };
     wghhXhttp.open("GET", "https://wghh-census-api.apps.correctiv.org/"+window.location.search, true);
     wghhXhttp.send();

@@ -1,0 +1,37 @@
+.nachbarschaft-page {
+    .main {
+      margin-bottom: 2em;
+      font-size: 16px;
+      line-height: 20px;
+
+      &.results-content {
+        width: 600px;
+        max-width: 90%;
+        margin: 0 auto;
+        padding: 2.5em 1.5em;
+        text-align: center;
+      }
+    }
+}
+
+.hero .main {
+    .results {
+      width: 80%;
+      margin: 0 auto;
+
+      @include mq($until: $sm) {
+        width: 100%;
+      }
+    }
+
+    p.results-description {
+      text-align: left;
+      width: 80%;
+      line-height: 26px;
+      margin: 0 auto;
+
+      @include mq($until: $sm) {
+        width: 100%;
+      }
+    }
+}
