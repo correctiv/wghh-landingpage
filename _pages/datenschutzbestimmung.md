@@ -46,7 +46,7 @@ Personenbezogene Daten werden auf dieser Webseite im technisch notwendigen und z
 
 CORRECTIV verwendet ein selbst gehostetes Piwik. Andere Web-Tracker oder Social Media Tracker sind nicht eingebunden.
 
-Log-Files: Bei der Nutzung dieses Angebots werden die von Ihrem Browser an den Server übermittelten Daten erfasst und gespeichert. Dies umfasst üblicherweise Informationen über den Typ und die Version des von Ihnen verwendeten Browsers, das verwendete Betriebssystem, die Referrer URL (die Webseite, von der aus Sie zu dieser Website gelangt sind), den Hostnamen des zugreifenden Rechners (die IP-Adresse) sowie die Uhrzeit der Serveranfrage. Als Daten werden diese Informationen ausschließlich für statistische Zwecke und zur Optimierung unseres Internet-Angebots verwendet. Sie können der Nutzung dieser Daten per Email, Fax, Brief oder Telefon widersprechen.
+Log-Files: Bei der Nutzung dieses Angebots werden die von Ihrem Browser an den Server übermittelten Daten erfasst und gespeichert. Dies umfasst üblicherweise Informationen über den Typ und die Version des von Ihnen verwendeten Browsers, das verwendete Betriebssystem, die Referrer URL (die Webseite, von der aus Sie zu dieser Website gelangt sind), die IP-Adresse des zugreifenden Rechners sowie die Uhrzeit der Serveranfrage. Als Daten werden diese Informationen ausschließlich für statistische Zwecke und zur Optimierung unseres Internet-Angebots verwendet. Sie können der Nutzung dieser Daten per Email, Fax, Brief oder Telefon widersprechen.
 
 Cookies: Diese Website verwendet an mehreren Stellen Cookies. Cookies sind kleine Textdateien, die Ihr Browser speichert und die dazu dienen, die Benutzung einer Website einfacher, effektiver und sicherer zu machen. Cookies richten auf Ihrem Rechner keinen Schaden an, nehmen minimalen Speicherplatz in Anspruch und enthalten keine Viren.
 
@@ -59,10 +59,6 @@ In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
 
 Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit:
 Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem an unserer Seite übermittelt. Daher haben Sie als Nutzer auch die volle Kontrolle über die Verwendung von Cookies. Durch eine Änderung der Einstellungen in Ihrem Internetbrowser können Sie die Übertragung von Cookies deaktivieren oder einschränken. Bereits gespeicherte Cookies können jederzeit gelöscht werden. Dies kann auch automatisiert erfolgen. Werden Cookies für unsere Website deaktiviert, können möglicherweise nicht mehr alle Funktionen der Website vollumfänglich genutzt werden.<br><br>
-
-**1.3 Personenbezug kann in Einzelfällen nicht vollständig ausgeschlossen werden.**
-
-Die Erhebung von personenbezogenen Informationen kann nahezu vollständig vermieden werden. Eine Rückführung dieser Daten auf einzelne Personen ist in einzelfällen Fällen jedoch zumindest theoretisch nicht ganz auszuschließen.<br><br>
 
 **2. Zweck der Datenerhebung: Nutzung von wem-gehoert-hamburg.de und forms.crowdnewsroom.org als Archivplattform für weitere Recherchen**
 
