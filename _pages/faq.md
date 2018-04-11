@@ -83,7 +83,9 @@ faq:
     per E-Mail oder auf Facebook, Twitter oder Instagram.</p>"
 - title: Was machen wir mit den Daten?
   anchor: 6
-  text: "<p>Wir behandeln die Daten mit großer Sorgfalt. Wir tragen alle öffentlich
+  text: "<p>Wir behandeln die Daten mit großer Sorgfalt. Wir werden keine Informationen
+    veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen &mdash; es
+    sei denn dieser erteilt nach Rückfrage seine Zustimmung. Wir tragen alle öffentlich
     verfügbaren Daten zusammen und kombinieren diese mit den Einträgen, die Mieter
     und Eigentümer hochladen. Diese Daten werten wir intern aus.</p> <p>Später werden
     wir ausgewählte Daten veröffentlichen. Dabei liegt unser Fokus auf den großen
@@ -92,19 +94,15 @@ faq:
     <p>Aus den Daten können dann Geschichten über besonders problematische Investoren
     entstehen, aber auch Übersichtskarten mit den Eigentumsverhältnissen eines Stadtteils.</p>
     <p>Was wir keinesfalls veröffentlichen, sind Mietverträge, Nebenkostenabrechnungen
-    oder andere private Dokumente, die Sie uns anvertrauen. Wir werden keine Informationen
-    veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen &mdash; es
-    sei denn dieser erteilt nach Rückfrage seine Zustimmung.</p>"
+    oder andere private Dokumente, die Sie uns als Beleg für Ihren Eintrag zu einem
+    Eigentümer anvertrauen.</p> <p>Weitere Details finden Sie in unseren [Datenschutzbestimmungen](https://wem-gehoert-hamburg.de/datenschutzbestimmung).</p>"
 - title: Was passiert wann?
   anchor: 7
-  text: "<p>In der Startphase wollen wir die Bürgerinnen und Bürger über das Projekt
-    infomieren. Dazu haben wir diese Seite eingerichtet, auf der man sich <a href='/#signup'>in
-    den Newsletter</a> eintragen kann. In dem Newsletter informiert CORRECTIV über
-    den Fortgang des Projektes und unsere ersten Veröffentlichungen gemeinsam mit
-    dem Hamburger Abendblatt über den Wohnungsmarkt in Hamburg.</p> <p>Ab April beginnen
-    wir die Bürgerrecherche. Einen Monat lang arbeiten wir mit Bürgern zusammen, um
-    mehr über die Wohnungsinhaber zu erfahren.</p> <p>Die gewonnenen Daten werten
-    wir für unsere Recherchen aus.</p>"
+  text: "<p>Seit Februar haben wir die Bürgerinnen und Bürger über das Projekt informiert
+    und über den Fortlauf in einem <a href='/#signup'>Newsletter</a> informiert.</p>
+    <p>Seit dem 5. April hat die Bürgerrecherche begonnen. Einen Monat lang arbeiten
+    wir mit Bürgern zusammen, um mehr über die Wohnungsinhaber zu erfahren.</p> <p>Die
+    gewonnenen Daten werten wir anschließend ab Mai für unsere Recherchen aus.</p>"
 - title: Wer sind wir?
   anchor: 8
   text: "<p><a href='https://correctiv.org'>CORRECTIV</a> ist das erste gemeinnützige
@@ -122,12 +120,11 @@ faq:
 - title: Wie können Sie uns kontaktieren?
   anchor: 9
   text: <p>Wir werden auch vor Ort sein, um mit Ihnen ins Gespräch zu kommen. Dazu
-    werden wir ab Mitte März einen Teil der CORRECTIV&ndash;Redaktion ins Herz der
-    Stadt, nach St. Pauli, verlegen. Wir werden dort Veranstaltungen mit Mietern,
-    Stadtexperten und Politikern organisieren. Alle sind herzlich eingeladen&#58;
-    kommen Sie vorbei!</p> <p><a style="color:#e5007d" href="/kontakt">Und Sie können
-    uns auch direkt kontaktieren</a>. Erzählen Sie uns ihre Mietergeschichte, geben
-    Sie uns gerne Hinweise.</p>
+    haben wir seit Mitte März einen Teil der CORRECTIV&ndash;Redaktion ins Herz der
+    Stadt, nach St. Pauli, verlegt. Wir bieten dort Veranstaltungen mit Mietern, Stadtexperten
+    und Politikern an. Alle sind herzlich eingeladen&#58; kommen Sie vorbei!</p> <p><a
+    style="color:#e5007d" href="/kontakt">Und Sie können uns auch direkt kontaktieren</a>.
+    Erzählen Sie uns ihre Mietergeschichte, geben Sie uns gerne Hinweise.</p>
 newsletter:
   title: Bleiben Sie informiert!
   copy: Tragen Sie sich in unseren „Wem gehört Hamburg?” Newsletter ein. Wir informieren
