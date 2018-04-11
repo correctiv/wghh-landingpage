@@ -60,12 +60,15 @@ faq:
     Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger
     und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt
     gelingen kann.</p>"
-- title: Wer kann sich beteiligen?
+- title: Können sich neben den Mietern auch Eigentümer beteiligen?
   anchor: 4
-  text: "<p>Neben den Mietern können sich natürlich auch die Eigentümer beteiligen.
-    Kleine, private Eigentümer wollen wir mit dieser Recherche nicht an den Pranger
-    stellen. Wir veröffentlichen nur Auswertungen der Daten, die relevant sind, um
-    Missstände zu benennen.</p>"
+  text: "<p>Neben den Mietern können sich natürlich auch die Eigentümer beteiligen
+    und uns mitteilen, wo Sie Wohnungen besitzen. Wenn Sie mehrere Wohnungen auf einmal
+    mitteilen möchten, kontaktieren Sie uns am besten per E-Mail an [hamburg(at)correctiv.org](mailto:hamburg@correctiv.org).
+    Ohnehin wollen wir nicht Eigentümer an den Pranger stellen, sondern nur die benennen,
+    die fragwürdig handeln oder den Hamburger Wohnungsmarkt wesentlich beeinflussen.
+    Wir veröffentlichen nur Auswertungen der Daten, die relevant sind, um Missstände
+    zu benennen.</p>"
 - title: Wie kann ich mitmachen?
   anchor: 5
   text: "<p>Die zentrale Frage ist&#58; Wer ist der Eigentümer meiner Wohnung? Sind
