@@ -62,7 +62,7 @@ newsletter:
     Einladungen zu  Veranstaltungen zum Thema.
 question:
   title: Warum betrifft mich diese Recherche?
-  copy: "<p>Weil sie oft nicht wissen, wer der wahre Eigentümer ihrer Wohnung ist.
+  copy: "<p>Weil Sie oft nicht wissen, wer der wahre Eigentümer Ihrer Wohnung ist.
     Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern
     Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt
     sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung
@@ -90,8 +90,8 @@ hero:
   section2: 
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
-layout: default
 nowrap: true
+layout: default
 ---
 
   <div class="hero">
