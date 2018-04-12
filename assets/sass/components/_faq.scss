@@ -7,13 +7,25 @@
   width: 100%;
 }
 
+details summary::-webkit-details-marker {
+  display:none;
+}
+
+details summary:focus {
+  outline: none;
+}
+
+details[open] summary ~ * {
+  animation: sweep 1.5s ease-in-out;
+}
+
+@keyframes sweep {
+  0%    { opacity: 0; }
+  100%  { opacity: 1; }
+}
+
 .toggle {
   width: 100%;
-  -webkit-transition: all 0.5s ease;
-  -moz-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-  -ms-transition: all 0.5s ease;
-  transition: all 0.5s ease;
 }
 
 .toggle:last-child {
@@ -42,7 +54,6 @@
 }
 
 .toggle-inner {
-  display: none;
   line-height: 20px;
   margin: 1em .5em;
 }

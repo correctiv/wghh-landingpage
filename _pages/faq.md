@@ -138,13 +138,13 @@ layout: default
 <div class="faq">
     <h1>FAQ</h1>
     {% for faq in page.faq %}
-    <div class="toggle">
-        <div class="toggle-title" id="{{ faq.anchor }}">
+    <details class="toggle">
+        <summary class="toggle-title" id="{{ faq.anchor }}">
             <p><i></i><span class="title-name">{{ faq.title }}</span></p>
-        </div>
+        </summary>
         <div class="toggle-inner">
             {{ faq.text }}
         </div>
-    </div>
+    </details>
     {% endfor %}
 </div>

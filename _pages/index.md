@@ -90,7 +90,7 @@ hero:
   section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist – oder wir finden
     es gemeinsam heraus.  Als erstes Dankeschön bekommen Sie eine Übersicht mit den
     Eigentumsverhältnissen in Ihrer Nachbarschaft.
-  section2: 
+  section2:
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 info_file:
@@ -116,15 +116,15 @@ layout: default
           <p>{{page.hero.section2}}</p>
           <a class="btn" href="https://forms.crowdnewsroom.org/wem-gehoert-hamburg/eigentuemer">Jetzt mitmachen!</a>
           <div class="faq">
-            <div class="toggle">
-                <div class="toggle-title">
-                    <p class="info"><i></i><span class="title-name">{{ page.question.title }}</span></p>
-                </div>
-                <div id="antwort" class="toggle-inner">
+            <details class="toggle">
+                <summary class="toggle-title" id="{{ faq.anchor }}">
+                    <p><i></i><span class="title-name">{{ page.question.title }}</span></p>
+                </summary>
+                <div class="toggle-inner">
                     {{ page.question.copy }}
                     <p class="info"><a href="faq">{{ page.question.linktext }}</a></p>
                 </div>
-            </div>
+            </details>
           </div>
         </div>
       </div>
