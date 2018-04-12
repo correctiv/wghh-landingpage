@@ -97,7 +97,7 @@ twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transpare
   #WemGehoertHH'
 info_file:
   title: Eigentümer mitteilen
-  text: Tragen Sie den Eigentümer Ihrer Wohnung ein
+  text: Tragen Sie den Eigentümer Ihrer Wohnung ein.
 info_upload:
   title: Verifizierung
   text: Laden Sie einen Beleg hoch, auf dem der Eigentümer Ihrer Wohnung angegeben
