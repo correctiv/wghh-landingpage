@@ -62,21 +62,24 @@ newsletter:
     Einladungen zu  Veranstaltungen zum Thema.
 question:
   title: Warum betrifft mich diese Recherche?
-  copy: "<p>Weil Sie oft nicht wissen, wer der wahre Eigentümer Ihrer Wohnung ist.
-    Der Immobilienmarkt ist in Deutschland intransparenter als in vielen anderen Ländern
-    Europas. So muss der Eigentümer einer Wohnung nicht unbedingt im Mietvertrag aufgeführt
-    sein. Viele Mieter schließen zum Beispiel ihren Vertrag mit einer Hausverwaltung
-    ab. Kommt es zu Problemen, ist es für sie oft schwer, den wahren Eigentümer zu
-    erreichen.</p> <p>Große Investoren drängen zunehmend auf den Markt und handeln
-    mit Wohnungen. Sie versprechen ihren Anlegern hohe Renditen. Diese müssen sie
-    auch durch höhere Mieten erzielen. Hamburg zählt für Investoren zu den lukrativsten
-    Städten in Deutschland. Dadurch kommt es zu Mietsteigerungen, die an die Grenze
-    des Erlaubten gehen und manchmal darüber hinaus.</p> <p>Von mehr Transparenz profitieren
-    alle&#58; Die Bewohner wissen, in welchen Händen ihre Wohnung ist. Journalisten
-    können mit den Infos Missstände herausfinden. Das wiederum bringt Aufklärung.
-    Auch für die Stadt ist es wichtig, zu wissen, wie das Eigentum verteilt ist. Bürger
-    und Politiker können gezielter darüber streiten, wie ein erschwinglicher Wohnungsmarkt
-    gelingen kann.</p>"
+  copy: "<p>Sie sind Mieterin oder Mieter in Hamburg und wollen wissen, welche Eigentümer
+    die Mieten hochtreiben? Oder in welchen Vierteln viele oder wenige kommunale Wohnungen
+    liegen? Der Wohnungsmarkt ist intransparent und wir fragen uns, wer von dieser
+    Anonymität profitiert.</p> <p>Wohnen ist ein Grundbedürfnis, das immer häufiger
+    gefährdet ist. Junge Familien können sich eine größere Wohnung kaum mehr leisten.
+    Altmieter werden durch ständige Mieterhöhungen aus ihrer Wohnung gedrängt. Andere
+    Mieter wehren sich gegen Tricks bei der jährlichen Nebenkostenabrechnung. Für
+    viele ist Wohnen zur Existenzfrage geworden.</p> <p>Sie können mit uns eine Debatte
+    anstoßen. Wenn wir alle mehr über den Wohnungsmarkt wissen, können Bürgerinnen
+    und Bürger auch politisch mitreden und etwas ändern.</p> <p>Es geht aber auch
+    um ganz Konkretes: Vielleicht wissen Sie gar nicht, wer der Eigentümer ihrer Wohnung
+    ist, weil sie einen Mietvertrag mit einer Hausverwaltung abgeschlossen haben.
+    Das kann zu Schwierigkeiten führen, wenn es zu Problemen mit dem Vermieter kommt.
+    Wir helfen Ihnen, den wahren Eigentümer herauszufinden. Und wenn Sie Eigentümer
+    sind, laden wir Sie natürlich erst recht ein, die Stadt transparenter zu machen.</p>
+    <p>Alle Daten werten wir intern aus und geben sie nicht an Dritte weiter. Ihre
+    Informationen dienen einzig als Grundlage für Themen, die für die Öffentlichkeit
+    relevant sind. Für Fragen sind wir hier erreichbar: hamburg@correctiv.org</p>"
   linktext: Hier finden Sie weitere Antworten
 hero:
   lead: Die Mieten in Hamburg gehen durch die Decke. Investoren fahren hohe Renditen
