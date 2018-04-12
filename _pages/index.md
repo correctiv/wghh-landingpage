@@ -92,18 +92,18 @@ hero:
   section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist – oder wir finden
     es gemeinsam heraus.  Als erstes Dankeschön bekommen Sie eine Übersicht mit den
     Eigentumsverhältnissen in Ihrer Nachbarschaft.
-  section2: 
+  section2:
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 info_file:
-  title: Eigentümer suchen
-  text: Suchen Sie einen Beleg, auf dem der Eigentümer Ihrer Wohnung angegeben ist.
+  title: Eigentümer mitteilen
+  text: Tragen Sie den Eigentümer Ihrer Wohnung ein
 info_upload:
-  title: Eigentümer hochladen
-  text: Teilen Sie uns den Eigentümer Ihrer Wohnung auf unserer Website mit.
+  title: Verifizierung
+  text: Laden Sie einen Beleg hoch, auf dem der Eigentümer Ihrer Wohnung angegeben ist.
 info_chart:
-  title: Auswerten lassen
-  text: Wir werten die Informationen intern aus und machen den Wohnungsmarkt transparenter.
+  title: Auskunft erhalten
+  text: Falls Sie ihren Eigentümer nicht kennen, finden wir gemeinsam heraus.
 nowrap: true
 layout: default
 ---
@@ -138,8 +138,7 @@ layout: default
 
     <div class="row-3 how-to">
       <div class="column">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M288 248v28c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-28c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12zm-12 72H108c-6.6 0-12 5.4-12 12v28c0 6.6 5.4 12 12 12h168c6.6 0 12-5.4 12-12v-28c0-6.6-5.4-12-12-12zm108-188.1V464c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V48C0 21.5 21.5 0 48 0h204.1C264.8 0 277 5.1 286 14.1L369.9 98c9 8.9 14.1 21.2 14.1 33.9zm-128-80V128h76.1L256 51.9zM336 464V176H232c-13.3 0-24-10.7-24-24V48H48v416h288z"/></svg>
-        <h4>{{ page.info_file.title }}</h4>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M402.6 83.2l90.2 90.2c3.8 3.8 3.8 10 0 13.8L274.4 405.6l-92.8 10.3c-12.4 1.4-22.9-9.1-21.5-21.5l10.3-92.8L388.8 83.2c3.8-3.8 10-3.8 13.8 0zm162-22.9l-48.8-48.8c-15.2-15.2-39.9-15.2-55.2 0l-35.4 35.4c-3.8 3.8-3.8 10 0 13.8l90.2 90.2c3.8 3.8 10 3.8 13.8 0l35.4-35.4c15.2-15.3 15.2-40 0-55.2zM384 346.2V448H64V128h229.8c3.2 0 6.2-1.3 8.5-3.5l40-40c7.6-7.6 2.2-20.5-8.5-20.5H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V306.2c0-10.7-12.9-16-20.5-8.5l-40 40c-2.2 2.3-3.5 5.3-3.5 8.5z"/></svg>        <h4>{{ page.info_file.title }}</h4>
         <p>{{ page.info_file.text }}</p>
       </div>
       <div class="column">
@@ -148,8 +147,7 @@ layout: default
         <p>{{ page.info_upload.text }}</p>
       </div>
       <div class="column">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M500 400c6.6 0 12 5.4 12 12v24c0 6.6-5.4 12-12 12H12c-6.6 0-12-5.4-12-12V76c0-6.6 5.4-12 12-12h24c6.6 0 12 5.4 12 12v324h452zm-356-60v-72c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v72c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12zm96 0V140c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v200c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12zm96 0V204c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v136c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12zm96 0V108c0-6.6-5.4-12-12-12h-24c-6.6 0-12 5.4-12 12v232c0 6.6 5.4 12 12 12h24c6.6 0 12-5.4 12-12z"/></svg>
-        <h4>{{ page.info_chart.title }}</h4>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"/></svg>          <h4>{{ page.info_chart.title }}</h4>
         <p>{{ page.info_chart.text }}</p>
       </div>
     </div>
