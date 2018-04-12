@@ -46,10 +46,11 @@ main-classes: top-padded
             <tr><td>in Staatseigentum</td><td id="flats_state_owned"></td></tr>
           </table>
           <div class="footnote"><small>{{page.hero.footnote}}</small></div>
-         {% include components/sharing.html %}
+          {% include components/sharing.html %}
           <p><small>Bitte verbreiten Sie dieses Projekt, damit der Wohnungsmarkt transparenter wird</small></p>
       </div>
     </div>
+    {% include components/search.html %}
 
 <script>
 function handleResponse(request, street, number) {
