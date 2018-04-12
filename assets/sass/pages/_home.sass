@@ -66,6 +66,7 @@ strong
 
 
 .hero
+  letter-spacing: 0
 
   .background
     display: flex
@@ -123,7 +124,7 @@ strong
   .timeline
     width: 90%
     max-width: 800px
-    margin: 1em auto
+    margin: 1rem auto 2rem
 
   .next
     display: block
@@ -149,6 +150,7 @@ strong
     width: 100%
 
 .signup
+  clear: both
   max-width: $breakout-width
   margin: 0 auto
   color: white
@@ -220,11 +222,7 @@ strong
   .article
     display: flex
     max-width: 600px
-    margin-top: 2em
-
-    h2
-      line-height: 1.2em
-      padding-top: 10px
+    margin-top: 3em
 
     .copy
       padding-left: 1em
@@ -234,8 +232,9 @@ strong
       color: gray
 
     h2
-      line-height: 1em
-      font-size: 1.4em
+      font-size: 1.3em
+      line-height: 1.25em
+      padding: 0 0 10px
       font-family: "PT Sans", sans-serif
       transform: none
 
@@ -247,6 +246,55 @@ strong
 
     .articlelink
       color: $brand
+
+.row-3
+  display: flex
+  flex-flow: row
+  position: relative
+  clear: both
+  width: 90%
+  margin: 8rem auto
+
+  @include mq($until: $xs)
+    display: block
+    margin: 4rem auto
+
+  .column
+    width: 33%
+
+    @include mq($until: $xs)
+      width: 100%
+
+  &:after
+    clear: both
+    display: table
+    content: ""
+
+.column
+  justify-content: space-around
+  padding: 1rem
+
+.how-to
+  text-align: center
+
+  h4
+    font-family: $base-font-family
+    font-size: 1.3rem
+    font-weight: $bolder
+    color: $brand
+    transform: none
+
+  p
+    font-size: 1rem
+    line-height: 1.4rem
+
+  svg
+    max-height: 4rem
+    margin-bottom: 1rem
+
+  path
+    fill: $brand
+
 
 @include mq($until: $sm)
   .blog
@@ -267,6 +315,9 @@ strong
   margin: 5em auto 2em
   text-align: center
   line-height: 20px
+
+  @include mq($until: $xs)
+    padding: 1rem
 
   .title
     margin: 3em auto 1.5em
@@ -297,3 +348,5 @@ strong
 
   li
     margin-top: 1em
+
+
