@@ -149,6 +149,7 @@ strong
     width: 100%
 
 .signup
+  clear: both
   max-width: $breakout-width
   margin: 0 auto
   color: white
@@ -248,6 +249,43 @@ strong
     .articlelink
       color: $brand
 
+.row-3
+  display: flex
+  flex-flow: row
+  position: relative
+  clear: both
+  width: 90%
+  margin: 2rem auto
+
+  @include mq($until: $xs)
+    display: block
+
+  .column
+    width: 33%
+
+    @include mq($until: $xs)
+      width: 100%
+
+  &:after
+    clear: both
+    display: table
+    content: ""
+
+.column
+  justify-content: space-around
+  padding: 1rem
+
+.how-to
+  text-align: center
+
+  svg
+    max-height: 12rem
+    margin-bottom: 2rem
+
+  path
+    fill: $brand
+
+
 @include mq($until: $sm)
   .blog
     padding: 5px
@@ -297,3 +335,5 @@ strong
 
   li
     margin-top: 1em
+
+
