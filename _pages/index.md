@@ -92,7 +92,7 @@ hero:
   section1: Teilen Sie uns mit, wer der Eigentümer Ihrer Wohnung ist – oder wir finden
     es gemeinsam heraus.  Als erstes Dankeschön bekommen Sie eine Übersicht mit den
     Eigentumsverhältnissen in Ihrer Nachbarschaft.
-  section2:
+  section2: 
 twitter_text: 'Wem gehört Hamburg? Macht den Wohnungsmarkt in Hamburg transparenter.
   #WemGehoertHH'
 info_file:
@@ -100,7 +100,8 @@ info_file:
   text: Tragen Sie den Eigentümer Ihrer Wohnung ein
 info_upload:
   title: Verifizierung
-  text: Laden Sie einen Beleg hoch, auf dem der Eigentümer Ihrer Wohnung angegeben ist.
+  text: Laden Sie einen Beleg hoch, auf dem der Eigentümer Ihrer Wohnung angegeben
+    ist.
 info_chart:
   title: Auskunft erhalten
   text: Falls Sie ihren Eigentümer nicht kennen, finden wir gemeinsam heraus.
