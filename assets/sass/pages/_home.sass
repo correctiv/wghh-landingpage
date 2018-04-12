@@ -66,6 +66,7 @@ strong
 
 
 .hero
+  letter-spacing: 0
 
   .background
     display: flex
@@ -221,11 +222,7 @@ strong
   .article
     display: flex
     max-width: 600px
-    margin-top: 2em
-
-    h2
-      line-height: 1.2em
-      padding-top: 10px
+    margin-top: 3em
 
     .copy
       padding-left: 1em
@@ -235,8 +232,9 @@ strong
       color: gray
 
     h2
-      line-height: 1em
-      font-size: 1.4em
+      font-size: 1.3em
+      line-height: 1.25em
+      padding: 0 0 10px
       font-family: "PT Sans", sans-serif
       transform: none
 
@@ -259,6 +257,7 @@ strong
 
   @include mq($until: $xs)
     display: block
+    margin: 4rem auto
 
   .column
     width: 33%
@@ -316,6 +315,9 @@ strong
   margin: 5em auto 2em
   text-align: center
   line-height: 20px
+
+  @include mq($until: $xs)
+    padding: 1rem
 
   .title
     margin: 3em auto 1.5em
