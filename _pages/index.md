@@ -37,8 +37,8 @@ blog:
   date: 2018-02-17 10:00:00 Z
   publisher: Hamburger Abendblatt
   image: https://img.abendblatt.de/img/hamburg/crop213469253/501260970-w820-cv16_9-q85/Chychla-6.jpg
-  text: Mietervereins-Chef ruft die Hamburger auf, beim Rechercheprojekt mitzuwirken
-    – zu ihrem eigenen Schutz.
+  text: Chef des Mietervereins zu Hamburg ruft die Hamburger auf, beim Rechercheprojekt
+    mitzuwirken – zu ihrem eigenen Schutz.
   link: https://www.abendblatt.de/nachrichten/article213469255/Investoren-schrauben-die-Mieten-in-Hamburg-nach-oben.html
   hidden: false
 - title: CORRECTIV startet weitere CrowdNewsroom-Recherche
