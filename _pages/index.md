@@ -8,15 +8,15 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
-- title: 'Event: Die Zukunft von Altona'
-  date: 2018-04-12 20:00:00 Z
+- title: 'Event: Wohnen als Grundbedürfnis'
+  date: 2018-04-19 20:00:00 Z
   publisher: "@ GWA St. Pauli"
   image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F43465823%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C2160%2C1080&s=810191c42abc0d7b579b75ccb6b08a1d
-  text: Bei einer Podiumsdiskussion sprechen wir mit Heike Sudmann (Die Linke), Fachsprecherin
-    für Wohnen und Stadtentwicklung, Ralf Gauger, Sprecher der Mietergemeinschaft
-    Bernstorffstraße 117, und mit Markus Ewald von Nexthamburg, dem offenen Zukunftslabor
-    für die Stadt von morgen.
-  link: https://www.eventbrite.de/e/wem-gehort-hamburg-die-zukunft-von-altona-tickets-44913247733
+  text: Bei einer Podiumsdiskussion sprechen wir mit Torsten Flomm, dem Vorsitzenden
+    des Grundeigentümer-Verbands Hamburg, mit Marc Meyer, Rechtsanwalt des Vereins
+    Mieter helfen Mietern und Rosemarie Oltmann, Vorstand der Wohnungsbaugenossenschaft
+    Schanze eG.
+  link: https://www.eventbrite.de/e/wem-gehort-hamburg-wohnen-als-grundbedurfnis-tickets-44913333991
   hidden: false
 - title: Kampf um Altona
   date: 2018-03-09 08:00:00 Z
