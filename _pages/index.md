@@ -18,6 +18,14 @@ blog:
     Schanze eG.
   link: https://www.eventbrite.de/e/wem-gehort-hamburg-wohnen-als-grundbedurfnis-tickets-44913333991
   hidden: false
+- title: "„Machen Sie bitte, dass die Miete wieder runtergeht!“"
+  date: 2018-04-13 00:00:00 Z
+  publisher: CORRECTIV
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/21/b0/21b059ce-93b6-45a9-882d-c3fdcbe5888f/mieteriniative.jpg__1280x700_q85_crop_subject_location-2304%2C1295_subsampling-2.jpg
+  text: Mit welchen Methoden der Wohnungskonzern Vonovia in Hamburg-Steilshoop die
+    Miete verdoppelt.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/12/machen-sie-bitte-dass-die-miete-wieder-runtergeht/
+  hidden: false
 - title: Kampf um Altona
   date: 2018-03-09 08:00:00 Z
   publisher: CORRECTIV
@@ -25,14 +33,6 @@ blog:
   text: 'Zwei Investoren kaufen einen Hinterhof in Altona, auf dem mehr als 100 Menschen
     arbeiten und leben. Was wiegt höher: Gewinnerwartugnen oder Gemeinschaft?'
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/09/kampf-um-altona/
-  hidden: false
-- title: Haus verkommt – Bezirk will Vermieter enteignen
-  date: 2018-02-28 00:00:00 Z
-  publisher: Hamburger Abendblatt
-  image: https://img.abendblatt.de/img/hamburg/crop213573563/3562603322-w820-cv16_9-q85/grindelallee-55003a52-e187-410a-a319-4fd0eefa80e9.jpg
-  text: Mieter von der Grindelallee werden seit Jahren schikaniert. Jetzt handelt
-    die Verwaltung im Kampf gegen den dubiosen Eigentümer.
-  link: https://www.abendblatt.de/nachrichten/article213573565/Haus-verkommt-Bezirk-will-Vermieter-enteignen.html
   hidden: false
 - title: "„Investoren schrauben Mieten nach oben“"
   date: 2018-02-17 10:00:00 Z
