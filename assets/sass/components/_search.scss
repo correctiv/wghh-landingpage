@@ -44,13 +44,13 @@
 }
 
 .awesomplete > ul:before {
-    top: -.9em;
+    top: -1em;
     left: 1.5em;
     width: 0px;
-    height: 5px;
-    padding: 10px 15px;
+    height: 0px;
+    padding: 15px 15px;
     -ms-transform: rotate(40deg);
-    transform: rotate(40deg);
+    transform: rotate(45deg);
 }
 
 .awesomplete > ul li {
