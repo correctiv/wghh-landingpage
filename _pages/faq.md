@@ -135,7 +135,7 @@ main-classes: faq
 layout: default
 ---
 
-<div class="faq">
+<div class="faq accordion">
     <h1>FAQ</h1>
     {% for faq in page.faq %}
     <div class="toggle">

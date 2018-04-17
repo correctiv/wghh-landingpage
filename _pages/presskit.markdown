@@ -6,7 +6,7 @@ page-hidden: false
 type: header
 page-name: presskit
 presskit:
-  title: Texte
+- title: Texte
   anchor: 1
   text: "<p>Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie
     die Wohnsituation in Hamburg erschwinglich bleiben kann.</p> <p>Viele Eigentümer
@@ -27,7 +27,7 @@ presskit:
 layout: default
 ---
 
-<div class="presskit">
+<div class="presskit accordion">
     <h1>Presskit</h1>
     {% for presskit in page.presskit %}
     <div class="toggle">
