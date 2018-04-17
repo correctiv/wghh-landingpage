@@ -42,6 +42,15 @@ presskit:
     wie der Immobilienmarkt funktioniert, können Bürger und Politik besser diskutieren,
     was sich ändern muss, damit Wohnen in Hamburg erschwinglich bleibt und letztlich
     in allen Städten in Deutschland.</p>"
+- title: Videos
+  anchor: 3
+  text: 
+- title: Fotos
+  anchor: 4
+  text: 
+- title: Logo & Grafiken
+  anchor: 5
+  text: 
 wrapped: true
 main-classes: presskit
 layout: default
