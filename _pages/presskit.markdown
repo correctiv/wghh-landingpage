@@ -44,7 +44,8 @@ presskit:
     in allen Städten in Deutschland.</p>"
 - title: Videos
   anchor: 3
-  text: 
+  text: <iframe src="https://player.vimeo.com/video/263317577" width="640" height="360"
+    frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 - title: Fotos
   anchor: 4
   text: 
