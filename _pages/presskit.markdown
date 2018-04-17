@@ -6,7 +6,7 @@ page-hidden: false
 type: header
 page-name: presskit
 presskit:
-  title: presskit
+  title: Text
   anchor: 1
   text: |-
     - title:
