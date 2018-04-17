@@ -17,7 +17,7 @@ main-classes: presskit
 layout: default
 ---
 
-<div class="presskit">
+<div class="accordion">
     <h1>Presskit</h1>
     {% for presskit in page.presskit %}
     <div class="toggle">
