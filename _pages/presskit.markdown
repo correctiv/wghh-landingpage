@@ -50,7 +50,7 @@ presskit:
     <a style="color: #e5007d" href="https://vimeo.com/263317577" target="blank"> Link zum Video</a>
 - title: Fotos
   anchor: 4
-  text: 
+  text: <img src="/assets/images/wghh-foto1.jpg">
 - title: Logo & Grafiken
   anchor: 5
   text: 
