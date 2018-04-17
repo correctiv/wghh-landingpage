@@ -47,7 +47,7 @@ presskit:
   text: |-
     Link: https://vimeo.com/263317577
     <br>
-    <iframe src="https://player.vimeo.com/video/263317577" width="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/263317577" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 - title: Fotos
   anchor: 4
   text: 
