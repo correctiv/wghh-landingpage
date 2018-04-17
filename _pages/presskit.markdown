@@ -54,24 +54,24 @@ presskit:
 - title: Logo
   anchor: 5
   text: |-
-    **Logo**
+    <strong>Logo</strong>
 
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.png" target="blank">wghh-logo.png</a>
-
+    <br>
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.svg" target="blank">wghh-logo.svg</a>
-
+    <br>
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.ai" target="blank">wghh-logo.ai</a>
-
+    <br>
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.pdf" target="blank">wghh-logo.pdf</a>
-
-    **Logo mit Webadresse**
-
+    <br>
+    <strong>Logo mit Webadresse</strong>
+    <br>
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.png" target="blank">wghh-logo-www.png</a>
-
+    <br>
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.svg" target="blank">wghh-logo-www.svg</a>
-
+    <br>
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.ai" target="blank">wghh-logo-www.ai</a>
-
+    <br>
     <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.pdf" target="blank">wghh-logo-www.pdf</a>
 wrapped: true
 main-classes: presskit
