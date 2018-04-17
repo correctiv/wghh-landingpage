@@ -44,10 +44,10 @@ presskit:
     in allen Städten in Deutschland.</p>"
 - title: Videos
   anchor: 3
-  text: |-
-    Link: https://vimeo.com/263317577
-    <br>
+  text: |
     <iframe src="https://player.vimeo.com/video/263317577" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <br><br>
+    Link: [https://vimeo.com/263317577](https://vimeo.com/263317577)
 - title: Fotos
   anchor: 4
   text: 
