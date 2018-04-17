@@ -51,9 +51,28 @@ presskit:
 - title: Fotos
   anchor: 4
   text: <a href="/assets/images/wghh-foto1.jpg" target="blank"><img src="/assets/images/wghh-foto1.jpg"></a>
-- title: Logo & Grafiken
+- title: Logo
   anchor: 5
-  text: 
+  text: |-
+    **Logo**
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.png" target="blank">wghh-logo.png</a>
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.svg" target="blank">wghh-logo.svg</a>
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.ai" target="blank">wghh-logo.ai</a>
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo.pdf" target="blank">wghh-logo.pdf</a>
+
+    **Logo mit Webadresse**
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.png" target="blank">wghh-logo-www.png</a>
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.svg" target="blank">wghh-logo-www.svg</a>
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.ai" target="blank">wghh-logo-www.ai</a>
+
+    <a href="https://wem-gehoert-hamburg.de/wghh/presskit/logo/wghh-logo-www.pdf" target="blank">wghh-logo-www.pdf</a>
 wrapped: true
 main-classes: presskit
 layout: default
