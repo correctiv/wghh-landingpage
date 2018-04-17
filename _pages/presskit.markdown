@@ -5,7 +5,7 @@ permalink: "/presskit"
 page-hidden: false
 type: header
 page-name: presskit
-Texte:
+presskit:
   title: Texte
   anchor: 1
   text: "<p>Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie
@@ -27,5 +27,16 @@ Texte:
 layout: default
 ---
 
-## Presskit
-
+<div class="presskit">
+    <h1>Presskit</h1>
+    {% for presskit in page.presskit %}
+    <div class="toggle">
+        <div class="toggle-title" id="{{ presskit.anchor }}">
+            <p><i></i><span class="title-name">{{ presskit.title }}</span></p>
+        </div>
+        <div class="toggle-inner">
+            {{ presskit.text }}
+        </div>
+    </div>
+    {% endfor %}
+</div>
