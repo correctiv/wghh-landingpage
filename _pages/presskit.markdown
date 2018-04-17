@@ -44,10 +44,7 @@ presskit:
     in allen Städten in Deutschland.</p>"
 - title: Videos
   anchor: 3
-  text: |-
-    <iframe src="https://player.vimeo.com/video/263317577" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    <br><br>
-    <a style="color: #e5007d" href="https://vimeo.com/263317577" target="blank"> Link zum Video</a>
+  text: <a href="https://vimeo.com/263317577" target="blank"><img src="/assets/images/video1.jpg"></a>
 - title: Fotos
   anchor: 4
   text: <a href="/assets/images/wghh-foto1.jpg" target="blank"><img src="/assets/images/wghh-foto1-small.jpg"></a>
