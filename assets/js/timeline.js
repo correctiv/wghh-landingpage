@@ -1,10 +1,14 @@
-document.addEventListener("DOMContentLoaded", loadProgressBar);
-
 var startDate = new Date("April 3, 2018");
 var endDate = new Date("June 18, 2018");
 var milestones = [new Date("April 5, 2018"),new Date("May 4, 2018"),new Date("June 16, 2018")];
 var segments = ["Eigentümer erheben", "Daten auswerten"];
 var segmentWidth = [];
+var progressElem = document.getElementById("progressContainer");
+
+
+if (progressElem != null){
+  document.addEventListener("DOMContentLoaded", loadProgressBar);
+}
 
 function loadProgressBar(){
   var entirePeriod = endDate.getTime() - startDate.getTime();
@@ -13,7 +17,6 @@ function loadProgressBar(){
   var today = new Date();
   var timeElapsed = today.getTime() - startDate.getTime();
   var timeElapsedPercentage = Math.round(timeElapsed / entirePeriod * 100);
-  var progressElem = document.getElementById("progressContainer");
   progressElem.style.width = timeElapsedPercentage + '%';
 
   milestones.forEach( function(milestone) {
