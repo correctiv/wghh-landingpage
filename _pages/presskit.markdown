@@ -53,26 +53,26 @@ presskit:
   text: |-
     <strong>Logo</strong>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.png" target="blank">PNG</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.png" target="blank">Download PNG</a>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.svg" target="blank">SVG</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.svg" target="blank">Download SVG</a>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.ai" target="blank">AI</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.ai" target="blank">Download AI</a>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.pdf" target="blank">PDF</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo.pdf" target="blank">Download PDF</a>
     <br><br>
     <strong>Logo mit Webadresse</strong>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.png" target="blank">PNG</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.png" target="blank">Download PNG</a>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.svg" target="blank">SVG</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.svg" target="blank">Download SVG</a>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.ai" target="blank">AI</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.ai" target="blank">Download AI</a>
     <br>
-    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.pdf" target="blank">PDF</a>
+    <a href="https://download.correctiv.org/wghh/presskit/logo/wghh-logo-www.pdf" target="blank">Download PDF</a>
     <br><br>
-    <strong>Alle Logos</strong>
-    <a href="https://download.correctiv.org/wghh/logo.zip" target="blank">Zip-Datei</a>
+    <strong>Alle Logos</strong><br>
+    <a href="https://download.correctiv.org/wghh/logo.zip" target="blank">Download Zip-Datei</a>
 wrapped: true
 main-classes: presskit
 layout: default
