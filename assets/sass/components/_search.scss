@@ -1,0 +1,90 @@
+.search {
+    width: 40%;
+    margin: 2rem auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+@media (max-width: 48em) {
+    .search {
+        width: 100%;
+    }
+}
+
+.search label {
+    display: block;
+    margin: 1rem auto;
+}
+
+.form-input {
+    width: 100%;
+    margin: 0 auto 20px;
+    padding: 10px;
+    outline: 0;
+    font-size: 13px;
+    border-radius: 0;
+    border: 1px solid #e6007e;
+}
+
+.search .step-input {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.awesomplete {
+    display: block;
+}
+
+.awesomplete > ul {
+    padding: 0;
+    border-radius: 0;
+    border-color: #e6007e;
+    background: #fff;
+    text-align: left;
+}
+
+.awesomplete > ul:before {
+    top: -1em;
+    left: 1.5em;
+    width: 0px;
+    height: 0px;
+    padding: 15px 15px;
+    -ms-transform: rotate(40deg);
+    transform: rotate(45deg);
+}
+
+.awesomplete > ul li {
+    padding: .5rem;
+}
+
+.awesomplete > ul > li:hover {
+    background: #e6007e;
+    color: #fff;
+}
+
+.awesomplete li:hover mark {
+    color: inherit;
+    background: none;
+}
+
+.awesomplete > ul > li[aria-selected="true"],
+.awesomplete mark,
+.awesomplete li[aria-selected="true"] mark {
+    color: inherit;
+    background: none;
+}
+
+#submit {
+    clear: both;
+    opacity: 0;
+    min-width: 204px;
+    margin: 1.5em auto;
+    padding: 16px 24px;
+    background-color: #e6007e;
+    border-radius: 0;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    transition: 0.5s;
+}
+
