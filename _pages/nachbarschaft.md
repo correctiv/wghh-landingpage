@@ -50,7 +50,9 @@ main-classes: top-padded
           <p><small>Bitte verbreiten Sie dieses Projekt, damit der Wohnungsmarkt transparenter wird</small></p>
       </div>
     </div>
-    {% include components/search.html %}
+  </div>
+
+  {% include components/search.html %}
 
 <script>
 function handleResponse(request, street, number) {
