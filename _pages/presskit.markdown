@@ -6,7 +6,7 @@ page-hidden: false
 type: header
 page-name: presskit
 presskit:
-- title: Text
+- title: Text2
   anchor: 1
   text: "<p>Mehr Transparenz auf dem Immobilienmarkt. Eine informierte Debatte, wie
     die Wohnsituation in Hamburg erschwinglich bleiben kann.</p> <p>Viele Eigentümer
