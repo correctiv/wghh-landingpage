@@ -18,14 +18,22 @@ blog:
   link: https://www.eventbrite.de/e/wem-gehort-hamburg-wohnen-als-grundbedurfnis-tickets-44913333991
   hidden: false
 - title: Bezahlbare Mieten garantiert
-  date: 2018-04-18 00:00:00 Z
+  date: 2018-04-18 17:00:00 Z
   publisher: Correctiv
-  image: "/uploads/20180418-mietshaus-altona-9eb703.jpg"
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/44/2c/442ccbf8-41a4-4a16-ba55-2d5013271665/20180418-mietshaus-altona.jpg__1280x700_q85_crop_subsampling-2.jpg
   text: Im „Mietshäusersyndikat“ organisieren sich Mieter, um dem Markt Häuser zu
     entziehen. In Hamburg gibt es bisher nur sechs Projekte – auch weil die Stadt
     das Modell nicht fördert.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/18/bezahlbare-miete-garantiert/
   hidden: 
+- title: 'Untreue: Mieter zeigen Hamburgs übelsten Vermieter an'
+  date: 2018-04-18 10:00:00 Z
+  publisher: Hamburger Abendblatt
+  image: https://img.abendblatt.de/img/hamburg/crop214048719/6912607021-w820-cv16_9-q85/grindelallee210218-5.jpg
+  text: Chef des Mietervereins zu Hamburg ruft die Hamburger auf, beim Rechercheprojekt
+    mitzuwirken – zu ihrem eigenen Schutz.
+  link: https://www.abendblatt.de/hamburg/article214048721/Untreue-Mieter-zeigen-Hamburgs-uebelsten-Vermieter-an.html
+  hidden: false
 - title: "„Machen Sie bitte, dass die Miete wieder runtergeht!“"
   date: 2018-04-13 00:00:00 Z
   publisher: CORRECTIV
@@ -33,6 +41,14 @@ blog:
   text: Mit welchen Methoden der Wohnungskonzern Vonovia in Hamburg-Steilshoop die
     Miete verdoppelt.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/12/machen-sie-bitte-dass-die-miete-wieder-runtergeht/
+  hidden: false
+- title: CORRECTIV startet weitere CrowdNewsroom-Recherche
+  date: 2018-04-04 00:00:00 Z
+  publisher: CORRECTIV
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/2d/86/2d86b7a3-f70d-464d-b610-e4b7f9d9a9ac/_e2a8955.jpg__1280x700_q85_crop_subject_location-1920%2C1280_subsampling-2.jpg
+  text: Auf eine Veranstaltung zu unserer Bürgerrecherche diskutierten der Grüne EU-Abgeordnete
+    Sven Giegold und der Hamburger Wohnungsbaukoordinator Matthias Kock.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/04/wohnungsbau-ist-die-beste-medizin/
   hidden: false
 - title: Kampf um Altona
   date: 2018-03-09 08:00:00 Z
@@ -42,28 +58,13 @@ blog:
     arbeiten und leben. Was wiegt höher: Gewinnerwartugnen oder Gemeinschaft?'
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/09/kampf-um-altona/
   hidden: false
-- title: "„Investoren schrauben Mieten nach oben“"
-  date: 2018-02-17 10:00:00 Z
-  publisher: Hamburger Abendblatt
-  image: https://img.abendblatt.de/img/hamburg/crop213469253/501260970-w820-cv16_9-q85/Chychla-6.jpg
-  text: Chef des Mietervereins zu Hamburg ruft die Hamburger auf, beim Rechercheprojekt
-    mitzuwirken – zu ihrem eigenen Schutz.
-  link: https://www.abendblatt.de/nachrichten/article213469255/Investoren-schrauben-die-Mieten-in-Hamburg-nach-oben.html
-  hidden: false
-- title: CORRECTIV startet weitere CrowdNewsroom-Recherche
-  date: 2018-02-17 00:00:00 Z
-  publisher: CORRECTIV
-  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/b0/00/b000223c-5d14-4c44-a479-adef3e0aefb9/crowdnewsroom01.jpg__1280x700_q85_crop_subject_location-2067%2C1378_subsampling-2.jpg
-  text: Journalisten und Bürger recherchieren über Wohnen in Hamburg
-  link: https://correctiv.org/blog/2018/02/17/correctiv-startet-weitere-crowdnewsroom-recherche-wem-gehort-hamburg/
-  hidden: false
-- title: 'Es geht los: Wem gehört Hamburg?'
-  date: 2018-02-17 08:00:00 Z
+- title: Alle Artikel auf einen Blick
+  date: 2018-04-01 08:00:00 Z
   publisher: CORRECTIV
   image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/1d/93/1d936166-6690-42c1-9973-4445385b2a11/hamburg_23correctiv_ivo-mayr_benjamin-schubert.jpg__1280x700_q85_crop_subsampling-2.jpg
-  text: CORRECTIV und Hamburger Abendblatt starten Immobilien-Recherche – gemeinsam
-    mit den Mietern.
-  link: https://correctiv.org/a/2264
+  text: Auf der Themenseite von CORRECTIV finden Sie allen Artikel aus der „Wem gehört
+    Hamburg“ Rehercheartikel
+  link: https://correctiv.org/recherchen/wohnen/wem-gehoert-hamburg/
   hidden: false
 newsletter:
   title: Bleiben Sie informiert!
