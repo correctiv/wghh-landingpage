@@ -8,10 +8,6 @@ nav-order: 6
 layout: default
 ---
 
-# Diskutieren in der Facebook Gruppe
-
-Auf Facebook wollen wir mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren und Ideen austauschen. Wie lässt sich aus Ihrer Sicht die Wohnungskrise lösen? Haben Sie eine Idee? Außerdem geben wir auf Facebook regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion <a style="color: #e5007d" href="https://www.facebook.com/groups/wemgehoerthamburg/" target="blank">„Wem gehört Hamburg?“</a>.
-
 # KONTAKT
 <br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns Ihre Geschichte, die Sie mit Ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
@@ -20,6 +16,10 @@ Schreiben Sie uns:
 
 Redaktionelle Anfragen: <a style="color: #e5007d" href="mailto:hamburg@correctiv.org">hamburg(at)correctiv.org</a><br>
 Technische Fragen: <a style="color: #e5007d" href="mailto:hilfe@correctiv.org">hilfe(at)correctiv.org</a><br>
+
+# Diskutieren in der Facebook Gruppe
+
+Auf Facebook wollen wir mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren und Ideen austauschen. Wie lässt sich aus Ihrer Sicht die Wohnungskrise lösen? Haben Sie eine Idee? Außerdem geben wir auf Facebook regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion <a style="color: #e5007d" href="https://www.facebook.com/groups/wemgehoerthamburg/" target="blank">„Wem gehört Hamburg?“</a>.
 
 # Wir sind vor Ort: Besuchen Sie uns!
 
