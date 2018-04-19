@@ -59,7 +59,7 @@ blog:
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/03/09/kampf-um-altona/
   hidden: false
 - title: Alle Artikel auf einen Blick
-  date: 2018-04-01 08:00:00 Z
+  date: 2018-03-05 08:00:00 Z
   publisher: CORRECTIV
   image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/1d/93/1d936166-6690-42c1-9973-4445385b2a11/hamburg_23correctiv_ivo-mayr_benjamin-schubert.jpg__1280x700_q85_crop_subsampling-2.jpg
   text: Auf der Themenseite von CORRECTIV finden Sie allen Artikel aus der „Wem gehört
