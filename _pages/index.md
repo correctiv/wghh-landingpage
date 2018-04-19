@@ -42,7 +42,7 @@ blog:
     Miete verdoppelt.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/12/machen-sie-bitte-dass-die-miete-wieder-runtergeht/
   hidden: false
-- title: CORRECTIV startet weitere CrowdNewsroom-Recherche
+- title: "„Wohnungsbau ist die beste Medizin“"
   date: 2018-04-04 00:00:00 Z
   publisher: CORRECTIV
   image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/2d/86/2d86b7a3-f70d-464d-b610-e4b7f9d9a9ac/_e2a8955.jpg__1280x700_q85_crop_subject_location-1920%2C1280_subsampling-2.jpg
