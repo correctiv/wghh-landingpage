@@ -8,6 +8,10 @@ nav-order: 6
 layout: default
 ---
 
+# Diskutieren in der Facebook Gruppe
+
+Auf Facebook wollen wir mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren und Ideen austauschen. Wie lässt sich aus Ihrer Sicht die Wohnungskrise lösen? Haben Sie eine Idee? Außerdem geben wir auf Facebook regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion <a style="color: #e5007d" href="https://www.facebook.com/groups/wemgehoerthamburg/" target="blank">„Wem gehört Hamburg?“</a>.
+
 # KONTAKT
 <br>
 Wir von <a style="color: #e5007d" href="https://correctiv.org" target="blank"> CORRECTIV</a> freuen uns, wenn Sie uns direkt ansprechen. Erzählen Sie uns Ihre Geschichte, die Sie mit Ihrem Vermieter erlebt haben. Geben Sie uns Hinweise, welche Eigentümer wir uns genauer anschauen sollten. Oder teilen Sie Dokumente.
@@ -57,7 +61,3 @@ Jonathan Sachse ist seit der Gründung von CORRECTIV im Sommer 2014 dabei. Er ha
 Telefon: 030 5557802 14<br>
 E-Mail: <a style="color: #e5007d" href="mailto:jonathan.sachse@correctiv.org">jonathan.sachse(at)correctiv.org</a><br>
 PGP Fingerabdruck: FCB0 E910 FF7C E61E F001  867B D455 3098 0091 2CB2
-
-# Diskutieren in der Facebook Gruppe
-
-Auf Facebook wollen wir schon jetzt mit Ihnen über den Wohnungsmarkt in Hamburg diskutieren. Wir geben dazu regelmäßig Einblick hinter die Kulissen unserer Arbeit. Beteiligen Sie sich an der Diskussion in unserer Gruppe <a style="color: #e5007d" href="https://www.facebook.com/groups/wemgehoerthamburg/" target="blank">„Wem gehört Hamburg?“</a>.
