@@ -69,8 +69,14 @@ faq:
     die fragwürdig handeln oder den Hamburger Wohnungsmarkt wesentlich beeinflussen.
     Wir veröffentlichen nur Auswertungen der Daten, die relevant sind, um Missstände
     zu benennen.</p>"
-- title: Wie kann ich mitmachen?
+- title: Wollen wir Eigentümer bloßstellen?
   anchor: 5
+  text: |-
+    Nein. Die Recherche zum Wohnungsmarkt in Hamburg ist ergebnisoffen. Wir greifen mit dieser Recherche nicht Privatpersonen und Firmen an, die Eigentum in Hamburg besitzen. Ganz im Gegenteil: Wir wollen sowohl mit Mietern als auch Eigentümern ins Gespräch kommen.
+
+    Uns interessieren in erster Linie zwei Fragen: Welche Eigentümer beeinflussen maßgeblich den Wohnungsmarkt und welche Eigentümer handeln fragwürdig? Die Daten, die wir hier mit Hilfe der Bürger sammeln, geben uns Anhaltspunkte für weitere Recherchen. Später bei Veröffentlichungen werden wir die Namen von einzelnen Eigentümern nur nennen, wenn es ein berechtigtes öffentliches Interesse gibt. Bei CORRECTIV arbeiten erfahrene Journalisten, die seit Jahrzehnten bei jeder Veröffentlichung genau überlegen, ob es notwendig ist die Klarnamen von handelnden Personen und Firmen zu nennen.
+- title: Wie kann ich mitmachen?
+  anchor: 6
   text: "<p>Die zentrale Frage ist&#58; Wer ist der Eigentümer meiner Wohnung? Sind
     sie selbst Eigentümer, können Sie uns die Frage leicht beantworten. Für die Mieter
     selbst ist die Antwort nicht so einfach.</p> <p>Nicht selten ist der Vermieter
@@ -82,7 +88,7 @@ faq:
     Freunden und Nachbarn von dem Projekt. Teilen Sie wem-gehoert-hamburg.de per E-Mail
     oder auf Facebook, Twitter oder Instagram.</p>"
 - title: Was machen wir mit den Daten?
-  anchor: 6
+  anchor: 7
   text: "<p>Wir behandeln die Daten mit großer Sorgfalt. Wir werden keine Informationen
     veröffentlichen, die Rückschlüsse auf den Informationsgeber zulassen &mdash; es
     sei denn dieser erteilt nach Rückfrage seine Zustimmung. Wir tragen alle öffentlich
@@ -97,14 +103,14 @@ faq:
     oder andere private Dokumente, die Sie uns als Beleg für Ihren Eintrag zu einem
     Eigentümer anvertrauen.</p> <p>Weitere Details finden Sie in unseren [Datenschutzbestimmungen](https://wem-gehoert-hamburg.de/datenschutzbestimmung).</p>"
 - title: Was passiert wann?
-  anchor: 7
+  anchor: 8
   text: "<p>Seit Februar haben wir die Bürgerinnen und Bürger über das Projekt informiert
     und über den Fortlauf in einem <a href='/#signup'>Newsletter</a> informiert.</p>
     <p>Seit dem 5. April hat die Bürgerrecherche begonnen. Einen Monat lang arbeiten
     wir mit Bürgern zusammen, um mehr über die Wohnungsinhaber zu erfahren.</p> <p>Die
     gewonnenen Daten werten wir anschließend ab Mai für unsere Recherchen aus.</p>"
 - title: Wer sind wir?
-  anchor: 8
+  anchor: 9
   text: "<p><a href='https://correctiv.org'>CORRECTIV</a> ist das erste gemeinnützige
     Recherchezentrum in Deutschland. Wir arbeiten unabhängig und nicht&ndash;gewinnorientiert.
     Die Redaktion finanziert sich ausschließlich über Spenden und Mitgliedsbeiträge
@@ -118,7 +124,7 @@ faq:
     FINK</a>, die Studentenredaktion der HAW Hamburg, wird ab April ebenfalls über
     die Wohnungsmarkt in Hamburg berichten.</p>"
 - title: Wie können Sie uns kontaktieren?
-  anchor: 9
+  anchor: 10
   text: <p>Wir sind in Hamburg vor Ort, um mit Ihnen ins Gespräch zu kommen. Dazu
     haben wir seit Mitte März einen Teil der CORRECTIV&ndash;Redaktion ins Herz der
     Stadt, nach St. Pauli, verlegt. Wir bieten dort Veranstaltungen mit Mietern, Stadtexperten
