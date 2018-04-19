@@ -104,7 +104,7 @@ presskit:
 - title: Ansprechpartner
   anchor: 6
   text: |-
-    <strong>Justus von Daniels</strong>
+    <strong>Justus von Daniels</strong><br>
     <i>Reporter CORRECTIV</i><br><br>
 
     Telefon: 030 555 7802 24<br>
