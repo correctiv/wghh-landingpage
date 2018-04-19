@@ -58,10 +58,10 @@ presskit:
     Vorsitzender des Mieterverein zu Hamburg.\n<br><br>\n„Wir wollen den Journalismus
     stärken. Ein Weg zu diesem Ziel ist es, den Journalismus zu öffnen und möglichst
     vielen Menschen die Methoden dahinter zu vermitteln. Diese Recherche über den
-    Hamburger Wohnungsmarkt ist wie so viele Recherchen für eine Redaktion alleine
-    nicht zu stemmen. Deswegen setzen wir auf Kooperation zwischen Journalisten und
-    Bürgern: für das Aufdecken von strukturellen Missständen sind viele Daten und
-    Hinweise notwendig.“, sagt Jonathan Sachse, Reporter von CORRECTIV. \n<br><br>\nCORRECTIV
+    Hamburger Wohnungsmarkt ist ,wie so viele Recherchen, für eine Redaktion alleine
+    nicht zu stemmen. Deswegen setzen wir auf eine Kooperation zwischen Journalisten
+    und Bürgern. Für das Aufdecken von strukturellen Missständen sind viele Daten
+    und Hinweise notwendig.“, sagt Jonathan Sachse, Reporter von CORRECTIV. \n<br><br>\nCORRECTIV
     ist das erste gemeinnützige Recherchezentrum in Deutschland. Die Journalisten
     arbeiten unabhängig und nicht-gewinnorientiert. Die Redaktion finanziert sich
     ausschließlich über Spenden und Mitgliedsbeiträge von Unterstützern. Ihr Anspruch:
