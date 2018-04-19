@@ -8,7 +8,7 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
-- title: 'Event: Wohnen als Grundbedürfnis'
+- title: 'Heute Event in St. Pauli: Wohnen als Grundbedürfnis'
   date: 2018-04-19 20:00:00 Z
   publisher: "@ GWA St. Pauli"
   image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F43465823%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C2160%2C1080&s=810191c42abc0d7b579b75ccb6b08a1d
