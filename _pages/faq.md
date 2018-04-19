@@ -72,9 +72,9 @@ faq:
 - title: Wollen wir Eigentümer bloßstellen?
   anchor: 5
   text: |-
-    Nein. Die Recherche zum Wohnungsmarkt in Hamburg ist ergebnisoffen. Wir greifen mit dieser Recherche nicht Privatpersonen und Firmen an, die Eigentum in Hamburg besitzen. Ganz im Gegenteil: Wir wollen sowohl mit Mietern als auch Eigentümern ins Gespräch kommen.
+    <p>Nein. Die Recherche zum Wohnungsmarkt in Hamburg ist ergebnisoffen. Wir greifen mit dieser Recherche nicht Privatpersonen und Firmen an, die Eigentum in Hamburg besitzen. Ganz im Gegenteil: Wir wollen sowohl mit Mietern als auch Eigentümern ins Gespräch kommen.</p>
 
-    Uns interessieren in erster Linie zwei Fragen: Welche Eigentümer beeinflussen maßgeblich den Wohnungsmarkt und welche Eigentümer handeln fragwürdig? Die Daten, die wir hier mit Hilfe der Bürger sammeln, geben uns Anhaltspunkte für weitere Recherchen. Später bei Veröffentlichungen werden wir die Namen von einzelnen Eigentümern nur nennen, wenn es ein berechtigtes öffentliches Interesse gibt. Bei CORRECTIV arbeiten erfahrene Journalisten, die seit Jahrzehnten bei jeder Veröffentlichung genau überlegen, ob es notwendig ist die Klarnamen von handelnden Personen und Firmen zu nennen.
+    <p>Uns interessieren in erster Linie zwei Fragen: Welche Eigentümer beeinflussen maßgeblich den Wohnungsmarkt und welche Eigentümer handeln fragwürdig? Die Daten, die wir hier mit Hilfe der Bürger sammeln, geben uns Anhaltspunkte für weitere Recherchen. Später bei Veröffentlichungen werden wir die Namen von einzelnen Eigentümern nur nennen, wenn es ein berechtigtes öffentliches Interesse gibt. Bei CORRECTIV arbeiten erfahrene Journalisten, die seit Jahrzehnten bei jeder Veröffentlichung genau überlegen, ob es notwendig ist die Klarnamen von handelnden Personen und Firmen zu nennen.</p>
 - title: Wie kann ich mitmachen?
   anchor: 6
   text: "<p>Die zentrale Frage ist&#58; Wer ist der Eigentümer meiner Wohnung? Sind
