@@ -108,6 +108,15 @@ presskit:
     <br><br>
     <strong>Alle Logos</strong><br>
     <a href="https://download.correctiv.org/wghh/logo.zip" target="blank">Download Zip-Datei</a>
+- title: Ansprechpartner
+  anchor: 6
+  text: |-
+    <strong>Justus von Daniels</strong>
+    <i>Reporter CORRECTIV</i><br><br>
+
+    Telefon: 030 555 7802 24<br>
+    E-Mail: justus.von.daniels(at)correctiv.org<br>
+    PGP Fingerabdruck: C3E2 C881 91F2 8099 3573 1936 AE91 3C1E 9E2F 482C
 wrapped: true
 main-classes: presskit
 layout: default
