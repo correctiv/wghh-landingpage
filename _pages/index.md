@@ -16,7 +16,7 @@ blog:
     Hamburg), Marc Meyer (Mieter helfen Mietern) und Rosemarie Oltmann (Wohnungsbaugenossenschaft
     Schanze eG).
   link: https://www.eventbrite.de/e/wem-gehort-hamburg-wohnen-als-grundbedurfnis-tickets-44913333991
-  hidden: false
+  hidden: 
 - title: Bezahlbare Mieten garantiert
   date: 2018-04-18 17:00:00 Z
   publisher: Correctiv
@@ -25,7 +25,7 @@ blog:
     entziehen. In Hamburg gibt es bisher nur sechs Projekte – auch weil die Stadt
     das Modell nicht fördert.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/18/bezahlbare-miete-garantiert/
-  hidden: 
+  hidden: false
 - title: 'Untreue: Mieter zeigen Hamburgs übelsten Vermieter an'
   date: 2018-04-18 10:00:00 Z
   publisher: Hamburger Abendblatt
