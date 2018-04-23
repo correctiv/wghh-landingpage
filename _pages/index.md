@@ -15,7 +15,7 @@ blog:
     sieht den Mieterschutz ausgehebelt. Was im Vertrag steht.
   image: https://img.abendblatt.de/img/hamburg/crop214078611/6142606163-w820-cv16_9-q85/Rappstrasse-18-20-0078.jpg
   link: https://www.abendblatt.de/nachrichten/article214078613/Staffelmiete-bis-2037-Der-etwas-andere-Mietvertrag.html
-  hidden: 
+  hidden: false
 - title: Bezahlbare Mieten garantiert
   date: 2018-04-18 17:00:00 Z
   publisher: Correctiv
