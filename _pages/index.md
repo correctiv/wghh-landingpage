@@ -8,14 +8,13 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
-- title: 'Heute Event in St. Pauli: Wohnen als Grundbedürfnis'
-  date: 2018-04-19 20:00:00 Z
-  publisher: "@ GWA St. Pauli"
-  image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F43465823%2F165001840999%2F1%2Foriginal.jpg?w=800&rect=0%2C0%2C2160%2C1080&s=810191c42abc0d7b579b75ccb6b08a1d
-  text: Bei einer Podiumsdiskussion sprechen wir mit Torsten Flomm (Grundeigentümer-Verband
-    Hamburg), Marc Meyer (Mieter helfen Mietern) und Rosemarie Oltmann (Wohnungsbaugenossenschaft
-    Schanze eG).
-  link: https://www.eventbrite.de/e/wem-gehort-hamburg-wohnen-als-grundbedurfnis-tickets-44913333991
+- title: 'Absurde Mietklauseln: Staffelmiete bis 2037'
+  date: 2018-04-21 00:00:00 Z
+  publisher: Hamburger Abendblatt
+  text: Studenten wohnen in Rotherbaum zu seltsamen Konditionen. Der Mieterverein
+    sieht den Mieterschutz ausgehebelt. Was im Vertrag steht.
+  image: https://img.abendblatt.de/img/hamburg/crop214078611/6142606163-w820-cv16_9-q85/Rappstrasse-18-20-0078.jpg
+  link: https://www.abendblatt.de/nachrichten/article214078613/Staffelmiete-bis-2037-Der-etwas-andere-Mietvertrag.html
   hidden: 
 - title: Bezahlbare Mieten garantiert
   date: 2018-04-18 17:00:00 Z
