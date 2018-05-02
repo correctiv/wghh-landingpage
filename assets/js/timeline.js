@@ -1,6 +1,6 @@
 var startDate = new Date("April 3, 2018");
 var endDate = new Date("June 18, 2018");
-var milestones = [new Date("April 5, 2018"),new Date("May 4, 2018"),new Date("June 16, 2018")];
+var milestones = [new Date("April 5, 2018"),new Date("May 12, 2018"),new Date("June 16, 2018")];
 var segments = ["Eigentümer erheben", "Daten auswerten"];
 var segmentWidth = [];
 var progressElem = document.getElementById("progressContainer");
