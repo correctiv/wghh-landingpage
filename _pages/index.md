@@ -8,6 +8,13 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
+- title: Stadt will Grundstücke verstärkt auf Erbpacht vergeben
+  date: 2018-05-05 10:00:00 Z
+  publisher: Hamburger Abendblatt
+  image: https://img.abendblatt.de/img/ratgeber/crop214198891/3532601122-w820-cv16_9-q85/5F992000B45DB238.jpg
+  text: Auf CORRECTIV-Veranstaltung diskutieren Entscheidungsträger aus der Immobilien-Branche.
+  link: https://www.abendblatt.de/hamburg/article214205931/Stadt-will-Grundstuecke-verstaerkt-auf-Erbpacht-vergeben.html
+  hidden: false
 - title: 'Absurde Mietklauseln: Staffelmiete bis 2037'
   date: 2018-04-21 00:00:00 Z
   publisher: Hamburger Abendblatt
@@ -24,14 +31,6 @@ blog:
     entziehen. In Hamburg gibt es bisher nur sechs Projekte – auch weil die Stadt
     das Modell nicht fördert.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/18/bezahlbare-miete-garantiert/
-  hidden: false
-- title: 'Untreue: Mieter zeigen Hamburgs übelsten Vermieter an'
-  date: 2018-04-18 10:00:00 Z
-  publisher: Hamburger Abendblatt
-  image: https://img.abendblatt.de/img/hamburg/crop214048719/6912607021-w820-cv16_9-q85/grindelallee210218-5.jpg
-  text: Chef des Mietervereins zu Hamburg ruft die Hamburger auf, beim Rechercheprojekt
-    mitzuwirken – zu ihrem eigenen Schutz.
-  link: https://www.abendblatt.de/hamburg/article214048721/Untreue-Mieter-zeigen-Hamburgs-uebelsten-Vermieter-an.html
   hidden: false
 - title: "„Machen Sie bitte, dass die Miete wieder runtergeht!“"
   date: 2018-04-13 00:00:00 Z
