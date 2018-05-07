@@ -8,6 +8,14 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
+- title: Hamburger Vermieter klagt an
+  date: 2018-05-07 00:00:00 Z
+  publisher: Hamburger Abendblatt
+  image: https://img.abendblatt.de/img/incoming/crop214220203/4452603199-w820-cv16_9-q85/mieten.jpg
+  text: Immobilienbesitzer berichtet von Problemen mit manchen Mietern – bis hin zu
+    Müllbergen nach Auszügen.
+  link: https://www.abendblatt.de/nachrichten/article214220233/Hamburger-Vermieter-klagt-an-Aerger-mit-jedem-vierten-Mieter.html
+  hidden: false
 - title: Stadt will Grundstücke verstärkt auf Erbpacht vergeben
   date: 2018-05-05 10:00:00 Z
   publisher: Hamburger Abendblatt
