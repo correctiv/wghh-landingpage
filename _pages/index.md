@@ -8,6 +8,28 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
+- title: "„Diese Wohnung ist meine Heimat“"
+  date: 2018-05-14 00:00:00 Z
+  publisher: CORRECTIV
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/d0/8e/d08e03aa-7358-477d-beef-330736361a20/mieterin110518-6.jpg__1280x700_q85_crop_subject_location-2571%2C1714_subsampling-2.jpg
+  text: Über die Angst, sich die Miete nicht mehr leisten zu können
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/05/14/diese-wohnung-ist-meine-heimat/
+  hidden: false
+- title: Wenn Untermieter in Hamburg zu Opfern werden
+  date: 2018-05-11 00:00:00 Z
+  publisher: Hamburger Abendblatt
+  image: https://img.abendblatt.de/img/hamburg/crop214255689/732260646-w820-cv16_9-q85/Untermieter-26.jpg
+  text: Ein Saga-Mieter vergab Zimmer zu hohen Preisen. Mindestens zehn Wohnungssuchende
+    fühlen sich nun um die Kaution geprellt.
+  link: https://www.abendblatt.de/nachrichten/article214255691/Wenn-Untermieter-zu-Opfern-werden.html
+  hidden: false
+- title: Stadt will Grundstücke verstärkt auf Erbpacht vergeben
+  date: 2018-05-08 10:00:00 Z
+  publisher: CORRECTIV
+  image: https://img.abendblatt.de/img/ratgeber/crop214198891/3532601122-w820-cv16_9-q85/5F992000B45DB238.jpg
+  text: Auf CORRECTIV-Veranstaltung diskutieren Entscheidungsträger aus der Immobilien-Branche.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/05/08/hamburg-will-ausverkauf-der-grundstucke-stoppen/
+  hidden: false
 - title: Hamburger Vermieter klagt an
   date: 2018-05-07 00:00:00 Z
   publisher: Hamburger Abendblatt
@@ -15,13 +37,6 @@ blog:
   text: Immobilienbesitzer berichtet von Problemen mit manchen Mietern – bis hin zu
     Müllbergen nach Auszügen.
   link: https://www.abendblatt.de/nachrichten/article214220233/Hamburger-Vermieter-klagt-an-Aerger-mit-jedem-vierten-Mieter.html
-  hidden: false
-- title: Stadt will Grundstücke verstärkt auf Erbpacht vergeben
-  date: 2018-05-05 10:00:00 Z
-  publisher: Hamburger Abendblatt
-  image: https://img.abendblatt.de/img/ratgeber/crop214198891/3532601122-w820-cv16_9-q85/5F992000B45DB238.jpg
-  text: Auf CORRECTIV-Veranstaltung diskutieren Entscheidungsträger aus der Immobilien-Branche.
-  link: https://www.abendblatt.de/hamburg/article214205931/Stadt-will-Grundstuecke-verstaerkt-auf-Erbpacht-vergeben.html
   hidden: false
 - title: 'Absurde Mietklauseln: Staffelmiete bis 2037'
   date: 2018-04-21 00:00:00 Z
@@ -47,14 +62,6 @@ blog:
   text: Mit welchen Methoden der Wohnungskonzern Vonovia in Hamburg-Steilshoop die
     Miete verdoppelt.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/12/machen-sie-bitte-dass-die-miete-wieder-runtergeht/
-  hidden: false
-- title: "„Wohnungsbau ist die beste Medizin“"
-  date: 2018-04-04 00:00:00 Z
-  publisher: CORRECTIV
-  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/2d/86/2d86b7a3-f70d-464d-b610-e4b7f9d9a9ac/_e2a8955.jpg__1280x700_q85_crop_subject_location-1920%2C1280_subsampling-2.jpg
-  text: Auf eine Veranstaltung zu unserer Bürgerrecherche diskutierten der Grüne EU-Abgeordnete
-    Sven Giegold und der Hamburger Wohnungsbaukoordinator Matthias Kock.
-  link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/04/wohnungsbau-ist-die-beste-medizin/
   hidden: false
 - title: Kampf um Altona
   date: 2018-03-09 08:00:00 Z
