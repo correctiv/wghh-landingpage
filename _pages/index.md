@@ -15,6 +15,14 @@ blog:
   text: Über die Angst, sich die Miete nicht mehr leisten zu können
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/05/14/diese-wohnung-ist-meine-heimat/
   hidden: false
+- title: Wie lebt es sich in Billstedt?
+  date: 2018-05-09 00:00:00 Z
+  publisher: FINK.Hamburg
+  image: "/uploads/Bildschirmfoto%202018-05-16%20um%2016.48.02-87320b.png"
+  text: 'Der Studentenblog FINK.Hamburg der HAW Hamburg war im Rahmen unserer Recherche
+    in Billstedt unterwegs und hat Menschen über ihre Mietsituation interviewt. '
+  link: https://fink.hamburg/2018/05/wie-wohnt-es-sich-in-billstedt/
+  hidden: 
 - title: Wenn Untermieter in Hamburg zu Opfern werden
   date: 2018-05-11 00:00:00 Z
   publisher: Hamburger Abendblatt
