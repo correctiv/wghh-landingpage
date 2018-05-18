@@ -22,7 +22,7 @@ blog:
   text: 'Der Studentenblog FINK.Hamburg der HAW Hamburg war im Rahmen unserer Recherche
     in Billstedt unterwegs und hat Menschen über ihre Mietsituation interviewt. '
   link: https://fink.hamburg/2018/05/wie-wohnt-es-sich-in-billstedt/
-  hidden: 
+  hidden: false
 - title: Wenn Untermieter in Hamburg zu Opfern werden
   date: 2018-05-11 00:00:00 Z
   publisher: Hamburger Abendblatt
