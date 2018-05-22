@@ -8,6 +8,13 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
+- title: Ein gefährlicher Balkon
+  date: 2018-05-22 10:00:00 Z
+  publisher: CORRECTIV
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/46/8f/468f0807-b64a-4789-b3dc-27acdde93f20/bundesstr-22.jpg__1280x700_q85_crop_subject_location-2464%2C1643_subsampling-2.jpg
+  text: Wie ein dänischer Fonds mit maroden Hamburger Häusern Rendite macht.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/05/22/ein-gefahrlicher-balkon/
+  hidden: false
 - title: "„Diese Wohnung ist meine Heimat“"
   date: 2018-05-14 00:00:00 Z
   publisher: CORRECTIV
@@ -37,14 +44,6 @@ blog:
   image: https://img.abendblatt.de/img/ratgeber/crop214198891/3532601122-w820-cv16_9-q85/5F992000B45DB238.jpg
   text: Auf CORRECTIV-Veranstaltung diskutieren Entscheidungsträger aus der Immobilien-Branche.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/05/08/hamburg-will-ausverkauf-der-grundstucke-stoppen/
-  hidden: false
-- title: Hamburger Vermieter klagt an
-  date: 2018-05-07 00:00:00 Z
-  publisher: Hamburger Abendblatt
-  image: https://img.abendblatt.de/img/incoming/crop214220203/4452603199-w820-cv16_9-q85/mieten.jpg
-  text: Immobilienbesitzer berichtet von Problemen mit manchen Mietern – bis hin zu
-    Müllbergen nach Auszügen.
-  link: https://www.abendblatt.de/nachrichten/article214220233/Hamburger-Vermieter-klagt-an-Aerger-mit-jedem-vierten-Mieter.html
   hidden: false
 - title: 'Absurde Mietklauseln: Staffelmiete bis 2037'
   date: 2018-04-21 00:00:00 Z
