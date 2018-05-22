@@ -25,7 +25,7 @@ blog:
 - title: Wie lebt es sich in Billstedt?
   date: 2018-05-09 00:00:00 Z
   publisher: FINK.Hamburg
-  image: "/uploads/Bildschirmfoto%202018-05-16%20um%2016.48.02-87320b.png"
+  image: https://wem-gehoert-hamburg.de/assets/images/5afd370c7c43bc484eec9e8d.png
   text: 'Der Studentenblog FINK.Hamburg der HAW Hamburg war im Rahmen unserer Recherche
     in Billstedt unterwegs und hat Menschen über ihre Mietsituation interviewt. '
   link: https://fink.hamburg/2018/05/wie-wohnt-es-sich-in-billstedt/
