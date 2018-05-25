@@ -109,15 +109,15 @@ Betroffene können zudem jederzeit ihre Auskunftsansprüche sowie Korrektur- und
 Sie können von uns eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden.
 
 Liegt eine solche Verarbeitung vor, können Sie von uns folgende Auskunft verlangen:
-*(1) die Zwecke, zu denen die personenbezogenen Daten verarbeitet werden;
-*(2) die Kategorien von personenbezogenen Daten, welche verarbeitet werden;
-*(3) die Empfänger bzw. die Kategorien von Empfängern, gegenüber denen Ihre personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;
-*(4) die geplante Dauer der Speicherung Ihrer personenbezogenen Daten oder, falls konkrete Angaben hierzu nicht möglich sind, Kriterien für die Festlegung der Speicherdauer;
-*(5) das Bestehen eines Rechts auf Berichtigung oder Löschung Ihrer personenbezogenen Daten, eines Rechts auf Einschränkung der Verarbeitung durch den
+* (1) die Zwecke, zu denen die personenbezogenen Daten verarbeitet werden;
+* (2) die Kategorien von personenbezogenen Daten, welche verarbeitet werden;
+* (3) die Empfänger bzw. die Kategorien von Empfängern, gegenüber denen Ihre personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;
+* (4) die geplante Dauer der Speicherung Ihrer personenbezogenen Daten oder, falls konkrete Angaben hierzu nicht möglich sind, Kriterien für die Festlegung der Speicherdauer;
+* (5) das Bestehen eines Rechts auf Berichtigung oder Löschung Ihrer personenbezogenen Daten, eines Rechts auf Einschränkung der Verarbeitung durch den
 Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung;
-*(6) das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
-*(7) alle verfügbaren Informationen über die Herkunft der Daten, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden;
-*(8) das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Art. 22 Abs. 1 und 4 DSGVO und – zumindest in diesen Fällen – aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person.
+* (6) das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
+* (7) alle verfügbaren Informationen über die Herkunft der Daten, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden;
+* (8) das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Art. 22 Abs. 1 und 4 DSGVO und – zumindest in diesen Fällen – aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person.
 
 Ihnen steht das Recht zu, Auskunft darüber zu verlangen, ob Ihre personenbezogenen Daten in ein Drittland oder an eine internationale Organisation übermittelt werden. In diesem Zusammenhang können Sie verlangen, dass Sie über die geeigneten Garantien gem. Art. 46 DSGVO im Zusammenhang mit der Übermittlung unterrichtet zu werdet.
 
@@ -125,10 +125,10 @@ Sie haben ein Recht auf Berichtigung und/oder Vervollständigung uns gegenüber
 
 Recht auf Einschränkung der Verarbeitung
 Unter den folgenden Voraussetzungen können Sie die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten verlangen:
-*(1) wenn ihr die Richtigkeit Ihrer personenbezogenen für eine Dauer bestreiten, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen;
-*(2) die Verarbeitung unrechtmäßig ist und ihr die Löschung der personenbezogenen Daten ablehnt und stattdessen die Einschränkung der Nutzung der personenbezogenen Daten verlangen;
-*(3) wir die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger benötigt, Sie diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen, oder
-*(4) wenn Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO eingelegt haben und noch nicht feststeht, ob unsere berechtigten Gründe gegenüber Ihren Gründen überwiegen.
+* (1) wenn ihr die Richtigkeit Ihrer personenbezogenen für eine Dauer bestreiten, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen;
+* (2) die Verarbeitung unrechtmäßig ist und ihr die Löschung der personenbezogenen Daten ablehnt und stattdessen die Einschränkung der Nutzung der personenbezogenen Daten verlangen;
+* (3) wir die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger benötigt, Sie diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen, oder
+* (4) wenn Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO eingelegt haben und noch nicht feststeht, ob unsere berechtigten Gründe gegenüber Ihren Gründen überwiegen.
 
 Wurde die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Union oder eines Mitgliedstaats verarbeitet werden.
 
@@ -136,20 +136,20 @@ Wurde die Einschränkung der Verarbeitung nach den o.g. Voraussetzungen eingesch
 
 Recht auf Löschung
 Sie können von uns verlangen, dass Ihre personenbezogenen Daten unverzüglich gelöscht werden, und wir sind verpflichtet, diese Daten unverzüglich zu löschen, sofern einer der folgenden Gründe zutrifft:
-*(1) Ihre personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig.
-*(2) Das widerrufen Ihrer Einwilligung, auf die sich die Verarbeitung gem. Art. 6 Abs. 1 lit. a oder Art. 9 Abs. 2 lit. a DSGVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung.
-*(3) Sie legen gem. Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder Sie legen gem. Art. 21 Abs. 2 DSGVO Widerspruch gegen die Verarbeitung ein.
-*(4) Ihre personenbezogenen Daten wurden unrechtmäßig verarbeitet.
-*(5) Die Löschung Ihrer personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.
-*(6) Ihre personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.
+* (1) Ihre personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig.
+* (2) Das widerrufen Ihrer Einwilligung, auf die sich die Verarbeitung gem. Art. 6 Abs. 1 lit. a oder Art. 9 Abs. 2 lit. a DSGVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung.
+* (3) Sie legen gem. Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder Sie legen gem. Art. 21 Abs. 2 DSGVO Widerspruch gegen die Verarbeitung ein.
+* (4) Ihre personenbezogenen Daten wurden unrechtmäßig verarbeitet.
+* (5) Die Löschung Ihrer personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.
+* (6) Ihre personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.
 
 Ausnahmen
 Das Recht auf Löschung besteht nicht, soweit die Verarbeitung erforderlich ist
-*(1) zur Ausübung des Rechts auf freie Meinungsäußerung und Information;
-*(2) zur Erfüllung einer rechtlichen Verpflichtung, die die Verarbeitung nach dem Recht der Union oder der Mitgliedstaaten, dem der Verantwortliche unterliegt, erfordert, oder zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde;
-*(3) aus Gründen des öffentlichen Interesses im Bereich der öffentlichen Gesundheit gemäß Art. 9 Abs. 2 lit. h und i sowie Art. 9 Abs. 3 DSGVO;
-*(4) für im öffentlichen Interesse liegende Archivzwecke, wissenschaftliche oder historische Forschungszwecke oder für statistische Zwecke gem. Art. 89 Abs. 1 DSGVO, soweit das unter Abschnitt a) genannte Recht voraussichtlich die Verwirklichung der Ziele dieser Verarbeitung unmöglich macht oder ernsthaft beeinträchtigt, oder 
-*(5) zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+* (1) zur Ausübung des Rechts auf freie Meinungsäußerung und Information;
+* (2) zur Erfüllung einer rechtlichen Verpflichtung, die die Verarbeitung nach dem Recht der Union oder der Mitgliedstaaten, dem der Verantwortliche unterliegt, erfordert, oder zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde;
+* (3) aus Gründen des öffentlichen Interesses im Bereich der öffentlichen Gesundheit gemäß Art. 9 Abs. 2 lit. h und i sowie Art. 9 Abs. 3 DSGVO;
+* (4) für im öffentlichen Interesse liegende Archivzwecke, wissenschaftliche oder historische Forschungszwecke oder für statistische Zwecke gem. Art. 89 Abs. 1 DSGVO, soweit das unter Abschnitt a) genannte Recht voraussichtlich die Verwirklichung der Ziele dieser Verarbeitung unmöglich macht oder ernsthaft beeinträchtigt, oder 
+* (5) zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
 Recht auf Unterrichtung
 Habt Sie das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung uns gegenüber geltend gemacht, sind wir verpflichtet, allen Empfängern, denen Ihre personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden. Ihnen steht uns gegenüber das Recht zu, über diese Empfänger unterrichtet zu werden.
