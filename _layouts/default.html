@@ -7,7 +7,7 @@ layout: compress
   {% include global/head.html %}
   <body class="{{ page.page-name }}-page">
     {% include components/header.html %}
-    <main class="{% unless page.nowrap %} spaced {% endunless %} {{ page.main-classes }}">
+    <main class="{% unless page.nowrap %} spaced {% endunless %} {{ page.main-classes }}" role="main">
     <div class="content">
       {{ content }}
     </div>

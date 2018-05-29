@@ -19,7 +19,7 @@
   </div>
 </div>
 {% assign footerlinks = site.pages | where: "type", "footer" %}
-<nav class="footer">
+<nav class="footer" role="navigation">
   <ul>
     {% for item in footerlinks %}
       <li><a href="{{item.permalink}}">{{item.nav-name}}</a></li>
