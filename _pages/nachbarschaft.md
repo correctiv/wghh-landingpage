@@ -3,7 +3,6 @@ title: Wem gehört Hamburg in Ihrer Nachbarschaft?
 permalink: "/nachbarschaft"
 page-hidden: true
 page-name: nachbarschaft
-type: header
 image: "/assets/images/wghh-teaser.jpg"
 description: Wem gehört Hamburg in Ihrer Nachbarschaft?
 hero:

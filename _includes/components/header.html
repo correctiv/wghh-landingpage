@@ -1,14 +1,13 @@
 <!-- Header -->
 {% assign headerlinks = site.pages | where: "type", "header" | sort : "nav-order" %}
 
-<div class="header">
+<div class="header" role="banner">
   <ul class="logos">
-    <li><a href="/"><img src="assets/images/headerlogos/correctiv.png" alt=""></a></li>
-    <li><a href="/"><img src="assets/images/headerlogos/mieterverein.png" alt=""></a></li>
-    <li><a href="/"><img src="assets/images/headerlogos/abendblatt.png" alt=""></a></li>
+    <li><a href="/" title="Start"><img src="assets/images/headerlogos/correctiv.png" alt="Correctiv Logo"></a></li>
+    <li><a href="/" title="Start"><img src="assets/images/headerlogos/mieterverein.png" alt="Miteverein Logo"></a></li>
+    <li><a href="/" title="Start"><img src="assets/images/headerlogos/abendblatt.png" alt="Abendblatt Logo"></a></li>
   </ul>
-  <ul class="navigation">
-
+  <ul class="navigation" role="navigation">
     {% for item in headerlinks %}
       <li><a href="{{item.permalink}}">{{item.nav-name}}</a></li>
     {% endfor %}
