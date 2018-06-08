@@ -8,6 +8,13 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
+- title: Genossenschaften legen ihre Wohnungen offen
+  date: 2018-06-08 11:00:00 Z
+  publisher: CORRECTIV
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/68/7e/687ee75f-19ea-4f89-8bbc-55f9453d961d/genossenschaft.jpg__1280x700_q85_crop_subject_location-1902%2C1268_subsampling-2.jpg
+  text: Reaktion auf Recherche von CORRECTIV und „Hamburger Abendblatt“.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/06/08/Genossenschaften-legen-ihre-Wohnungen-offen/
+  hidden: false
 - title: Ein gefährlicher Balkon
   date: 2018-05-22 10:00:00 Z
   publisher: CORRECTIV
@@ -61,13 +68,6 @@ blog:
     entziehen. In Hamburg gibt es bisher nur sechs Projekte – auch weil die Stadt
     das Modell nicht fördert.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/18/bezahlbare-miete-garantiert/
-  hidden: false
-- title: Genossenschaften legen ihre Wohnungen offen
-  date: 2018-06-08 11:00:00 Z
-  publisher: CORRECTIV
-  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/68/7e/687ee75f-19ea-4f89-8bbc-55f9453d961d/genossenschaft.jpg__1280x700_q85_crop_subject_location-1902%2C1268_subsampling-2.jpg
-  text: Reaktion auf Recherche von CORRECTIV und „Hamburger Abendblatt“.
-  link: https://correctiv.org/recherchen/wohnen/artikel/2018/06/08/Genossenschaften-legen-ihre-Wohnungen-offen/
   hidden: false
 - title: Kampf um Altona
   date: 2018-03-09 08:00:00 Z
