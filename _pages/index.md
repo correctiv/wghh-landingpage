@@ -62,13 +62,12 @@ blog:
     das Modell nicht fördert.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/18/bezahlbare-miete-garantiert/
   hidden: false
-- title: "„Machen Sie bitte, dass die Miete wieder runtergeht!“"
-  date: 2018-04-13 00:00:00 Z
+- title: Genossenschaften legen ihre Wohnungen offen
+  date: 2018-06-08 11:00:00 Z
   publisher: CORRECTIV
-  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/21/b0/21b059ce-93b6-45a9-882d-c3fdcbe5888f/mieteriniative.jpg__1280x700_q85_crop_subject_location-2304%2C1295_subsampling-2.jpg
-  text: Mit welchen Methoden der Wohnungskonzern Vonovia in Hamburg-Steilshoop die
-    Miete verdoppelt.
-  link: https://correctiv.org/recherchen/wohnen/artikel/2018/04/12/machen-sie-bitte-dass-die-miete-wieder-runtergeht/
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/68/7e/687ee75f-19ea-4f89-8bbc-55f9453d961d/genossenschaft.jpg__1280x700_q85_crop_subject_location-1902%2C1268_subsampling-2.jpg
+  text: Reaktion auf Recherche von CORRECTIV und „Hamburger Abendblatt“.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/06/08/Genossenschaften-legen-ihre-Wohnungen-offen/
   hidden: false
 - title: Kampf um Altona
   date: 2018-03-09 08:00:00 Z
