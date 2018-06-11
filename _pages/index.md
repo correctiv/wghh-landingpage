@@ -15,6 +15,15 @@ blog:
   text: Reaktion auf Recherche von CORRECTIV und „Hamburger Abendblatt“.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/06/08/Genossenschaften-legen-ihre-Wohnungen-offen/
   hidden: false
+- title: Es ist ein bischen wie Tetris spielen
+  date: 2018-06-07 00:00:00 Z
+  publisher: FINK.Hamburg
+  image: https://fink.hamburg/wp/wp-content/uploads/2018/05/Cantina-Fux-Ganz-696x464.jpg
+  text: Nach langem Kampf gegen Verdrängung hat ein Kollektiv aus Künstlern und Gewerbetreibenden
+    einen Ort für Kultur und Bildung geschaffen – zu günstigen Mieten. Die Stadt hat
+    ihnen das Grundstück verkauft.
+  link: https://fink.hamburg/2018/06/genossenschaft-fux-eg-in-der-viktoria-kaserne/
+  hidden: false
 - title: Ein gefährlicher Balkon
   date: 2018-05-22 10:00:00 Z
   publisher: CORRECTIV
