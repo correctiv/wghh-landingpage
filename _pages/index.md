@@ -19,9 +19,8 @@ blog:
   date: 2018-06-07 00:00:00 Z
   publisher: FINK.Hamburg
   image: https://fink.hamburg/wp/wp-content/uploads/2018/05/Cantina-Fux-Ganz-696x464.jpg
-  text: Nach langem Kampf gegen Verdrängung hat ein Kollektiv aus Künstlern und Gewerbetreibenden
-    einen Ort für Kultur und Bildung geschaffen – zu günstigen Mieten. Die Stadt hat
-    ihnen das Grundstück verkauft.
+  text: Nach langem Kampf gegen Verdrängung hat ein Kollektiv aus Künstlern einen
+    Ort für Kultur und Bildung geschaffen – zu günstigen Mieten.
   link: https://fink.hamburg/2018/06/genossenschaft-fux-eg-in-der-viktoria-kaserne/
   hidden: false
 - title: Ein gefährlicher Balkon
