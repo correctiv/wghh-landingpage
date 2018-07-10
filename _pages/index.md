@@ -8,6 +8,14 @@ type: header
 nav-order: 0
 image: "/assets/images/wghh-teaser.jpg"
 blog:
+- title: Eine Milliarde verschenkt
+  date: 2018-07-21 00:00:00 Z
+  publisher: Correctiv
+  image: "/uploads/sharedeal2.jpg__1280x700_q85_crop_subject_location-2448,1632_subsampling-2.jpg"
+  text: Der Plan war, einen Milliarden-Steuertrick für große Immobilien-Investoren
+    abzuschaffen. Wir beschreiben, warum die Politik gerade daran scheitert.
+  link: https://correctiv.org/recherchen/wohnen/artikel/2018/06/21/eine-milliarde-verschenkt/
+  hidden: false
 - title: Genossenschaften legen ihre Wohnungen offen
   date: 2018-06-08 11:00:00 Z
   publisher: CORRECTIV
