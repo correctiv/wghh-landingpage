@@ -11,7 +11,7 @@ blog:
 - title: Eine Milliarde verschenkt
   date: 2018-07-21 00:00:00 Z
   publisher: Correctiv
-  image: "/uploads/sharedeal2.jpg__1280x700_q85_crop_subject_location-2448,1632_subsampling-2.jpg"
+  image: https://correctiv.org/media/thumbnails/filer_public_thumbnails/30/4d/304d0da8-7ce9-4a5b-8b49-505bb7a707e8/sharedeal2.jpg__768x500_q85_crop_subject_location-2448%2C1632_subsampling-2.jpg
   text: Der Plan war, einen Milliarden-Steuertrick für große Immobilien-Investoren
     abzuschaffen. Wir beschreiben, warum die Politik gerade daran scheitert.
   link: https://correctiv.org/recherchen/wohnen/artikel/2018/06/21/eine-milliarde-verschenkt/
