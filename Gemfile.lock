@@ -47,7 +47,7 @@ DEPENDENCIES
   jekyll-seo-tag
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.3.0p0
 
 BUNDLED WITH
    1.16.1
