@@ -43,3 +43,11 @@ Building for production
 ```bash
 npm run build
 ```
+
+## Troubleshooting
+
+### Node Sass could not find a binding for your current environment: Linux 64-bit with Node.js 8.x
+
+```bash
+npm rebuild node-sass
+```
