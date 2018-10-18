@@ -1,6 +1,6 @@
 var startDate = new Date("April 3, 2018");
-var endDate = new Date("August 8, 2018");
-var milestones = [new Date("April 5, 2018"),new Date("June 6, 2018"),new Date("August 6, 2018")];
+var endDate = new Date("November 1, 2018");
+var milestones = [new Date("April 5, 2018"),new Date("June 6, 2018"),new Date("November 1, 2018")];
 var segments = ["Eigentümer erheben", "Daten auswerten (Einträge bleiben möglich)"];
 var segmentWidth = [];
 var progressElem = document.getElementById("progressContainer");
@@ -17,7 +17,15 @@ function loadProgressBar(){
   var today = new Date();
   var timeElapsed = today.getTime() - startDate.getTime();
   var timeElapsedPercentage = Math.round(timeElapsed / entirePeriod * 100);
-  progressElem.style.width = timeElapsedPercentage + '%';
+
+
+  if (today > endDate){
+    progressElem.style.width = '100%';
+  }
+
+  else {
+    progressElem.style.width = timeElapsedPercentage + '%';
+  }
 
   milestones.forEach( function(milestone) {
 
@@ -31,7 +39,6 @@ function loadProgressBar(){
     segmentWidth.push(milestonePosition);
   });
 
-
   // set segments
   segments.forEach( function(segment) {
     var segmentElem = document.createElement('div');
@@ -43,4 +50,5 @@ function loadProgressBar(){
     segmentElem.innerHTML = segment;
     segmentElem.style.width = segmentElemWidth + '%';
   });
+
 }
